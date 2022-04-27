@@ -1,0 +1,3445 @@
+,hhid,areaid,treatment,businessid,new_business_1,business_type_1,business_type_aggregate_1
+0,3,1,Treatment,1,0.0,toddy business,other
+1,4,1,Treatment,1,0.0,ice,other
+2,5,1,Treatment,1,0.0,kirana store,food/agr
+3,6,1,Treatment,1,0.0,food vender,food/agr
+4,7,1,Treatment,1,1.0,kirana store,food/agr
+5,7,1,Treatment,2,,,
+6,9,1,Treatment,1,0.0,floor mill,other
+7,9,1,Treatment,2,,tailoring,clothing
+8,10,1,Treatment,1,0.0,agriculture,food/agr
+9,13,1,Treatment,1,0.0,kirana store,food/agr
+10,24,1,Treatment,1,0.0,toddy business,other
+11,32,1,Treatment,1,0.0,hair cutting Sloane,other
+12,34,1,Treatment,1,0.0,toddy business,other
+13,34,1,Treatment,2,0.0,kirana store,food/agr
+14,35,1,Treatment,1,,,
+15,37,1,Treatment,1,0.0,real estate,other
+16,37,1,Treatment,2,0.0,tailoring,clothing
+17,38,1,Treatment,1,0.0,toddy business,other
+18,39,1,Treatment,1,,,
+19,41,1,Treatment,1,0.0,toddy business,other
+20,42,1,Treatment,1,,,
+21,46,1,Treatment,1,0.0,toddy business,other
+22,47,1,Treatment,1,,,
+23,50,1,Treatment,1,1.0,toddy business,other
+24,66,1,Treatment,1,1.0,tailoring,clothing
+25,73,1,Treatment,1,0.0,tailoring,clothing
+26,77,1,Treatment,1,0.0,other driving business,rickshaw/driving
+27,79,1,Treatment,1,0.0,rickshaw,rickshaw/driving
+28,79,1,Treatment,2,,,
+29,82,1,Treatment,1,0.0,livestock,other
+30,92,1,Treatment,1,0.0,internet,other
+31,100,2,Control,1,,,
+32,100,2,Control,2,0.0,chemicals,other
+33,107,2,Control,1,0.0,plastics business,other
+34,107,2,Control,2,0.0,food vender,food/agr
+35,107,2,Control,3,0.0,food vender,food/agr
+36,108,2,Control,1,0.0,kirana store,food/agr
+37,109,2,Control,1,,,
+38,111,2,Control,1,0.0,money transfer/photographer,other
+39,112,2,Control,1,0.0,vegetables,other
+40,115,2,Control,1,0.0,kirana store,food/agr
+41,124,2,Control,1,1.0,kirana store,food/agr
+42,125,2,Control,1,0.0,vegetables,other
+43,130,2,Control,1,0.0,kirana store,food/agr
+44,130,2,Control,2,0.0,kirana store,food/agr
+45,130,2,Control,3,0.0,kirana store,food/agr
+46,130,2,Control,4,0.0,kirana store,food/agr
+47,132,2,Control,1,1.0,food vender,food/agr
+48,137,2,Control,1,0.0,kirana store,food/agr
+49,138,2,Control,1,0.0,postal business,other
+50,139,2,Control,1,0.0,postal business,other
+51,141,2,Control,1,1.0,"tea, coffee",food/agr
+52,146,2,Control,1,0.0,tailoring,clothing
+53,147,2,Control,1,0.0,kirana store,food/agr
+54,148,2,Control,1,1.0,car repairing and sales,other
+55,150,2,Control,1,1.0,fish business,other
+56,151,2,Control,1,0.0,postal business,other
+57,152,2,Control,1,0.0,money transfer/photographer,other
+58,153,2,Control,1,0.0,postal business,other
+59,154,2,Control,1,0.0,money transfer/photographer,other
+60,155,2,Control,1,0.0,money transfer/photographer,other
+61,157,2,Control,1,0.0,toddy business,other
+62,157,2,Control,2,1.0,money transfer/photographer,other
+63,160,2,Control,1,0.0,real estate,other
+64,162,2,Control,1,0.0,postal business,other
+65,163,2,Control,1,0.0,postal business,other
+66,163,2,Control,2,,postal business,other
+67,163,2,Control,3,,postal business,other
+68,163,2,Control,4,0.0,pots business,other
+69,163,2,Control,5,1.0,palming,repair/construction
+70,165,2,Control,1,0.0,postal business,other
+71,166,2,Control,1,0.0,vegetables,other
+72,167,2,Control,1,0.0,tailoring,clothing
+73,168,2,Control,1,0.0,kirana store,food/agr
+74,171,2,Control,1,1.0,kirana store,food/agr
+75,176,2,Control,1,0.0,rickshaw,rickshaw/driving
+76,177,2,Control,1,0.0,money transfer/photographer,other
+77,178,2,Control,1,0.0,kirana store,food/agr
+78,182,2,Control,1,0.0,clothes seller,clothing
+79,190,3,Treatment,1,0.0,clothes seller,clothing
+80,192,3,Treatment,1,0.0,food vender,food/agr
+81,192,3,Treatment,2,,,
+82,193,3,Treatment,1,0.0,food vender,food/agr
+83,196,3,Treatment,1,0.0,ironing,clothing
+84,200,3,Treatment,1,0.0,other driving business,rickshaw/driving
+85,201,3,Treatment,1,0.0,food vender,food/agr
+86,203,3,Treatment,1,0.0,carpenter,repair/construction
+87,204,3,Treatment,1,0.0,rickshaw,rickshaw/driving
+88,210,3,Treatment,1,0.0,kirana store,food/agr
+89,218,3,Treatment,1,1.0,bicycle,other
+90,220,3,Treatment,1,0.0,kirana store,food/agr
+91,220,3,Treatment,2,0.0,coin box,other
+92,225,3,Treatment,1,0.0,ironing,clothing
+93,226,3,Treatment,1,0.0,brooms,other
+94,226,3,Treatment,2,0.0,brooms,other
+95,233,3,Treatment,1,0.0,photographer,other
+96,235,3,Treatment,1,0.0,all fruits selling,other
+97,236,3,Treatment,1,0.0,flower seller,other
+98,237,3,Treatment,1,0.0,tailoring,clothing
+99,237,3,Treatment,2,0.0,tailoring,clothing
+100,237,3,Treatment,3,,RMP doctor,other
+101,247,4,Treatment,1,0.0,rickshaw,rickshaw/driving
+102,247,4,Treatment,2,,,
+103,249,4,Treatment,1,1.0,tailoring,clothing
+104,250,2,Control,1,0.0,coconut business,other
+105,252,4,Treatment,1,0.0,kirana store,food/agr
+106,255,4,Treatment,1,0.0,tailoring,clothing
+107,263,4,Treatment,1,0.0,ironing,clothing
+108,273,4,Treatment,1,0.0,tailoring,clothing
+109,281,4,Treatment,1,0.0,manufacturing,other
+110,285,4,Treatment,1,0.0,"tea, coffee",food/agr
+111,299,4,Treatment,1,0.0,kirana store,food/agr
+112,330,5,Treatment,1,0.0,marriage decoration,other
+113,335,5,Treatment,1,0.0,milk,other
+114,342,6,Treatment,1,1.0,kirana store,food/agr
+115,344,6,Treatment,1,0.0,kirana store,food/agr
+116,346,6,Treatment,1,0.0,tailoring,clothing
+117,347,6,Treatment,1,0.0,florist,crafts/vendor
+118,351,6,Treatment,1,0.0,product vendor,crafts/vendor
+119,353,6,Treatment,1,0.0,kirana store,food/agr
+120,353,6,Treatment,2,0.0,communication,other
+121,353,6,Treatment,3,,kirana store,food/agr
+122,355,6,Treatment,1,0.0,waste paper business,other
+123,359,6,Treatment,1,0.0,ironing,clothing
+124,374,6,Treatment,1,1.0,pan shop,other
+125,377,6,Treatment,1,0.0,rickshaw,rickshaw/driving
+126,378,6,Treatment,1,0.0,tailoring,clothing
+127,394,6,Treatment,1,1.0,Cigarette,other
+128,397,6,Treatment,1,0.0,tailoring,clothing
+129,401,6,Treatment,1,0.0,fish business,other
+130,409,6,Treatment,1,0.0,flower seller,other
+131,411,6,Treatment,1,0.0,vegetables,other
+132,413,6,Treatment,1,1.0,vegetables,other
+133,414,6,Treatment,1,1.0,clothes seller,clothing
+134,415,6,Treatment,1,0.0,manufacturing,other
+135,415,6,Treatment,2,1.0,marriage decoration,other
+136,416,6,Treatment,1,0.0,tailoring,clothing
+137,417,6,Treatment,1,0.0,coin box,other
+138,420,6,Treatment,1,0.0,food vender,food/agr
+139,432,7,Control,1,0.0,other driving business,rickshaw/driving
+140,435,7,Control,1,0.0,tent house,other
+141,435,7,Control,2,,,
+142,435,7,Control,3,1.0,clothes seller,clothing
+143,445,7,Control,1,0.0,tailoring,clothing
+144,449,7,Control,1,,,
+145,455,7,Control,1,1.0,kirana store,food/agr
+146,455,7,Control,2,0.0,kirana store,food/agr
+147,461,7,Control,1,0.0,kirana store,food/agr
+148,461,7,Control,2,1.0,tailoring,clothing
+149,461,7,Control,3,0.0,,
+150,465,7,Control,1,1.0,kirana store,food/agr
+151,468,7,Control,1,1.0,other driving business,rickshaw/driving
+152,469,7,Control,1,,,
+153,471,7,Control,1,0.0,water supplier,other
+154,475,8,Control,1,0.0,rickshaw,rickshaw/driving
+155,476,8,Control,1,0.0,leaf vender,other
+156,477,8,Control,1,0.0,leaf vender,other
+157,478,8,Control,1,0.0,contractor,other
+158,478,8,Control,2,0.0,real estate,other
+159,482,8,Control,1,0.0,food vender,food/agr
+160,485,8,Control,1,0.0,kirana store,food/agr
+161,489,5,Treatment,1,1.0,tailoring,clothing
+162,500,8,Control,1,0.0,Electrician,other
+163,501,8,Control,1,1.0,food vender,food/agr
+164,504,8,Control,1,1.0,tailoring,clothing
+165,506,9,Control,1,0.0,contractor,other
+166,523,9,Control,1,0.0,other driving business,rickshaw/driving
+167,527,9,Control,1,0.0,plastics business,other
+168,527,9,Control,2,,,
+169,528,9,Control,1,0.0,kirana store,food/agr
+170,531,9,Control,1,0.0,tailoring,clothing
+171,535,9,Control,1,0.0,clothes seller,clothing
+172,537,9,Control,1,0.0,kirana store,food/agr
+173,538,9,Control,1,0.0,mechanics,repair/construction
+174,540,9,Control,1,1.0,communication,other
+175,541,9,Control,1,0.0,hair cutting Sloane,other
+176,562,9,Control,1,0.0,ironing,clothing
+177,562,9,Control,2,0.0,ironing,clothing
+178,563,9,Control,1,0.0,hair cutting Sloane,other
+179,567,9,Control,1,0.0,food vender,food/agr
+180,569,9,Control,1,0.0,communication,other
+181,572,9,Control,1,,,
+182,572,9,Control,2,0.0,food vender,food/agr
+183,573,9,Control,1,0.0,coin box,other
+184,573,9,Control,2,0.0,STD,other
+185,580,9,Control,1,1.0,toddy business,other
+186,581,9,Control,1,0.0,agriculture,food/agr
+187,594,12,Control,1,1.0,construction,repair/construction
+188,595,12,Control,1,0.0,vegetables,other
+189,599,12,Control,1,1.0,kirana store,food/agr
+190,604,12,Control,1,0.0,tailoring,clothing
+191,604,12,Control,2,1.0,clothes seller,clothing
+192,606,12,Control,1,1.0,kirana store,food/agr
+193,612,12,Control,1,0.0,bicycle,other
+194,613,12,Control,1,1.0,milk,other
+195,624,12,Control,1,0.0,food vender,food/agr
+196,626,12,Control,1,0.0,tailoring,clothing
+197,627,12,Control,1,0.0,kirana store,food/agr
+198,627,12,Control,2,0.0,coin box,other
+199,627,12,Control,3,0.0,tailoring,clothing
+200,630,12,Control,1,0.0,kirana store,food/agr
+201,632,10,Treatment,1,1.0,all fruits selling,other
+202,634,10,Treatment,1,0.0,agriculture,food/agr
+203,634,10,Treatment,2,,,
+204,635,10,Treatment,1,0.0,ironing,clothing
+205,638,10,Treatment,1,1.0,waste paper business,other
+206,638,10,Treatment,2,,,
+207,640,10,Treatment,1,0.0,toddy business,other
+208,641,10,Treatment,1,0.0,vegetables,other
+209,641,10,Treatment,2,0.0,rickshaw,rickshaw/driving
+210,643,10,Treatment,1,0.0,tailoring,clothing
+211,647,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+212,648,10,Treatment,1,0.0,waste paper business,other
+213,649,10,Treatment,1,0.0,tailoring,clothing
+214,656,10,Treatment,1,0.0,Cigarette,other
+215,657,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+216,659,10,Treatment,1,0.0,construction,repair/construction
+217,659,10,Treatment,2,0.0,tailoring,clothing
+218,659,10,Treatment,3,0.0,kirana store,food/agr
+219,660,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+220,662,10,Treatment,1,0.0,milk,other
+221,662,10,Treatment,2,0.0,rickshaw,rickshaw/driving
+222,671,10,Treatment,1,0.0,clothes seller,clothing
+223,672,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+224,676,10,Treatment,1,1.0,wood sale,other
+225,677,10,Treatment,1,0.0,food vender,food/agr
+226,677,10,Treatment,2,1.0,food vender,food/agr
+227,681,10,Treatment,1,0.0,food vender,food/agr
+228,682,10,Treatment,1,1.0,clothes seller,clothing
+229,687,10,Treatment,1,0.0,other driving business,rickshaw/driving
+230,687,10,Treatment,2,,,
+231,689,10,Treatment,1,,kirana store,food/agr
+232,689,10,Treatment,2,,Buffalos business,other
+233,689,10,Treatment,3,,,
+234,689,10,Treatment,4,,brick business,other
+235,689,10,Treatment,5,,rent,other
+236,691,10,Treatment,1,0.0,carpenter,repair/construction
+237,692,10,Treatment,1,0.0,tailoring,clothing
+238,695,10,Treatment,1,0.0,art/crafters,crafts/vendor
+239,697,10,Treatment,1,0.0,food vender,food/agr
+240,697,10,Treatment,2,0.0,rickshaw,rickshaw/driving
+241,704,10,Treatment,1,0.0,tailoring,clothing
+242,705,10,Treatment,1,0.0,brick business,other
+243,707,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+244,709,10,Treatment,1,,rickshaw,rickshaw/driving
+245,709,10,Treatment,2,,,
+246,710,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+247,711,11,Treatment,1,0.0,rickshaw,rickshaw/driving
+248,714,11,Treatment,1,0.0,other driving business,rickshaw/driving
+249,714,11,Treatment,2,,,
+250,717,11,Treatment,1,0.0,candle making,other
+251,719,11,Treatment,1,0.0,vegetables,other
+252,719,11,Treatment,2,0.0,kirana store,food/agr
+253,720,11,Treatment,1,0.0,kirana store,food/agr
+254,720,11,Treatment,2,,,
+255,720,11,Treatment,3,0.0,other driving business,rickshaw/driving
+256,729,11,Treatment,1,0.0,kirana store,food/agr
+257,730,11,Treatment,1,0.0,rickshaw,rickshaw/driving
+258,731,11,Treatment,1,1.0,all fruits selling,other
+259,736,11,Treatment,1,0.0,waste paper business,other
+260,738,11,Treatment,1,1.0,rickshaw,rickshaw/driving
+261,742,11,Treatment,1,0.0,kirana store,food/agr
+262,750,11,Treatment,1,0.0,kirana store,food/agr
+263,759,11,Treatment,1,0.0,kirana store,food/agr
+264,759,11,Treatment,2,0.0,STD,other
+265,760,11,Treatment,1,0.0,rickshaw,rickshaw/driving
+266,764,11,Treatment,1,0.0,tailoring,clothing
+267,764,11,Treatment,2,0.0,rickshaw,rickshaw/driving
+268,774,11,Treatment,1,0.0,kirana store,food/agr
+269,774,11,Treatment,2,0.0,tailoring,clothing
+270,781,13,Control,1,0.0,agriculture,food/agr
+271,781,13,Control,2,0.0,ice,other
+272,783,13,Control,1,0.0,tailoring,clothing
+273,784,13,Control,1,0.0,plastic glasses business,other
+274,784,13,Control,2,1.0,other driving business,rickshaw/driving
+275,784,13,Control,3,0.0,plastic glasses business,other
+276,792,13,Control,1,0.0,kirana store,food/agr
+277,796,13,Control,1,0.0,milk,other
+278,796,13,Control,2,0.0,tailoring,clothing
+279,798,13,Control,1,0.0,clothes seller,clothing
+280,801,13,Control,1,0.0,kirana store,food/agr
+281,801,13,Control,2,,,
+282,801,13,Control,3,,,
+283,802,14,Treatment,1,0.0,hotel,other
+284,811,14,Treatment,1,1.0,kirana store,food/agr
+285,819,19,Control,1,1.0,tailoring,clothing
+286,820,14,Treatment,1,1.0,kirana store,food/agr
+287,823,14,Treatment,1,,,
+288,823,14,Treatment,2,0.0,floor mill,other
+289,824,14,Treatment,1,0.0,gutka shop,other
+290,832,14,Treatment,1,0.0,rickshaw,rickshaw/driving
+291,835,14,Treatment,1,0.0,kirana store,food/agr
+292,843,14,Treatment,1,0.0,milk,other
+293,850,17,Control,1,0.0,vegetables,other
+294,850,17,Control,2,1.0,coin box,other
+295,854,17,Control,1,0.0,tailoring,clothing
+296,858,17,Control,1,0.0,mechanics,repair/construction
+297,859,17,Control,1,0.0,food vender,food/agr
+298,860,17,Control,1,0.0,food vender,food/agr
+299,864,17,Control,1,0.0,food vender,food/agr
+300,869,17,Control,1,,,
+301,874,17,Control,1,0.0,mechanics,repair/construction
+302,880,18,Treatment,1,0.0,tailoring,clothing
+303,882,18,Treatment,1,0.0,food vender,food/agr
+304,895,18,Treatment,1,1.0,hair cutting Sloane,other
+305,897,18,Treatment,1,0.0,product vendor,crafts/vendor
+306,912,18,Treatment,1,0.0,food vender,food/agr
+307,916,18,Treatment,1,0.0,tailoring,clothing
+308,924,18,Treatment,1,0.0,food vender,food/agr
+309,925,18,Treatment,1,0.0,tailoring,clothing
+310,935,18,Treatment,1,0.0,hair cutting Sloane,other
+311,948,18,Treatment,1,0.0,tailoring,clothing
+312,956,15,Control,1,0.0,kirana store,food/agr
+313,957,18,Treatment,1,0.0,ironing,clothing
+314,958,18,Treatment,1,0.0,tailoring,clothing
+315,959,18,Treatment,1,0.0,tailoring,clothing
+316,972,18,Treatment,1,0.0,rickshaw,rickshaw/driving
+317,973,18,Treatment,1,0.0,ironing,clothing
+318,974,18,Treatment,1,0.0,photographer,other
+319,974,18,Treatment,2,0.0,photographer,other
+320,979,15,Control,1,1.0,art/crafters,crafts/vendor
+321,994,8,Control,1,0.0,food vender,food/agr
+322,994,8,Control,2,,,
+323,995,15,Control,1,0.0,rickshaw,rickshaw/driving
+324,997,20,Treatment,1,0.0,kirana store,food/agr
+325,1011,20,Treatment,1,1.0,kirana store,food/agr
+326,1013,20,Treatment,1,0.0,other driving business,rickshaw/driving
+327,1014,20,Treatment,1,0.0,communication,other
+328,1017,14,Treatment,1,0.0,kirana store,food/agr
+329,1026,14,Treatment,1,0.0,tailoring,clothing
+330,1046,14,Treatment,1,0.0,hair cutting Sloane,other
+331,1049,14,Treatment,1,0.0,carpenter,repair/construction
+332,1050,14,Treatment,1,0.0,kirana store,food/agr
+333,1052,14,Treatment,1,0.0,kirana store,food/agr
+334,1052,14,Treatment,2,,,
+335,1057,21,Control,1,1.0,mechanics,repair/construction
+336,1058,21,Control,1,0.0,construction,repair/construction
+337,1058,21,Control,2,1.0,tailoring,clothing
+338,1060,21,Control,1,0.0,tailoring,clothing
+339,1061,21,Control,1,0.0,gutka shop,other
+340,1061,21,Control,2,,coin box,other
+341,1063,21,Control,1,0.0,tailoring,clothing
+342,1064,21,Control,1,0.0,rickshaw,rickshaw/driving
+343,1065,21,Control,1,0.0,hotel,other
+344,1065,21,Control,2,0.0,Cigarette,other
+345,1065,21,Control,3,0.0,coin box,other
+346,1088,16,Control,1,0.0,other driving business,rickshaw/driving
+347,1091,16,Control,1,0.0,tailoring,clothing
+348,1092,16,Control,1,1.0,rickshaw,rickshaw/driving
+349,1093,16,Control,1,,kirana store,food/agr
+350,1108,16,Control,1,0.0,pan shop,other
+351,1111,16,Control,1,1.0,other driving business,rickshaw/driving
+352,1111,16,Control,2,0.0,kirana store,food/agr
+353,1114,16,Control,1,0.0,other driving business,rickshaw/driving
+354,1120,16,Control,1,1.0,kirana store,food/agr
+355,1127,16,Control,1,0.0,material supplier,other
+356,1129,16,Control,1,0.0,food vender,food/agr
+357,1132,16,Control,1,1.0,tailoring,clothing
+358,1138,17,Control,1,0.0,goat business,other
+359,1138,17,Control,2,0.0,milk,other
+360,1141,17,Control,1,0.0,waste paper business,other
+361,1141,17,Control,2,0.0,food vender,food/agr
+362,1141,17,Control,3,0.0,coin box,other
+363,1141,17,Control,4,0.0,milk,other
+364,1143,17,Control,1,0.0,other driving business,rickshaw/driving
+365,1145,17,Control,1,0.0,kirana store,food/agr
+366,1145,17,Control,2,,coin box,other
+367,1147,21,Control,1,0.0,hair cutting Sloane,other
+368,1148,21,Control,1,0.0,mechanics,repair/construction
+369,1148,21,Control,2,0.0,leaf vender,other
+370,1148,21,Control,3,0.0,coin box,other
+371,1149,21,Control,1,0.0,transport,other
+372,1149,21,Control,2,1.0,clothes seller,clothing
+373,1149,21,Control,3,1.0,bags selling,other
+374,1149,21,Control,4,1.0,Footwear,other
+375,1150,21,Control,1,0.0,transport,other
+376,1151,21,Control,1,0.0,transport,other
+377,1152,21,Control,1,0.0,construction,repair/construction
+378,1153,21,Control,1,0.0,ironing,clothing
+379,1154,21,Control,1,0.0,mechanics,repair/construction
+380,1155,21,Control,1,0.0,zinger business,other
+381,1158,21,Control,1,0.0,leaf vender,other
+382,1165,21,Control,1,0.0,Electrician,other
+383,1186,16,Control,1,0.0,tent house,other
+384,1187,16,Control,1,0.0,kirana store,food/agr
+385,1188,16,Control,1,0.0,tailoring,clothing
+386,1196,16,Control,1,0.0,other driving business,rickshaw/driving
+387,1203,21,Control,1,0.0,beautician,other
+388,1203,21,Control,2,0.0,food vender,food/agr
+389,1203,21,Control,3,,,
+390,1204,21,Control,1,0.0,ayurvedic medicine,other
+391,1205,21,Control,1,0.0,glass fitting,other
+392,1206,21,Control,1,0.0,leaf vender,other
+393,1207,21,Control,1,0.0,papad selling,other
+394,1208,21,Control,1,0.0,gas cutting,other
+395,1209,21,Control,1,0.0,welding shop,other
+396,1210,21,Control,1,0.0,Lic agent,other
+397,1211,17,Control,1,0.0,kirana store,food/agr
+398,1218,15,Control,1,0.0,mechanics,repair/construction
+399,1223,23,Treatment,1,0.0,contractor,other
+400,1224,23,Treatment,1,0.0,tailoring,clothing
+401,1231,23,Treatment,1,0.0,tailoring,clothing
+402,1247,23,Treatment,1,0.0,clothes seller,clothing
+403,1249,19,Control,1,0.0,tailoring,clothing
+404,1251,19,Control,1,0.0,real estate,other
+405,1252,19,Control,1,1.0,milk,other
+406,1254,19,Control,1,0.0,all fruits selling,other
+407,1255,19,Control,1,0.0,tailoring,clothing
+408,1256,19,Control,1,0.0,product vendor,crafts/vendor
+409,1257,19,Control,1,1.0,tailoring,clothing
+410,1258,19,Control,1,0.0,contractor,other
+411,1258,19,Control,2,0.0,tailoring,clothing
+412,1260,19,Control,1,1.0,ration shop,other
+413,1261,19,Control,1,0.0,hair cutting Sloane,other
+414,1263,19,Control,1,0.0,tailoring,clothing
+415,1265,19,Control,1,0.0,vegetables,other
+416,1266,19,Control,1,0.0,kirana store,food/agr
+417,1266,19,Control,2,1.0,coin box,other
+418,1267,19,Control,1,1.0,material supplier,other
+419,1268,19,Control,1,1.0,kirana store,food/agr
+420,1268,19,Control,2,1.0,coin box,other
+421,1323,22,Treatment,1,0.0,tailoring,clothing
+422,1324,22,Treatment,1,0.0,coconut business,other
+423,1325,22,Treatment,1,0.0,ironing,clothing
+424,1327,22,Treatment,1,0.0,food vender,food/agr
+425,1328,22,Treatment,1,0.0,kirana store,food/agr
+426,1329,22,Treatment,1,0.0,tailoring,clothing
+427,1355,24,Treatment,1,0.0,kirana store,food/agr
+428,1355,24,Treatment,2,0.0,coin box,other
+429,1356,24,Treatment,1,1.0,kirana store,food/agr
+430,1356,24,Treatment,2,1.0,coin box,other
+431,1357,24,Treatment,1,0.0,transport,other
+432,1430,25,Treatment,1,,,
+433,1430,25,Treatment,2,0.0,communication,other
+434,1433,25,Treatment,1,1.0,kirana store,food/agr
+435,1433,25,Treatment,2,,,
+436,1433,25,Treatment,3,,,
+437,1437,25,Treatment,1,1.0,clothes seller,clothing
+438,1437,25,Treatment,2,0.0,tailoring,clothing
+439,1438,25,Treatment,1,0.0,food vender,food/agr
+440,1439,25,Treatment,1,1.0,product vendor,crafts/vendor
+441,1439,25,Treatment,2,,,
+442,1440,25,Treatment,1,0.0,tailoring,clothing
+443,1440,25,Treatment,2,,,
+444,1442,25,Treatment,1,0.0,tailoring,clothing
+445,1443,25,Treatment,1,0.0,food vender,food/agr
+446,1447,25,Treatment,1,1.0,kirana store,food/agr
+447,1449,25,Treatment,1,0.0,rickshaw,rickshaw/driving
+448,1451,25,Treatment,1,0.0,ironing,clothing
+449,1452,25,Treatment,1,0.0,product vendor,crafts/vendor
+450,1453,25,Treatment,1,,,
+451,1453,25,Treatment,2,0.0,communication,other
+452,1454,25,Treatment,1,0.0,tailoring,clothing
+453,1456,25,Treatment,1,0.0,rickshaw,rickshaw/driving
+454,1458,25,Treatment,1,0.0,rickshaw,rickshaw/driving
+455,1458,25,Treatment,2,,,
+456,1458,25,Treatment,3,,,
+457,1459,25,Treatment,1,0.0,kirana store,food/agr
+458,1463,26,Treatment,1,0.0,toddy business,other
+459,1464,26,Treatment,1,0.0,vegetables,other
+460,1464,26,Treatment,2,0.0,cool drink,other
+461,1464,26,Treatment,3,0.0,kirana store,food/agr
+462,1464,26,Treatment,4,0.0,coin box,other
+463,1464,26,Treatment,5,0.0,milk,other
+464,1465,26,Treatment,1,0.0,transport,other
+465,1466,26,Treatment,1,0.0,vegetables,other
+466,1471,26,Treatment,1,0.0,kirana store,food/agr
+467,1472,26,Treatment,1,1.0,transport,other
+468,1473,26,Treatment,1,0.0,transport,other
+469,1474,26,Treatment,1,1.0,ironing,clothing
+470,1477,26,Treatment,1,1.0,carpenter,repair/construction
+471,1480,26,Treatment,1,0.0,priest,other
+472,1481,26,Treatment,1,0.0,tailoring,clothing
+473,1482,26,Treatment,1,1.0,transport,other
+474,1483,26,Treatment,1,0.0,kirana store,food/agr
+475,1483,26,Treatment,2,1.0,coin box,other
+476,1483,26,Treatment,3,0.0,vegetables,other
+477,1484,26,Treatment,1,0.0,transport,other
+478,1485,26,Treatment,1,1.0,vegetables,other
+479,1487,26,Treatment,1,0.0,coin box,other
+480,1487,26,Treatment,2,0.0,kirana store,food/agr
+481,1490,26,Treatment,1,1.0,coin box,other
+482,1491,26,Treatment,1,0.0,vegetables,other
+483,1492,26,Treatment,1,0.0,tailoring,clothing
+484,1493,26,Treatment,1,0.0,rickshaw,rickshaw/driving
+485,1494,26,Treatment,1,0.0,transport,other
+486,1495,26,Treatment,1,0.0,rickshaw,rickshaw/driving
+487,1498,26,Treatment,1,0.0,flower seller,other
+488,1508,26,Treatment,1,,,
+489,1541,27,Treatment,1,0.0,tailoring,clothing
+490,1543,27,Treatment,1,0.0,transport,other
+491,1544,27,Treatment,1,0.0,kirana store,food/agr
+492,1550,27,Treatment,1,0.0,tailoring,clothing
+493,1552,27,Treatment,1,0.0,STD,other
+494,1565,27,Treatment,1,0.0,kirana store,food/agr
+495,1565,27,Treatment,2,0.0,coin box,other
+496,1570,27,Treatment,1,1.0,ironing,clothing
+497,1576,27,Treatment,1,0.0,vegetables,other
+498,1577,27,Treatment,1,0.0,tailoring,clothing
+499,1578,27,Treatment,1,0.0,kirana store,food/agr
+500,1579,27,Treatment,1,0.0,transport,other
+501,1581,27,Treatment,1,0.0,floor mill,other
+502,1582,27,Treatment,1,1.0,kirana store,food/agr
+503,1582,27,Treatment,2,1.0,ayurvedic medicine,other
+504,1586,27,Treatment,1,0.0,construction,repair/construction
+505,1587,27,Treatment,1,1.0,tailoring,clothing
+506,1630,28,Treatment,1,0.0,transport,other
+507,1632,28,Treatment,1,0.0,clothes seller,clothing
+508,1632,28,Treatment,2,1.0,vegetables,other
+509,1633,28,Treatment,1,0.0,transport,other
+510,1634,28,Treatment,1,1.0,tailoring,clothing
+511,1635,28,Treatment,1,0.0,gutka shop,other
+512,1635,28,Treatment,2,0.0,coin box,other
+513,1636,28,Treatment,1,1.0,entertainment,other
+514,1637,28,Treatment,1,0.0,carpenter,repair/construction
+515,1680,28,Treatment,1,0.0,hair cutting Sloane,other
+516,1681,28,Treatment,1,0.0,RMP doctor,other
+517,1682,28,Treatment,1,0.0,transport,other
+518,1683,28,Treatment,1,0.0,ironing,clothing
+519,1684,28,Treatment,1,0.0,milk,other
+520,1685,28,Treatment,1,0.0,vegetables,other
+521,1686,28,Treatment,1,1.0,kirana store,food/agr
+522,1687,28,Treatment,1,0.0,automobile,other
+523,1688,28,Treatment,1,0.0,ironing,clothing
+524,1689,28,Treatment,1,0.0,hair cutting Sloane,other
+525,1690,28,Treatment,1,1.0,contractor,other
+526,1691,28,Treatment,1,0.0,tailoring,clothing
+527,1692,28,Treatment,1,1.0,milk,other
+528,1693,28,Treatment,1,1.0,kirana store,food/agr
+529,1694,28,Treatment,1,0.0,goldsmith,other
+530,1695,28,Treatment,1,0.0,mirchi bandi,other
+531,1696,28,Treatment,1,0.0,hair cutting Sloane,other
+532,1697,28,Treatment,1,0.0,tailoring,clothing
+533,1698,28,Treatment,1,0.0,tailoring,clothing
+534,1699,28,Treatment,1,0.0,vegetables,other
+535,1700,28,Treatment,1,0.0,ironing,clothing
+536,1703,30,Control,1,0.0,carpenter,repair/construction
+537,1703,30,Control,2,0.0,tailoring,clothing
+538,1705,30,Control,1,0.0,tailoring,clothing
+539,1705,30,Control,2,,goat business,other
+540,1706,30,Control,1,0.0,clothes seller,clothing
+541,1706,30,Control,2,0.0,carpenter,repair/construction
+542,1707,30,Control,1,0.0,tailoring,clothing
+543,1707,30,Control,2,0.0,real estate,other
+544,1708,30,Control,1,0.0,construction,repair/construction
+545,1708,30,Control,2,0.0,papad selling,other
+546,1709,30,Control,1,0.0,kirana store,food/agr
+547,1709,30,Control,2,0.0,tailoring,clothing
+548,1710,30,Control,1,0.0,kirana store,food/agr
+549,1710,30,Control,2,0.0,milk,other
+550,1710,30,Control,3,0.0,wet grinder business,other
+551,1710,30,Control,4,0.0,coin box,other
+552,1710,30,Control,5,0.0,tailoring,clothing
+553,1710,30,Control,6,0.0,painting,other
+554,1712,30,Control,1,0.0,all fruits selling,other
+555,1713,30,Control,1,,all fruits selling,other
+556,1714,30,Control,1,0.0,painting,other
+557,1715,30,Control,1,0.0,gutka shop,other
+558,1716,30,Control,1,0.0,Electrician,other
+559,1717,30,Control,1,1.0,carpenter,repair/construction
+560,1719,30,Control,1,0.0,electronic,other
+561,1720,30,Control,1,0.0,ironing,clothing
+562,1721,30,Control,1,0.0,carpenter,repair/construction
+563,1722,30,Control,1,0.0,carpenter,repair/construction
+564,1723,30,Control,1,0.0,Electrician,other
+565,1724,30,Control,1,0.0,transport,other
+566,1725,30,Control,1,0.0,mirchi bandi,other
+567,1726,30,Control,1,0.0,kirana store,food/agr
+568,1726,30,Control,2,,coin box,other
+569,1726,30,Control,3,0.0,milk,other
+570,1727,30,Control,1,1.0,kirana store,food/agr
+571,1728,30,Control,1,0.0,clothes seller,clothing
+572,1729,30,Control,1,0.0,kirana store,food/agr
+573,1729,30,Control,2,1.0,coin box,other
+574,1729,30,Control,3,0.0,vegetables,other
+575,1730,30,Control,1,0.0,toddy business,other
+576,1732,30,Control,1,0.0,kirana store,food/agr
+577,1733,30,Control,1,0.0,kirana store,food/agr
+578,1733,30,Control,2,0.0,coin box,other
+579,1735,30,Control,1,0.0,goat business,other
+580,1737,30,Control,1,0.0,tailoring,clothing
+581,1786,29,Treatment,1,0.0,tailoring,clothing
+582,1787,29,Treatment,1,0.0,transport,other
+583,1788,29,Treatment,1,0.0,kirana store,food/agr
+584,1788,29,Treatment,2,0.0,coin box,other
+585,1788,29,Treatment,3,0.0,coin box,other
+586,1789,29,Treatment,1,0.0,kirana store,food/agr
+587,1789,29,Treatment,2,0.0,coin box,other
+588,1790,29,Treatment,1,1.0,tailoring,clothing
+589,1792,29,Treatment,1,0.0,construction,repair/construction
+590,1793,29,Treatment,1,0.0,milk,other
+591,1794,29,Treatment,1,1.0,kirana store,food/agr
+592,1794,29,Treatment,2,1.0,coin box,other
+593,1795,29,Treatment,1,0.0,floor mill,other
+594,1795,29,Treatment,2,1.0,wet grinder business,other
+595,1796,29,Treatment,1,0.0,milk,other
+596,1797,29,Treatment,1,0.0,clothes seller,clothing
+597,1798,29,Treatment,1,0.0,tailoring,clothing
+598,1800,29,Treatment,1,0.0,tailoring,clothing
+599,1801,29,Treatment,1,0.0,"sand, bricks",other
+600,1802,29,Treatment,1,0.0,baskets,other
+601,1803,29,Treatment,1,0.0,vegetables,other
+602,1804,29,Treatment,1,0.0,tailoring,clothing
+603,1805,29,Treatment,1,0.0,finance,other
+604,1805,29,Treatment,2,0.0,real estate,other
+605,1806,29,Treatment,1,0.0,contractor,other
+606,1818,29,Treatment,1,,,
+607,1818,29,Treatment,2,0.0,"tea, coffee",food/agr
+608,1848,29,Treatment,1,0.0,tailoring,clothing
+609,1850,29,Treatment,1,1.0,kirana store,food/agr
+610,1850,29,Treatment,2,1.0,coin box,other
+611,1851,19,Control,1,1.0,kirana store,food/agr
+612,1860,22,Treatment,1,0.0,tailoring,clothing
+613,1861,22,Treatment,1,0.0,transport,other
+614,1861,22,Treatment,2,0.0,transport,other
+615,1862,22,Treatment,1,0.0,coconut business,other
+616,1871,22,Treatment,1,1.0,kirana store,food/agr
+617,1874,27,Treatment,1,1.0,kirana store,food/agr
+618,1878,27,Treatment,1,0.0,kirana store,food/agr
+619,1890,27,Treatment,1,0.0,kirana store,food/agr
+620,1890,27,Treatment,2,0.0,kirana store,food/agr
+621,1891,27,Treatment,1,0.0,kirana store,food/agr
+622,1892,27,Treatment,1,0.0,kirana store,food/agr
+623,1892,27,Treatment,2,0.0,coin box,other
+624,1893,27,Treatment,1,0.0,waste paper business,other
+625,1895,27,Treatment,1,0.0,kirana store,food/agr
+626,1895,27,Treatment,2,0.0,tailoring,clothing
+627,1896,27,Treatment,1,0.0,tailoring,clothing
+628,1898,27,Treatment,1,0.0,goldsmith,other
+629,1898,27,Treatment,2,1.0,kirana store,food/agr
+630,1902,31,Treatment,1,0.0,centering,other
+631,1902,31,Treatment,2,0.0,tailoring,clothing
+632,1903,31,Treatment,1,0.0,tailoring,clothing
+633,1903,31,Treatment,2,0.0,"sand, bricks",other
+634,1904,31,Treatment,1,0.0,,
+635,1907,31,Treatment,1,0.0,transport,other
+636,1908,31,Treatment,1,0.0,foot-ware,other
+637,1908,31,Treatment,2,,,
+638,1909,31,Treatment,1,0.0,"sand, bricks",other
+639,1910,31,Treatment,1,,ironing,clothing
+640,1915,31,Treatment,1,,,
+641,1926,32,Control,1,0.0,kirana store,food/agr
+642,1926,32,Control,2,0.0,coin box,other
+643,1926,32,Control,3,0.0,carpenter,repair/construction
+644,1931,32,Control,1,0.0,kirana store,food/agr
+645,1932,32,Control,1,0.0,transport,other
+646,1933,32,Control,1,0.0,kirana store,food/agr
+647,1933,32,Control,2,0.0,coin box,other
+648,1934,32,Control,1,0.0,other driving business,rickshaw/driving
+649,1935,32,Control,1,0.0,ironing,clothing
+650,1937,32,Control,1,0.0,kirana store,food/agr
+651,1937,32,Control,2,0.0,milk,other
+652,1937,32,Control,3,0.0,cool drink,other
+653,1938,32,Control,1,0.0,papad selling,other
+654,1939,32,Control,1,0.0,"tea, coffee",food/agr
+655,1940,32,Control,1,0.0,tailoring,clothing
+656,1942,32,Control,1,0.0,tailoring,clothing
+657,1945,32,Control,1,0.0,tailoring,clothing
+658,1950,32,Control,1,,,
+659,2014,33,Treatment,1,0.0,kirana store,food/agr
+660,2014,33,Treatment,2,0.0,floor mill,other
+661,2015,33,Treatment,1,0.0,tailoring,clothing
+662,2016,33,Treatment,1,0.0,transport,other
+663,2017,33,Treatment,1,1.0,kirana store,food/agr
+664,2017,33,Treatment,2,1.0,coin box,other
+665,2018,33,Treatment,1,0.0,kirana store,food/agr
+666,2018,33,Treatment,2,0.0,coin box,other
+667,2019,33,Treatment,1,,kirana store,food/agr
+668,2019,33,Treatment,2,,milk,other
+669,2019,33,Treatment,3,,coin box,other
+670,2020,33,Treatment,1,0.0,clothes seller,clothing
+671,2020,33,Treatment,2,,,
+672,2023,40,Control,1,0.0,tailoring,clothing
+673,2024,40,Control,1,0.0,kirana store,food/agr
+674,2024,40,Control,2,,,
+675,2025,40,Control,1,0.0,flower seller,other
+676,2027,40,Control,1,0.0,centering,other
+677,2057,40,Control,1,0.0,hair cutting Sloane,other
+678,2058,40,Control,1,0.0,hair cutting Sloane,other
+679,2059,40,Control,1,1.0,Tiffin center,other
+680,2060,40,Control,1,0.0,bags selling,other
+681,2061,40,Control,1,0.0,tailoring,clothing
+682,2062,40,Control,1,0.0,bags selling,other
+683,2062,40,Control,2,1.0,kirana store,food/agr
+684,2063,40,Control,1,0.0,contractor,other
+685,2065,40,Control,1,0.0,finance,other
+686,2066,40,Control,1,0.0,bags selling,other
+687,2067,40,Control,1,0.0,ironing,clothing
+688,2068,40,Control,1,0.0,transport,other
+689,2069,40,Control,1,0.0,clothes seller,clothing
+690,2069,40,Control,2,,,
+691,2072,40,Control,1,0.0,Tiffin center,other
+692,2073,40,Control,1,0.0,hair cutting Sloane,other
+693,2074,40,Control,1,0.0,kirana store,food/agr
+694,2075,40,Control,1,0.0,kirana store,food/agr
+695,2076,40,Control,1,0.0,contractor,other
+696,2077,41,Treatment,1,0.0,agriculture,food/agr
+697,2079,41,Treatment,1,0.0,milk,other
+698,2084,41,Treatment,1,0.0,agriculture,food/agr
+699,2084,41,Treatment,2,0.0,milk,other
+700,2085,41,Treatment,1,0.0,hair cutting Sloane,other
+701,2086,41,Treatment,1,0.0,tailoring,clothing
+702,2087,41,Treatment,1,0.0,ironing,clothing
+703,2088,41,Treatment,1,0.0,agriculture,food/agr
+704,2088,41,Treatment,2,0.0,milk,other
+705,2089,41,Treatment,1,0.0,transport,other
+706,2091,41,Treatment,1,0.0,agriculture,food/agr
+707,2091,41,Treatment,2,1.0,milk,other
+708,2092,41,Treatment,1,0.0,kirana store,food/agr
+709,2092,41,Treatment,2,0.0,milk,other
+710,2092,41,Treatment,3,0.0,clothes seller,clothing
+711,2092,41,Treatment,4,0.0,bangles,other
+712,2096,41,Treatment,1,0.0,goat business,other
+713,2097,41,Treatment,1,1.0,milk,other
+714,2098,41,Treatment,1,0.0,toddy business,other
+715,2100,41,Treatment,1,1.0,milk,other
+716,2101,41,Treatment,1,0.0,agriculture,food/agr
+717,2101,41,Treatment,2,0.0,milk,other
+718,2102,41,Treatment,1,0.0,milk,other
+719,2103,41,Treatment,1,0.0,milk,other
+720,2103,41,Treatment,2,0.0,agriculture,food/agr
+721,2104,41,Treatment,1,0.0,milk,other
+722,2109,41,Treatment,1,0.0,agriculture,food/agr
+723,2111,41,Treatment,1,0.0,milk,other
+724,2112,41,Treatment,1,0.0,milk,other
+725,2112,41,Treatment,2,,,
+726,2112,41,Treatment,3,0.0,toddy business,other
+727,2113,41,Treatment,1,0.0,mechanics,repair/construction
+728,2114,41,Treatment,1,0.0,toddy business,other
+729,2115,41,Treatment,1,,agriculture,food/agr
+730,2117,41,Treatment,1,0.0,tailoring,clothing
+731,2119,41,Treatment,1,0.0,milk,other
+732,2119,41,Treatment,2,0.0,agriculture,food/agr
+733,2122,41,Treatment,1,0.0,carpenter,repair/construction
+734,2155,34,Control,1,0.0,internet,other
+735,2155,34,Control,2,0.0,transport,other
+736,2156,34,Control,1,0.0,construction,repair/construction
+737,2171,34,Control,1,1.0,kirana store,food/agr
+738,2171,34,Control,2,1.0,coin box,other
+739,2171,34,Control,3,1.0,vegetables,other
+740,2173,34,Control,1,0.0,agriculture,food/agr
+741,2175,34,Control,1,0.0,foot-ware,other
+742,2189,34,Control,1,0.0,tailoring,clothing
+743,2189,34,Control,2,0.0,clothes seller,clothing
+744,2192,34,Control,1,0.0,hair cutting Sloane,other
+745,2203,34,Control,1,0.0,tailoring,clothing
+746,2203,34,Control,2,,,
+747,2217,35,Treatment,1,0.0,kirana store,food/agr
+748,2217,35,Treatment,2,0.0,milk,other
+749,2217,35,Treatment,3,0.0,vegetables,other
+750,2218,35,Treatment,1,0.0,hair cutting Sloane,other
+751,2225,35,Treatment,1,0.0,transport,other
+752,2226,35,Treatment,1,0.0,kirana store,food/agr
+753,2226,35,Treatment,2,0.0,coin box,other
+754,2232,35,Treatment,1,1.0,kirana store,food/agr
+755,2232,35,Treatment,2,,,
+756,2232,35,Treatment,3,1.0,coin box,other
+757,2235,35,Treatment,1,1.0,kirana store,food/agr
+758,2235,35,Treatment,2,1.0,coin box,other
+759,2236,35,Treatment,1,0.0,transport,other
+760,2236,35,Treatment,2,0.0,transport,other
+761,2238,35,Treatment,1,0.0,transport,other
+762,2238,35,Treatment,2,0.0,transport,other
+763,2246,35,Treatment,1,0.0,hair cutting Sloane,other
+764,2249,35,Treatment,1,0.0,hair cutting Sloane,other
+765,2252,35,Treatment,1,0.0,ironing,clothing
+766,2253,35,Treatment,1,0.0,tailoring,clothing
+767,2255,35,Treatment,1,0.0,contractor,other
+768,2258,32,Control,1,1.0,kirana store,food/agr
+769,2260,35,Treatment,1,0.0,kirana store,food/agr
+770,2260,35,Treatment,2,0.0,vegetables,other
+771,2264,35,Treatment,1,0.0,tailoring,clothing
+772,2268,35,Treatment,1,0.0,ironing,clothing
+773,2269,35,Treatment,1,0.0,tailoring,clothing
+774,2269,35,Treatment,2,0.0,clothes seller,clothing
+775,2276,35,Treatment,1,0.0,engineer,other
+776,2278,35,Treatment,1,0.0,tailoring,clothing
+777,2285,35,Treatment,1,0.0,mechanics,repair/construction
+778,2286,35,Treatment,1,0.0,carpenter,repair/construction
+779,2286,35,Treatment,2,0.0,agriculture,food/agr
+780,2287,35,Treatment,1,1.0,transport,other
+781,2287,35,Treatment,2,1.0,foot-ware,other
+782,2287,35,Treatment,3,1.0,Cigarette,other
+783,2288,35,Treatment,1,1.0,kirana store,food/agr
+784,2288,35,Treatment,2,1.0,coin box,other
+785,2290,35,Treatment,1,0.0,tailoring,clothing
+786,2292,35,Treatment,1,0.0,kirana store,food/agr
+787,2292,35,Treatment,2,,coin box,other
+788,2293,35,Treatment,1,0.0,kirana store,food/agr
+789,2293,35,Treatment,2,0.0,coin box,other
+790,2293,35,Treatment,3,0.0,vegetables,other
+791,2294,35,Treatment,1,0.0,ironing,clothing
+792,2298,35,Treatment,1,0.0,transport,other
+793,2298,35,Treatment,2,0.0,transport,other
+794,2300,35,Treatment,1,0.0,cookers selling,other
+795,2303,35,Treatment,1,0.0,hotel,other
+796,2305,35,Treatment,1,0.0,hair cutting Sloane,other
+797,2308,35,Treatment,1,0.0,kirana store,food/agr
+798,2308,35,Treatment,2,0.0,coin box,other
+799,2308,35,Treatment,3,0.0,tailoring,clothing
+800,2309,35,Treatment,1,0.0,food vender,food/agr
+801,2317,37,Control,1,0.0,other driving business,rickshaw/driving
+802,2318,33,Treatment,1,0.0,kirana store,food/agr
+803,2318,33,Treatment,2,0.0,communication,other
+804,2326,37,Control,1,0.0,food vender,food/agr
+805,2329,37,Control,1,1.0,communication,other
+806,2331,36,Control,1,0.0,Electrician,other
+807,2332,36,Control,1,0.0,tailoring,clothing
+808,2333,36,Control,1,0.0,kirana store,food/agr
+809,2336,36,Control,1,0.0,kirana store,food/agr
+810,2340,36,Control,1,0.0,coin box,other
+811,2343,36,Control,1,0.0,painting,other
+812,2345,36,Control,1,0.0,real estate,other
+813,2346,36,Control,1,0.0,transport,other
+814,2351,36,Control,1,0.0,hair cutting Sloane,other
+815,2352,36,Control,1,0.0,embroidering,other
+816,2354,36,Control,1,0.0,kirana store,food/agr
+817,2357,36,Control,1,0.0,transport,other
+818,2363,36,Control,1,0.0,real estate,other
+819,2364,36,Control,1,0.0,tailoring,clothing
+820,2371,36,Control,1,1.0,money transfer,other
+821,2372,39,Control,1,0.0,ironing,clothing
+822,2375,39,Control,1,0.0,food vender,food/agr
+823,2375,39,Control,2,0.0,communication,other
+824,2376,39,Control,1,0.0,kirana store,food/agr
+825,2376,39,Control,2,1.0,communication,other
+826,2376,39,Control,3,1.0,petrol selling/molding,other
+827,2384,39,Control,1,0.0,electricals and electronics,other
+828,2391,39,Control,1,0.0,tailoring,clothing
+829,2391,39,Control,2,,kirana store,food/agr
+830,2391,39,Control,3,0.0,food vender,food/agr
+831,2391,39,Control,4,1.0,communication,other
+832,2394,39,Control,1,0.0,tailoring,clothing
+833,2395,39,Control,1,0.0,ironing,clothing
+834,2398,39,Control,1,0.0,food vender,food/agr
+835,2398,39,Control,2,0.0,communication,other
+836,2398,39,Control,3,0.0,food vender,food/agr
+837,2398,39,Control,4,,mechanics,repair/construction
+838,2407,39,Control,1,0.0,food vender,food/agr
+839,2410,39,Control,1,0.0,food vender,food/agr
+840,2414,42,Treatment,1,0.0,real estate,other
+841,2418,42,Treatment,1,0.0,other driving business,rickshaw/driving
+842,2419,42,Treatment,1,0.0,carpenter,repair/construction
+843,2421,42,Treatment,1,0.0,product vendor,crafts/vendor
+844,2422,42,Treatment,1,0.0,palming,repair/construction
+845,2426,42,Treatment,1,0.0,hair cutting Sloane,other
+846,2427,42,Treatment,1,0.0,tailoring,clothing
+847,2429,42,Treatment,1,0.0,hair cutting Sloane,other
+848,2430,42,Treatment,1,0.0,studies,other
+849,2431,42,Treatment,1,0.0,electronic,other
+850,2432,42,Treatment,1,0.0,flower seller,other
+851,2433,42,Treatment,1,0.0,florist,crafts/vendor
+852,2435,42,Treatment,1,1.0,tailoring,clothing
+853,2440,42,Treatment,1,0.0,STD,other
+854,2447,42,Treatment,1,0.0,hair cutting Sloane,other
+855,2448,42,Treatment,1,0.0,kirana store,food/agr
+856,2448,42,Treatment,2,0.0,vegetables,other
+857,2449,42,Treatment,1,0.0,tailoring,clothing
+858,2450,42,Treatment,1,0.0,carpenter,repair/construction
+859,2452,42,Treatment,1,0.0,transport,other
+860,2453,42,Treatment,1,0.0,flower seller,other
+861,2454,42,Treatment,1,0.0,floor mill,other
+862,2454,42,Treatment,2,0.0,wet grinder business,other
+863,2455,42,Treatment,1,0.0,tailoring,clothing
+864,2458,38,Control,1,0.0,vegetables,other
+865,2467,38,Control,1,0.0,kirana store,food/agr
+866,2468,38,Control,1,0.0,transport,other
+867,2470,38,Control,1,0.0,ironing,clothing
+868,2477,38,Control,1,0.0,hair cutting Sloane,other
+869,2478,38,Control,1,0.0,hair cutting Sloane,other
+870,2483,38,Control,1,1.0,tailoring,clothing
+871,2491,38,Control,1,0.0,transport,other
+872,2492,38,Control,1,0.0,transport,other
+873,2493,38,Control,1,0.0,hair cutting Sloane,other
+874,2494,38,Control,1,0.0,transport,other
+875,2494,38,Control,2,0.0,rickshaw,rickshaw/driving
+876,2495,38,Control,1,0.0,transport,other
+877,2496,38,Control,1,0.0,hair cutting Sloane,other
+878,2496,38,Control,2,0.0,hair cutting Sloane,other
+879,2498,38,Control,1,0.0,embroidering,other
+880,2500,38,Control,1,1.0,transport,other
+881,2504,38,Control,1,0.0,kirana store,food/agr
+882,2504,38,Control,2,0.0,vegetables,other
+883,2508,38,Control,1,0.0,tailoring,clothing
+884,2519,38,Control,1,0.0,tailoring,clothing
+885,2526,38,Control,1,0.0,transport,other
+886,2531,43,Control,1,0.0,communication,other
+887,2540,43,Control,1,0.0,rickshaw,rickshaw/driving
+888,2542,43,Control,1,0.0,kirana store,food/agr
+889,2542,43,Control,2,0.0,communication,other
+890,2544,43,Control,1,0.0,kirana store,food/agr
+891,2546,43,Control,1,0.0,food vender,food/agr
+892,2546,43,Control,2,,,
+893,2549,43,Control,1,0.0,tailoring,clothing
+894,2556,43,Control,1,0.0,studies,other
+895,2556,43,Control,2,,kirana store,food/agr
+896,2556,43,Control,3,,coin box,other
+897,2559,43,Control,1,0.0,tailoring,clothing
+898,2561,43,Control,1,0.0,kirana store,food/agr
+899,2571,43,Control,1,1.0,internet,other
+900,2572,43,Control,1,1.0,tailoring,clothing
+901,2572,43,Control,2,0.0,kirana store,food/agr
+902,2572,43,Control,3,,,
+903,2574,43,Control,1,1.0,waste paper business,other
+904,2574,43,Control,2,0.0,pots business,other
+905,2580,43,Control,1,0.0,tailoring,clothing
+906,2580,43,Control,2,1.0,waste paper business,other
+907,2580,43,Control,3,,,
+908,2581,43,Control,1,0.0,milk,other
+909,2583,43,Control,1,0.0,kirana store,food/agr
+910,2586,43,Control,1,0.0,waste paper business,other
+911,2586,43,Control,2,1.0,milk,other
+912,2587,43,Control,1,0.0,tailoring,clothing
+913,2589,43,Control,1,0.0,milk,other
+914,2590,43,Control,1,0.0,embroidering,other
+915,2590,43,Control,2,0.0,bangles,other
+916,2590,43,Control,3,0.0,wet grinder business,other
+917,2590,43,Control,4,0.0,recharge card,other
+918,2591,43,Control,1,0.0,clothes seller,clothing
+919,2591,43,Control,2,0.0,brick business,other
+920,2593,43,Control,1,,,
+921,2594,43,Control,1,0.0,tailoring,clothing
+922,2594,43,Control,2,0.0,embroidering,other
+923,2595,43,Control,1,0.0,kirana store,food/agr
+924,2598,43,Control,1,0.0,pots business,other
+925,2608,43,Control,1,0.0,tailoring,clothing
+926,2609,43,Control,1,0.0,technology,other
+927,2617,43,Control,1,0.0,clothes seller,clothing
+928,2617,43,Control,2,,painting,other
+929,2619,43,Control,1,0.0,hotel,other
+930,2629,44,Treatment,1,0.0,kirana store,food/agr
+931,2629,44,Treatment,2,1.0,coin box,other
+932,2629,44,Treatment,3,0.0,transport,other
+933,2637,44,Treatment,1,0.0,kirana store,food/agr
+934,2637,44,Treatment,2,0.0,coin box,other
+935,2637,44,Treatment,3,0.0,STD,other
+936,2639,44,Treatment,1,0.0,rickshaw,rickshaw/driving
+937,2640,44,Treatment,1,0.0,clothes seller,clothing
+938,2640,44,Treatment,2,0.0,tailoring,clothing
+939,2645,44,Treatment,1,0.0,transport,other
+940,2648,44,Treatment,1,0.0,tea stall,other
+941,2648,44,Treatment,2,0.0,tailoring,clothing
+942,2650,44,Treatment,1,0.0,tailoring,clothing
+943,2652,44,Treatment,1,0.0,bags selling,other
+944,2652,44,Treatment,2,0.0,kirana store,food/agr
+945,2652,44,Treatment,3,,coin box,other
+946,2654,44,Treatment,1,0.0,priest,other
+947,2654,44,Treatment,2,0.0,priest,other
+948,2655,44,Treatment,1,0.0,hair cutting Sloane,other
+949,2656,46,Treatment,1,0.0,tailoring,clothing
+950,2665,46,Treatment,1,0.0,milk,other
+951,2665,46,Treatment,2,,real estate,other
+952,2666,46,Treatment,1,0.0,kirana store,food/agr
+953,2666,46,Treatment,2,,vegetables,other
+954,2666,46,Treatment,3,1.0,coin box,other
+955,2668,46,Treatment,1,0.0,goat business,other
+956,2668,46,Treatment,2,0.0,goat business,other
+957,2670,46,Treatment,1,1.0,ironing,clothing
+958,2671,46,Treatment,1,0.0,milk,other
+959,2671,46,Treatment,2,1.0,kirana store,food/agr
+960,2672,46,Treatment,1,0.0,other driving business,rickshaw/driving
+961,2674,46,Treatment,1,1.0,kirana store,food/agr
+962,2674,46,Treatment,2,1.0,vegetables,other
+963,2674,46,Treatment,3,1.0,coin box,other
+964,2675,46,Treatment,1,0.0,electronic,other
+965,2677,46,Treatment,1,0.0,tailoring,clothing
+966,2679,50,Treatment,1,0.0,kirana store,food/agr
+967,2679,50,Treatment,2,0.0,vegetables,other
+968,2680,50,Treatment,1,0.0,photographer,other
+969,2681,50,Treatment,1,0.0,ironing,clothing
+970,2682,50,Treatment,1,0.0,tailoring,clothing
+971,2682,50,Treatment,2,1.0,clothes seller,clothing
+972,2684,50,Treatment,1,0.0,clothes seller,clothing
+973,2688,50,Treatment,1,0.0,Electrician,other
+974,2689,50,Treatment,1,0.0,clothes seller,clothing
+975,2690,50,Treatment,1,0.0,mechanics,repair/construction
+976,2710,50,Treatment,1,0.0,kirana store,food/agr
+977,2710,50,Treatment,2,1.0,coin box,other
+978,2710,50,Treatment,3,0.0,vegetables,other
+979,2712,50,Treatment,1,,,
+980,2712,50,Treatment,2,0.0,tailoring,clothing
+981,2716,50,Treatment,1,0.0,Electrician,other
+982,2723,50,Treatment,1,0.0,goat business,other
+983,2724,50,Treatment,1,0.0,hair cutting Sloane,other
+984,2725,50,Treatment,1,0.0,tailoring,clothing
+985,2727,50,Treatment,1,0.0,mechanics,repair/construction
+986,2728,50,Treatment,1,0.0,kirana store,food/agr
+987,2729,50,Treatment,1,0.0,carpenter,repair/construction
+988,2730,50,Treatment,1,0.0,carpenter,repair/construction
+989,2734,47,Treatment,1,0.0,baskets,other
+990,2735,47,Treatment,1,1.0,vegetables,other
+991,2735,47,Treatment,2,1.0,other driving business,rickshaw/driving
+992,2736,47,Treatment,1,1.0,tailoring,clothing
+993,2737,47,Treatment,1,0.0,watch business,other
+994,2738,47,Treatment,1,0.0,transport,other
+995,2738,47,Treatment,2,0.0,transport,other
+996,2738,47,Treatment,3,0.0,kirana store,food/agr
+997,2739,47,Treatment,1,0.0,other driving business,rickshaw/driving
+998,2739,47,Treatment,2,1.0,embroidering,other
+999,2740,47,Treatment,1,0.0,baskets,other
+1000,2744,47,Treatment,1,0.0,baskets,other
+1001,2749,47,Treatment,1,1.0,STD,other
+1002,2753,47,Treatment,1,0.0,ironing,clothing
+1003,2756,47,Treatment,1,0.0,sound systems,other
+1004,2758,47,Treatment,1,0.0,marriage decoration,other
+1005,2759,47,Treatment,1,0.0,baskets,other
+1006,2760,47,Treatment,1,0.0,tailoring,clothing
+1007,2760,47,Treatment,2,0.0,communication,other
+1008,2760,47,Treatment,3,,,
+1009,2760,47,Treatment,4,1.0,kirana store,food/agr
+1010,2760,47,Treatment,5,0.0,kirana store,food/agr
+1011,2760,47,Treatment,6,0.0,clothes seller,clothing
+1012,2761,47,Treatment,1,0.0,vegetables,other
+1013,2765,47,Treatment,1,0.0,tailoring,clothing
+1014,2766,47,Treatment,1,0.0,kirana store,food/agr
+1015,2766,47,Treatment,2,0.0,coin box,other
+1016,2769,47,Treatment,1,0.0,news paper business,other
+1017,2769,47,Treatment,2,0.0,Cigarette,other
+1018,2774,47,Treatment,1,0.0,tailoring,clothing
+1019,2778,47,Treatment,1,0.0,other driving business,rickshaw/driving
+1020,2780,47,Treatment,1,0.0,Electrician,other
+1021,2782,47,Treatment,1,0.0,vegetables,other
+1022,2788,47,Treatment,1,0.0,all fruits selling,other
+1023,2793,47,Treatment,1,0.0,tailoring,clothing
+1024,2795,47,Treatment,1,0.0,gutka shop,other
+1025,2796,47,Treatment,1,1.0,tailoring,clothing
+1026,2799,47,Treatment,1,0.0,servicing center,other
+1027,2800,47,Treatment,1,0.0,baskets,other
+1028,2802,47,Treatment,1,1.0,kirana store,food/agr
+1029,2802,47,Treatment,2,0.0,floor mill,other
+1030,2803,47,Treatment,1,0.0,Tiffin center,other
+1031,2804,47,Treatment,1,0.0,CD shop,other
+1032,2805,47,Treatment,1,0.0,studies,other
+1033,2806,43,Control,1,0.0,contractor,other
+1034,2814,31,Treatment,1,0.0,hotel,other
+1035,2815,31,Treatment,1,0.0,centering,other
+1036,2816,31,Treatment,1,0.0,transport,other
+1037,2817,31,Treatment,1,0.0,painting,other
+1038,2819,34,Control,1,0.0,transport,other
+1039,2830,44,Treatment,1,0.0,tailoring,clothing
+1040,2831,44,Treatment,1,0.0,electronic,other
+1041,2833,44,Treatment,1,0.0,finance,other
+1042,2833,44,Treatment,2,0.0,tailoring,clothing
+1043,2834,44,Treatment,1,0.0,entertainment,other
+1044,2834,44,Treatment,2,1.0,kirana store,food/agr
+1045,2834,44,Treatment,3,1.0,STD,other
+1046,2836,44,Treatment,1,0.0,vegetables,other
+1047,2839,41,Treatment,1,0.0,milk,other
+1048,2840,41,Treatment,1,0.0,milk,other
+1049,2840,41,Treatment,2,,,
+1050,2840,41,Treatment,3,1.0,goat business,other
+1051,2841,41,Treatment,1,0.0,ironing,clothing
+1052,2842,41,Treatment,1,0.0,milk,other
+1053,2843,41,Treatment,1,0.0,milk,other
+1054,2844,41,Treatment,1,1.0,agriculture,food/agr
+1055,2845,41,Treatment,1,0.0,ironing,clothing
+1056,2846,41,Treatment,1,0.0,transport,other
+1057,2847,41,Treatment,1,0.0,tailoring,clothing
+1058,2847,41,Treatment,2,0.0,floor mill,other
+1059,2847,41,Treatment,3,0.0,transport,other
+1060,2849,41,Treatment,1,1.0,kirana store,food/agr
+1061,2849,41,Treatment,2,0.0,agriculture,food/agr
+1062,2850,41,Treatment,1,0.0,floor mill,other
+1063,2850,41,Treatment,2,0.0,transport,other
+1064,2850,41,Treatment,3,0.0,tailoring,clothing
+1065,2850,41,Treatment,4,0.0,art/crafters,crafts/vendor
+1066,2850,41,Treatment,5,,,
+1067,2851,41,Treatment,1,0.0,milk,other
+1068,2852,41,Treatment,1,1.0,milk,other
+1069,2853,41,Treatment,1,0.0,agriculture,food/agr
+1070,2854,41,Treatment,1,0.0,milk,other
+1071,2854,41,Treatment,2,0.0,tailoring,clothing
+1072,2860,41,Treatment,1,0.0,toddy business,other
+1073,2862,41,Treatment,1,0.0,palming,repair/construction
+1074,2865,41,Treatment,1,0.0,milk,other
+1075,2865,41,Treatment,2,0.0,goat business,other
+1076,2866,41,Treatment,1,0.0,milk,other
+1077,2866,41,Treatment,2,0.0,agriculture,food/agr
+1078,2868,41,Treatment,1,0.0,agriculture,food/agr
+1079,2868,41,Treatment,2,1.0,coin box,other
+1080,2869,41,Treatment,1,0.0,agriculture,food/agr
+1081,2871,41,Treatment,1,0.0,hotel,other
+1082,2872,49,Control,1,0.0,tailoring,clothing
+1083,2872,49,Control,2,1.0,sweet shop,other
+1084,2872,49,Control,3,0.0,STD,other
+1085,2876,49,Control,1,0.0,centering,other
+1086,2879,49,Control,1,0.0,coin box,other
+1087,2880,49,Control,1,0.0,vegetables,other
+1088,2887,49,Control,1,0.0,goat business,other
+1089,2887,49,Control,2,0.0,finance,other
+1090,2892,49,Control,1,0.0,flower seller,other
+1091,2905,49,Control,1,0.0,Footwear,other
+1092,2907,49,Control,1,0.0,embroidering,other
+1093,2927,49,Control,1,1.0,kirana store,food/agr
+1094,2927,49,Control,2,0.0,tailoring,clothing
+1095,2927,49,Control,3,1.0,coin box,other
+1096,2930,49,Control,1,0.0,contractor,other
+1097,2932,49,Control,1,0.0,transport,other
+1098,2933,49,Control,1,1.0,transport,other
+1099,2934,49,Control,1,0.0,all fruits selling,other
+1100,2937,49,Control,1,1.0,tailoring,clothing
+1101,2938,49,Control,1,0.0,toddy business,other
+1102,2940,49,Control,1,0.0,goat business,other
+1103,2941,49,Control,1,0.0,gutka shop,other
+1104,2941,49,Control,2,,,
+1105,2942,49,Control,1,0.0,vegetables,other
+1106,2943,49,Control,1,0.0,flower seller,other
+1107,2944,49,Control,1,0.0,tailoring,clothing
+1108,2944,49,Control,2,0.0,contractor,other
+1109,2945,49,Control,1,0.0,flower seller,other
+1110,2945,49,Control,2,0.0,flower seller,other
+1111,2945,49,Control,3,1.0,milk,other
+1112,2946,49,Control,1,0.0,"tea, coffee",food/agr
+1113,2947,49,Control,1,0.0,vegetables,other
+1114,2947,49,Control,2,0.0,vegetables,other
+1115,2948,49,Control,1,0.0,all fruits selling,other
+1116,2948,49,Control,2,0.0,contractor,other
+1117,2950,49,Control,1,0.0,STD,other
+1118,2950,49,Control,2,0.0,kirana store,food/agr
+1119,2953,49,Control,1,0.0,flower seller,other
+1120,2954,49,Control,1,0.0,painting,other
+1121,2956,49,Control,1,0.0,kirana store,food/agr
+1122,2956,49,Control,2,,,
+1123,2957,49,Control,1,1.0,kirana store,food/agr
+1124,2960,49,Control,1,1.0,kirana store,food/agr
+1125,2960,49,Control,2,1.0,coin box,other
+1126,2961,49,Control,1,0.0,goat business,other
+1127,2962,49,Control,1,0.0,tailoring,clothing
+1128,2962,49,Control,2,0.0,embroidering,other
+1129,2963,49,Control,1,0.0,transport,other
+1130,2965,49,Control,1,0.0,centering,other
+1131,2968,49,Control,1,0.0,transport,other
+1132,2971,49,Control,1,0.0,painting,other
+1133,2971,49,Control,2,0.0,flower seller,other
+1134,2972,49,Control,1,0.0,contractor,other
+1135,3018,45,Treatment,1,1.0,automobile,other
+1136,3019,45,Treatment,1,0.0,goat business,other
+1137,3020,45,Treatment,1,0.0,tailoring,clothing
+1138,3021,45,Treatment,1,0.0,goat business,other
+1139,3023,45,Treatment,1,0.0,goat business,other
+1140,3023,45,Treatment,2,1.0,corn business,other
+1141,3023,45,Treatment,3,1.0,coin box,other
+1142,3024,45,Treatment,1,0.0,construction,repair/construction
+1143,3025,45,Treatment,1,0.0,kirana store,food/agr
+1144,3025,45,Treatment,2,0.0,bicycle,other
+1145,3028,45,Treatment,1,0.0,goat business,other
+1146,3030,45,Treatment,1,0.0,goat business,other
+1147,3032,45,Treatment,1,0.0,kirana store,food/agr
+1148,3033,45,Treatment,1,1.0,kirana store,food/agr
+1149,3034,45,Treatment,1,0.0,goat business,other
+1150,3035,45,Treatment,1,0.0,all fruits selling,other
+1151,3037,45,Treatment,1,0.0,vegetables,other
+1152,3039,45,Treatment,1,0.0,goat business,other
+1153,3040,45,Treatment,1,0.0,carpenter,repair/construction
+1154,3041,45,Treatment,1,0.0,kirana store,food/agr
+1155,3042,45,Treatment,1,0.0,real estate,other
+1156,3043,45,Treatment,1,0.0,tailoring,clothing
+1157,3044,45,Treatment,1,0.0,carpenter,repair/construction
+1158,3044,45,Treatment,2,0.0,tailoring,clothing
+1159,3045,45,Treatment,1,0.0,vegetables,other
+1160,3045,45,Treatment,2,0.0,vegetables,other
+1161,3046,45,Treatment,1,0.0,goat business,other
+1162,3049,45,Treatment,1,0.0,bicycle,other
+1163,3050,45,Treatment,1,1.0,fish business,other
+1164,3052,45,Treatment,1,0.0,kirana store,food/agr
+1165,3052,45,Treatment,2,0.0,embroidering,other
+1166,3054,45,Treatment,1,0.0,astrology,other
+1167,3058,45,Treatment,1,0.0,goat business,other
+1168,3059,45,Treatment,1,0.0,fish business,other
+1169,3099,51,Control,1,0.0,hotel,other
+1170,3100,51,Control,1,0.0,bangles,other
+1171,3103,51,Control,1,0.0,transport,other
+1172,3109,51,Control,1,1.0,threads selling,other
+1173,3110,51,Control,1,0.0,vegetables,other
+1174,3111,51,Control,1,0.0,vegetables,other
+1175,3112,51,Control,1,,kirana store,food/agr
+1176,3113,51,Control,1,0.0,hotel,other
+1177,3114,51,Control,1,0.0,welding shop,other
+1178,3115,51,Control,1,0.0,kirana store,food/agr
+1179,3116,51,Control,1,0.0,kirana store,food/agr
+1180,3116,51,Control,2,0.0,mechanics,repair/construction
+1181,3117,51,Control,1,0.0,"sand, bricks",other
+1182,3118,51,Control,1,0.0,tailoring,clothing
+1183,3119,51,Control,1,0.0,tailoring,clothing
+1184,3120,51,Control,1,0.0,tailoring,clothing
+1185,3121,51,Control,1,0.0,kirana store,food/agr
+1186,3122,51,Control,1,0.0,mechanics,repair/construction
+1187,3124,51,Control,1,0.0,transport,other
+1188,3124,51,Control,2,1.0,mechanics,repair/construction
+1189,3125,51,Control,1,0.0,painting,other
+1190,3127,52,Control,1,0.0,kirana store,food/agr
+1191,3127,52,Control,2,,milk,other
+1192,3127,52,Control,3,0.0,coin box,other
+1193,3128,52,Control,1,0.0,kirana store,food/agr
+1194,3129,52,Control,1,0.0,milk,other
+1195,3130,52,Control,1,0.0,centering,other
+1196,3131,52,Control,1,0.0,ironing,clothing
+1197,3131,52,Control,2,0.0,coin box,other
+1198,3133,52,Control,1,1.0,other driving business,rickshaw/driving
+1199,3133,52,Control,2,0.0,other driving business,rickshaw/driving
+1200,3134,52,Control,1,0.0,tailoring,clothing
+1201,3134,52,Control,2,0.0,tailoring,clothing
+1202,3135,52,Control,1,0.0,waste paper business,other
+1203,3135,52,Control,2,1.0,tailoring,clothing
+1204,3135,52,Control,3,0.0,kirana store,food/agr
+1205,3136,52,Control,1,0.0,rickshaw,rickshaw/driving
+1206,3136,52,Control,2,0.0,kirana store,food/agr
+1207,3136,52,Control,3,0.0,vegetables,other
+1208,3136,52,Control,4,0.0,milk,other
+1209,3136,52,Control,5,0.0,coin box,other
+1210,3137,52,Control,1,0.0,goat business,other
+1211,3138,52,Control,1,0.0,ironing,clothing
+1212,3139,52,Control,1,0.0,material supplier,other
+1213,3140,52,Control,1,0.0,tailoring,clothing
+1214,3141,52,Control,1,0.0,beautician,other
+1215,3142,52,Control,1,0.0,tailoring,clothing
+1216,3143,52,Control,1,0.0,flower seller,other
+1217,3145,52,Control,1,0.0,snake charmer,other
+1218,3146,52,Control,1,0.0,foot-ware,other
+1219,3148,52,Control,1,1.0,transport,other
+1220,3150,52,Control,1,0.0,milk,other
+1221,3151,52,Control,1,1.0,kirana store,food/agr
+1222,3152,52,Control,1,0.0,all fruits selling,other
+1223,3153,52,Control,1,0.0,other driving business,rickshaw/driving
+1224,3154,52,Control,1,0.0,tailoring,clothing
+1225,3155,52,Control,1,0.0,tailoring,clothing
+1226,3156,52,Control,1,0.0,other driving business,rickshaw/driving
+1227,3157,52,Control,1,1.0,vegetables,other
+1228,3158,52,Control,1,0.0,clothes seller,clothing
+1229,3159,52,Control,1,1.0,kirana store,food/agr
+1230,3159,52,Control,2,1.0,coin box,other
+1231,3160,52,Control,1,0.0,tailoring,clothing
+1232,3161,52,Control,1,0.0,all fruits selling,other
+1233,3163,52,Control,1,0.0,music,other
+1234,3165,52,Control,1,0.0,coin box,other
+1235,3166,52,Control,1,0.0,kirana store,food/agr
+1236,3166,52,Control,2,0.0,coin box,other
+1237,3166,52,Control,3,0.0,vegetables,other
+1238,3167,52,Control,1,0.0,hotel,other
+1239,3167,52,Control,2,0.0,coin box,other
+1240,3168,52,Control,1,0.0,music,other
+1241,3169,52,Control,1,0.0,blacksmith,other
+1242,3229,52,Control,1,0.0,ironing,clothing
+1243,3232,53,Control,1,0.0,tailoring,clothing
+1244,3232,53,Control,2,0.0,mechanics,repair/construction
+1245,3232,53,Control,3,0.0,other driving business,rickshaw/driving
+1246,3232,53,Control,4,1.0,technology,other
+1247,3233,53,Control,1,0.0,tailoring,clothing
+1248,3234,53,Control,1,0.0,clothes seller,clothing
+1249,3234,53,Control,2,0.0,communication,other
+1250,3235,53,Control,1,0.0,food vender,food/agr
+1251,3236,53,Control,1,0.0,clothes seller,clothing
+1252,3237,53,Control,1,0.0,construction,repair/construction
+1253,3238,53,Control,1,0.0,livestock,other
+1254,3239,53,Control,1,0.0,other driving business,rickshaw/driving
+1255,3240,53,Control,1,0.0,kirana store,food/agr
+1256,3241,53,Control,1,0.0,tailoring,clothing
+1257,3242,53,Control,1,0.0,other driving business,rickshaw/driving
+1258,3243,53,Control,1,0.0,ironing,clothing
+1259,3244,53,Control,1,0.0,tailoring,clothing
+1260,3245,53,Control,1,0.0,tailoring,clothing
+1261,3246,53,Control,1,1.0,tailoring,clothing
+1262,3255,53,Control,1,0.0,vegetables,other
+1263,3300,54,Treatment,1,1.0,ironing,clothing
+1264,3311,54,Treatment,1,0.0,painting,other
+1265,3327,54,Treatment,1,0.0,tailoring,clothing
+1266,3327,54,Treatment,2,,coin box,other
+1267,3327,54,Treatment,3,1.0,coin box,other
+1268,3333,54,Treatment,1,0.0,tailoring,clothing
+1269,3335,54,Treatment,1,0.0,tailoring,clothing
+1270,3336,54,Treatment,1,0.0,rickshaw,rickshaw/driving
+1271,3337,54,Treatment,1,1.0,rickshaw,rickshaw/driving
+1272,3338,54,Treatment,1,0.0,painting,other
+1273,3340,54,Treatment,1,0.0,all fruits selling,other
+1274,3342,54,Treatment,1,0.0,kirana store,food/agr
+1275,3343,54,Treatment,1,0.0,tailoring,clothing
+1276,3344,54,Treatment,1,0.0,painting,other
+1277,3345,54,Treatment,1,0.0,kirana store,food/agr
+1278,3346,54,Treatment,1,0.0,tailoring,clothing
+1279,3346,54,Treatment,2,,tailoring,clothing
+1280,3347,54,Treatment,1,0.0,contractor,other
+1281,3348,53,Control,1,0.0,ironing,clothing
+1282,3349,54,Treatment,1,0.0,painting,other
+1283,3350,54,Treatment,1,1.0,transport,other
+1284,3351,53,Control,1,0.0,painting,other
+1285,3352,54,Treatment,1,0.0,tailoring,clothing
+1286,3353,54,Treatment,1,0.0,real estate,other
+1287,3354,54,Treatment,1,0.0,kirana store,food/agr
+1288,3355,54,Treatment,1,0.0,vegetables,other
+1289,3356,54,Treatment,1,0.0,coin box,other
+1290,3356,54,Treatment,2,0.0,tailoring,clothing
+1291,3358,54,Treatment,1,0.0,tailoring,clothing
+1292,3359,54,Treatment,1,0.0,health care,other
+1293,3360,54,Treatment,1,0.0,Footwear,other
+1294,3361,54,Treatment,1,0.0,other driving business,rickshaw/driving
+1295,3362,54,Treatment,1,0.0,vegetables,other
+1296,3363,54,Treatment,1,1.0,vegetables,other
+1297,3364,54,Treatment,1,0.0,kirana store,food/agr
+1298,3366,54,Treatment,1,1.0,coin box,other
+1299,3367,54,Treatment,1,0.0,kirana store,food/agr
+1300,3367,54,Treatment,2,0.0,milk,other
+1301,3367,54,Treatment,3,0.0,coin box,other
+1302,3371,4,Treatment,1,,,
+1303,3371,4,Treatment,2,0.0,communication,other
+1304,3372,5,Treatment,1,0.0,tailoring,clothing
+1305,3378,12,Control,1,0.0,other driving business,rickshaw/driving
+1306,3378,12,Control,2,,,
+1307,3378,12,Control,3,,,
+1308,3378,12,Control,4,,,
+1309,3382,23,Treatment,1,0.0,kirana store,food/agr
+1310,3382,23,Treatment,2,0.0,coin box,other
+1311,3383,27,Treatment,1,0.0,kirana store,food/agr
+1312,3385,41,Treatment,1,0.0,toddy business,other
+1313,3385,41,Treatment,2,0.0,hotel,other
+1314,3386,41,Treatment,1,1.0,milk,other
+1315,3386,41,Treatment,2,0.0,toddy business,other
+1316,3387,41,Treatment,1,0.0,agriculture,food/agr
+1317,3388,41,Treatment,1,,,
+1318,3388,41,Treatment,2,0.0,tailoring,clothing
+1319,3389,41,Treatment,1,0.0,milk,other
+1320,3390,41,Treatment,1,0.0,agriculture,food/agr
+1321,3390,41,Treatment,2,0.0,milk,other
+1322,3390,41,Treatment,3,0.0,tailoring,clothing
+1323,3391,41,Treatment,1,0.0,toddy business,other
+1324,3391,41,Treatment,2,0.0,mechanics,repair/construction
+1325,3392,2,Control,1,0.0,food vender,food/agr
+1326,3392,2,Control,2,,,
+1327,3392,2,Control,3,0.0,product vendor,crafts/vendor
+1328,3392,2,Control,4,0.0,food vender,food/agr
+1329,3392,2,Control,5,0.0,pots business,other
+1330,3392,2,Control,6,0.0,product vendor,crafts/vendor
+1331,3392,2,Control,7,0.0,product vendor,crafts/vendor
+1332,3392,2,Control,8,0.0,kirana store,food/agr
+1333,3392,2,Control,9,0.0,vegetables,other
+1334,3394,16,Control,1,0.0,food vender,food/agr
+1335,3398,41,Treatment,1,0.0,milk,other
+1336,3400,41,Treatment,1,0.0,milk,other
+1337,3400,41,Treatment,2,0.0,agriculture,food/agr
+1338,3403,2,Control,1,0.0,construction,repair/construction
+1339,3404,2,Control,1,0.0,communication,other
+1340,3404,2,Control,2,0.0,plastics business,other
+1341,3414,2,Control,1,0.0,other driving business,rickshaw/driving
+1342,3418,3,Treatment,1,0.0,construction,repair/construction
+1343,3419,3,Treatment,1,,,
+1344,3419,3,Treatment,2,0.0,agriculture,food/agr
+1345,3420,3,Treatment,1,0.0,other driving business,rickshaw/driving
+1346,3437,9,Control,1,0.0,food vender,food/agr
+1347,3438,9,Control,1,0.0,tailoring,clothing
+1348,3438,9,Control,2,0.0,agriculture,food/agr
+1349,3438,9,Control,3,0.0,milk,other
+1350,3439,9,Control,1,0.0,food vender,food/agr
+1351,3440,9,Control,1,1.0,tailoring,clothing
+1352,3441,9,Control,1,1.0,product vendor,crafts/vendor
+1353,3441,9,Control,2,0.0,food vender,food/agr
+1354,3441,9,Control,3,0.0,kirana store,food/agr
+1355,3442,9,Control,1,1.0,kirana store,food/agr
+1356,3442,9,Control,2,,,
+1357,3445,9,Control,1,0.0,other driving business,rickshaw/driving
+1358,3445,9,Control,2,,,
+1359,3451,9,Control,1,0.0,agriculture,food/agr
+1360,3452,9,Control,1,0.0,construction,repair/construction
+1361,3453,9,Control,1,0.0,agriculture,food/agr
+1362,3454,9,Control,1,,,
+1363,3456,10,Treatment,1,,,
+1364,3456,10,Treatment,2,0.0,florist,crafts/vendor
+1365,3457,10,Treatment,1,0.0,hair cutting Sloane,other
+1366,3458,10,Treatment,1,0.0,kirana store,food/agr
+1367,3459,10,Treatment,1,0.0,other driving business,rickshaw/driving
+1368,3460,10,Treatment,1,0.0,other driving business,rickshaw/driving
+1369,3461,10,Treatment,1,0.0,tailoring,clothing
+1370,3462,10,Treatment,1,0.0,water supplier,other
+1371,3463,10,Treatment,1,0.0,other driving business,rickshaw/driving
+1372,3463,10,Treatment,2,0.0,construction,repair/construction
+1373,3463,10,Treatment,3,0.0,centering,other
+1374,3464,10,Treatment,1,1.0,waste paper business,other
+1375,3470,10,Treatment,1,0.0,rickshaw,rickshaw/driving
+1376,3470,10,Treatment,2,0.0,food vender,food/agr
+1377,3470,10,Treatment,3,,,
+1378,3487,11,Treatment,1,0.0,tailoring,clothing
+1379,3489,11,Treatment,1,0.0,rickshaw,rickshaw/driving
+1380,3490,11,Treatment,1,0.0,kirana store,food/agr
+1381,3491,11,Treatment,1,0.0,kirana store,food/agr
+1382,3491,11,Treatment,2,,tailoring,clothing
+1383,3492,11,Treatment,1,0.0,priest,other
+1384,3494,11,Treatment,1,0.0,florist,crafts/vendor
+1385,3495,11,Treatment,1,0.0,"tea, coffee",food/agr
+1386,3499,12,Control,1,1.0,other driving business,rickshaw/driving
+1387,3500,14,Treatment,1,0.0,product vendor,crafts/vendor
+1388,3501,14,Treatment,1,0.0,tailoring,clothing
+1389,3501,14,Treatment,2,,,
+1390,3502,14,Treatment,1,0.0,product vendor,crafts/vendor
+1391,3503,14,Treatment,1,0.0,communication,other
+1392,3503,14,Treatment,2,1.0,communication,other
+1393,3504,14,Treatment,1,0.0,other driving business,rickshaw/driving
+1394,3504,14,Treatment,2,0.0,mechanics,repair/construction
+1395,3505,14,Treatment,1,0.0,hair cutting Sloane,other
+1396,3508,14,Treatment,1,,,
+1397,3514,16,Control,1,0.0,tailoring,clothing
+1398,3516,16,Control,1,0.0,tailoring,clothing
+1399,3521,17,Control,1,,,
+1400,3521,17,Control,2,1.0,clothes seller,clothing
+1401,3522,17,Control,1,1.0,clothes seller,clothing
+1402,3523,17,Control,1,0.0,ironing,clothing
+1403,3524,17,Control,1,0.0,ironing,clothing
+1404,3526,15,Control,1,0.0,other driving business,rickshaw/driving
+1405,3528,19,Control,1,,,
+1406,3528,19,Control,2,0.0,hair cutting Sloane,other
+1407,3528,19,Control,3,1.0,other driving business,rickshaw/driving
+1408,3528,19,Control,4,0.0,hair cutting Sloane,other
+1409,3529,19,Control,1,,,
+1410,3529,19,Control,2,0.0,steel items selling,other
+1411,3534,19,Control,1,1.0,other driving business,rickshaw/driving
+1412,3540,20,Treatment,1,,,
+1413,3540,20,Treatment,2,0.0,florist,crafts/vendor
+1414,3555,21,Control,1,0.0,"tea, coffee",food/agr
+1415,3557,21,Control,1,0.0,tailoring,clothing
+1416,3558,21,Control,1,1.0,transport,other
+1417,3559,21,Control,1,0.0,floor mill,other
+1418,3567,22,Treatment,1,1.0,beautician,other
+1419,3567,22,Treatment,2,0.0,tailoring,clothing
+1420,3568,22,Treatment,1,1.0,drilling machine,other
+1421,3569,22,Treatment,1,1.0,mobile shop,other
+1422,3570,22,Treatment,1,0.0,drilling machine,other
+1423,3575,23,Treatment,1,1.0,kirana store,food/agr
+1424,3575,23,Treatment,2,1.0,vegetables,other
+1425,3575,23,Treatment,3,1.0,coin box,other
+1426,3577,23,Treatment,1,0.0,tailoring,clothing
+1427,3583,25,Treatment,1,0.0,food vender,food/agr
+1428,3584,25,Treatment,1,0.0,ironing,clothing
+1429,3585,25,Treatment,1,,,
+1430,3585,25,Treatment,2,0.0,cotton selling,other
+1431,3585,25,Treatment,3,0.0,clothes seller,clothing
+1432,3586,25,Treatment,1,0.0,mixi and grinding,other
+1433,3594,26,Treatment,1,0.0,fish business,other
+1434,3595,26,Treatment,1,0.0,transport,other
+1435,3595,26,Treatment,2,0.0,kirana store,food/agr
+1436,3595,26,Treatment,3,0.0,coin box,other
+1437,3597,27,Treatment,1,0.0,kirana store,food/agr
+1438,3598,27,Treatment,1,0.0,automobile,other
+1439,3598,27,Treatment,2,0.0,tailoring,clothing
+1440,3598,27,Treatment,3,0.0,health care,other
+1441,3599,27,Treatment,1,0.0,kirana store,food/agr
+1442,3599,27,Treatment,2,0.0,milk,other
+1443,3600,27,Treatment,1,0.0,hardware,other
+1444,3603,29,Treatment,1,0.0,milk,other
+1445,3605,29,Treatment,1,0.0,all fruits selling,other
+1446,3605,29,Treatment,2,0.0,flower seller,other
+1447,3607,30,Control,1,0.0,wood sale,other
+1448,3610,31,Treatment,1,0.0,foot-ware,other
+1449,3610,31,Treatment,2,,,
+1450,3611,31,Treatment,1,0.0,ironing,clothing
+1451,3611,31,Treatment,2,0.0,ironing,clothing
+1452,3621,32,Control,1,0.0,coin box,other
+1453,3621,32,Control,2,0.0,coin box,other
+1454,3622,32,Control,1,0.0,vegetables,other
+1455,3623,32,Control,1,0.0,kirana store,food/agr
+1456,3623,32,Control,2,0.0,coin box,other
+1457,3623,32,Control,3,,,
+1458,3625,32,Control,1,0.0,steel items selling,other
+1459,3626,32,Control,1,0.0,coin box,other
+1460,3626,32,Control,2,0.0,tea stall,other
+1461,3627,32,Control,1,0.0,milk,other
+1462,3627,32,Control,2,0.0,tailoring,clothing
+1463,3633,32,Control,1,0.0,kirana store,food/agr
+1464,3633,32,Control,2,0.0,coin box,other
+1465,3643,33,Treatment,1,1.0,transport,other
+1466,3645,33,Treatment,1,0.0,ration shop,other
+1467,3646,33,Treatment,1,0.0,contractor,other
+1468,3654,34,Control,1,1.0,tailoring,clothing
+1469,3654,34,Control,2,0.0,tailoring,clothing
+1470,3655,34,Control,1,0.0,kirana store,food/agr
+1471,3662,35,Treatment,1,0.0,tailor coaching center,other
+1472,3663,35,Treatment,1,0.0,gutka shop,other
+1473,3664,35,Treatment,1,0.0,goat business,other
+1474,3665,35,Treatment,1,0.0,coin box,other
+1475,3666,35,Treatment,1,1.0,clothes seller,clothing
+1476,3666,35,Treatment,2,0.0,tailoring,clothing
+1477,3676,37,Control,1,0.0,kirana store,food/agr
+1478,3676,37,Control,2,0.0,tent house,other
+1479,3680,39,Control,1,0.0,tailoring,clothing
+1480,3681,39,Control,1,0.0,kirana store,food/agr
+1481,3681,39,Control,2,0.0,communication,other
+1482,3681,39,Control,3,0.0,kirana store,food/agr
+1483,3682,36,Control,1,,kirana store,food/agr
+1484,3683,40,Control,1,0.0,bags selling,other
+1485,3684,40,Control,1,0.0,ironing,clothing
+1486,3685,40,Control,1,0.0,kirana store,food/agr
+1487,3685,40,Control,2,,,
+1488,3686,40,Control,1,1.0,finance,other
+1489,3686,40,Control,2,0.0,internet,other
+1490,3686,40,Control,3,0.0,money transfer,other
+1491,3687,47,Treatment,1,0.0,transport,other
+1492,3690,40,Control,1,0.0,embroidering,other
+1493,3692,40,Control,1,0.0,floor mill,other
+1494,3692,40,Control,2,0.0,wet grinder business,other
+1495,3693,40,Control,1,1.0,vegetables,other
+1496,3693,40,Control,2,1.0,gutka shop,other
+1497,3697,42,Treatment,1,0.0,Electrician,other
+1498,3701,44,Treatment,1,0.0,tailoring,clothing
+1499,3704,49,Control,1,0.0,product vendor,crafts/vendor
+1500,3709,55,Control,1,0.0,toddy business,other
+1501,3709,55,Control,2,0.0,food vender,food/agr
+1502,3710,55,Control,1,0.0,other driving business,rickshaw/driving
+1503,3710,55,Control,2,0.0,agriculture,food/agr
+1504,3710,55,Control,3,,,
+1505,3710,55,Control,4,,,
+1506,3710,55,Control,5,0.0,milk,other
+1507,3710,55,Control,6,0.0,milk,other
+1508,3710,55,Control,7,0.0,milk,other
+1509,3726,55,Control,1,0.0,other driving business,rickshaw/driving
+1510,3728,55,Control,1,1.0,milk,other
+1511,3730,55,Control,1,0.0,agriculture,food/agr
+1512,3731,55,Control,1,,milk,other
+1513,3731,55,Control,2,,goat business,other
+1514,3731,55,Control,3,,agriculture,food/agr
+1515,3736,55,Control,1,0.0,milk,other
+1516,3736,55,Control,2,,hotel,other
+1517,3737,55,Control,1,0.0,real estate,other
+1518,3739,55,Control,1,0.0,kirana store,food/agr
+1519,3740,55,Control,1,0.0,agriculture,food/agr
+1520,3741,55,Control,1,1.0,milk,other
+1521,3741,55,Control,2,0.0,toddy business,other
+1522,3742,55,Control,1,0.0,vegetables,other
+1523,3743,55,Control,1,0.0,milk,other
+1524,3745,55,Control,1,0.0,milk,other
+1525,3746,55,Control,1,0.0,milk,other
+1526,3746,55,Control,2,,vegetables,other
+1527,3747,55,Control,1,0.0,toddy business,other
+1528,3748,55,Control,1,0.0,milk,other
+1529,3748,55,Control,2,0.0,agriculture,food/agr
+1530,3749,55,Control,1,0.0,milk,other
+1531,3749,55,Control,2,0.0,agriculture,food/agr
+1532,3749,55,Control,3,0.0,tailoring,clothing
+1533,3750,55,Control,1,0.0,tailoring,clothing
+1534,3750,55,Control,2,0.0,Xerox,other
+1535,3750,55,Control,3,0.0,kirana store,food/agr
+1536,3751,55,Control,1,0.0,agriculture,food/agr
+1537,3751,55,Control,2,0.0,threads selling,other
+1538,3751,55,Control,3,,milk,other
+1539,3751,55,Control,4,1.0,goat business,other
+1540,3754,55,Control,1,0.0,agriculture,food/agr
+1541,3754,55,Control,2,,,
+1542,3755,55,Control,1,0.0,electronic,other
+1543,3755,55,Control,2,0.0,tailoring,clothing
+1544,3756,55,Control,1,0.0,milk,other
+1545,3756,55,Control,2,0.0,pickles business,other
+1546,3757,55,Control,1,0.0,milk,other
+1547,3758,55,Control,1,0.0,agriculture,food/agr
+1548,3758,55,Control,2,0.0,petrol selling,other
+1549,3758,55,Control,3,0.0,coin box,other
+1550,3758,55,Control,4,0.0,tailoring,clothing
+1551,3759,55,Control,1,0.0,toddy business,other
+1552,3759,55,Control,2,0.0,tailoring,clothing
+1553,3760,55,Control,1,0.0,milk,other
+1554,3760,55,Control,2,0.0,ironing,clothing
+1555,3761,55,Control,1,0.0,agriculture,food/agr
+1556,3762,55,Control,1,0.0,transport,other
+1557,3763,55,Control,1,0.0,ironing,clothing
+1558,3765,55,Control,1,0.0,agriculture,food/agr
+1559,3766,55,Control,1,0.0,courier business,other
+1560,3767,55,Control,1,0.0,milk,other
+1561,3768,55,Control,1,0.0,milk,other
+1562,3770,55,Control,1,0.0,milk,other
+1563,3771,55,Control,1,0.0,milk,other
+1564,3775,55,Control,1,0.0,milk,other
+1565,3776,55,Control,1,0.0,kirana store,food/agr
+1566,3776,55,Control,2,0.0,tailoring,clothing
+1567,3777,55,Control,1,0.0,agriculture,food/agr
+1568,3779,55,Control,1,0.0,milk,other
+1569,3780,55,Control,1,0.0,transport,other
+1570,3781,55,Control,1,0.0,milk,other
+1571,3781,55,Control,2,0.0,agriculture,food/agr
+1572,3782,55,Control,1,0.0,milk,other
+1573,3784,55,Control,1,0.0,milk,other
+1574,3787,56,Treatment,1,1.0,kirana store,food/agr
+1575,3789,56,Treatment,1,0.0,milk,other
+1576,3790,56,Treatment,1,0.0,milk,other
+1577,3791,56,Treatment,1,0.0,agriculture,food/agr
+1578,3793,56,Treatment,1,0.0,agriculture,food/agr
+1579,3796,56,Treatment,1,0.0,hair cutting Sloane,other
+1580,3797,56,Treatment,1,0.0,blacksmith,other
+1581,3798,56,Treatment,1,0.0,milk,other
+1582,3804,56,Treatment,1,0.0,toddy business,other
+1583,3804,56,Treatment,2,,,
+1584,3805,56,Treatment,1,0.0,bangles,other
+1585,3806,56,Treatment,1,1.0,floor mill,other
+1586,3806,56,Treatment,2,0.0,milk,other
+1587,3807,56,Treatment,1,0.0,agriculture,food/agr
+1588,3808,56,Treatment,1,0.0,milk,other
+1589,3809,56,Treatment,1,0.0,real estate,other
+1590,3816,56,Treatment,1,0.0,blacksmith,other
+1591,3817,56,Treatment,1,0.0,milk,other
+1592,3821,56,Treatment,1,0.0,toddy business,other
+1593,3822,56,Treatment,1,0.0,agriculture,food/agr
+1594,3823,56,Treatment,1,0.0,milk,other
+1595,3824,56,Treatment,1,0.0,agriculture,food/agr
+1596,3824,56,Treatment,2,0.0,milk,other
+1597,3826,56,Treatment,1,0.0,agriculture,food/agr
+1598,3826,56,Treatment,2,0.0,toddy business,other
+1599,3827,56,Treatment,1,1.0,coin box,other
+1600,3827,56,Treatment,2,0.0,agriculture,food/agr
+1601,3827,56,Treatment,3,0.0,kirana store,food/agr
+1602,3828,56,Treatment,1,1.0,kirana store,food/agr
+1603,3829,48,Control,1,,retail,other
+1604,3829,48,Control,2,0.0,agriculture,food/agr
+1605,3831,56,Treatment,1,0.0,agriculture,food/agr
+1606,3831,56,Treatment,2,0.0,agriculture,food/agr
+1607,3832,56,Treatment,1,0.0,agriculture,food/agr
+1608,3833,56,Treatment,1,0.0,agriculture,food/agr
+1609,3834,56,Treatment,1,0.0,milk,other
+1610,3834,56,Treatment,2,,,
+1611,3834,56,Treatment,3,,,
+1612,3834,56,Treatment,4,0.0,goat business,other
+1613,3834,56,Treatment,5,0.0,agriculture,food/agr
+1614,3835,56,Treatment,1,0.0,snake charmer,other
+1615,3835,56,Treatment,2,0.0,snake charmer,other
+1616,3836,56,Treatment,1,0.0,agriculture,food/agr
+1617,3837,56,Treatment,1,0.0,kirana store,food/agr
+1618,3837,56,Treatment,2,0.0,coin box,other
+1619,3838,56,Treatment,1,0.0,milk,other
+1620,3838,56,Treatment,2,0.0,agriculture,food/agr
+1621,3839,56,Treatment,1,0.0,bicycle,other
+1622,3839,56,Treatment,2,0.0,milk,other
+1623,3840,56,Treatment,1,0.0,STD,other
+1624,3841,56,Treatment,1,0.0,hair cutting Sloane,other
+1625,3842,56,Treatment,1,0.0,milk,other
+1626,3842,56,Treatment,2,0.0,agriculture,food/agr
+1627,3843,56,Treatment,1,0.0,milk,other
+1628,3844,56,Treatment,1,0.0,milk,other
+1629,3844,56,Treatment,2,0.0,agriculture,food/agr
+1630,3845,56,Treatment,1,0.0,toddy business,other
+1631,3846,56,Treatment,1,0.0,agriculture,food/agr
+1632,3847,56,Treatment,1,0.0,toddy business,other
+1633,3847,56,Treatment,2,1.0,coin box,other
+1634,3848,56,Treatment,1,0.0,agriculture,food/agr
+1635,3849,56,Treatment,1,0.0,milk,other
+1636,3850,56,Treatment,1,0.0,milk,other
+1637,3851,56,Treatment,1,0.0,milk,other
+1638,3852,56,Treatment,1,0.0,tailoring,clothing
+1639,3853,56,Treatment,1,0.0,real estate,other
+1640,3854,56,Treatment,1,0.0,vegetables,other
+1641,3855,56,Treatment,1,0.0,agriculture,food/agr
+1642,3856,56,Treatment,1,0.0,agriculture,food/agr
+1643,3857,56,Treatment,1,0.0,carpenter,repair/construction
+1644,3858,56,Treatment,1,0.0,milk,other
+1645,3859,56,Treatment,1,0.0,agriculture,food/agr
+1646,3860,56,Treatment,1,0.0,agriculture,food/agr
+1647,3862,56,Treatment,1,0.0,tailoring,clothing
+1648,3863,56,Treatment,1,0.0,tailoring,clothing
+1649,3871,56,Treatment,1,0.0,agriculture,food/agr
+1650,3871,56,Treatment,2,0.0,milk,other
+1651,3872,56,Treatment,1,0.0,agriculture,food/agr
+1652,3872,56,Treatment,2,,agriculture,food/agr
+1653,3873,56,Treatment,1,1.0,coin box,other
+1654,3873,56,Treatment,2,0.0,agriculture,food/agr
+1655,3874,56,Treatment,1,0.0,agriculture,food/agr
+1656,3874,56,Treatment,2,0.0,coin box,other
+1657,3874,56,Treatment,3,0.0,agriculture,food/agr
+1658,3896,57,Treatment,1,0.0,transport,other
+1659,3896,57,Treatment,2,0.0,transport,other
+1660,3897,57,Treatment,1,1.0,embroidering,other
+1661,3899,57,Treatment,1,0.0,"tea, coffee",food/agr
+1662,3900,57,Treatment,1,0.0,other driving business,rickshaw/driving
+1663,3901,57,Treatment,1,0.0,Buffalos business,other
+1664,3901,57,Treatment,2,,skin business,other
+1665,3902,57,Treatment,1,1.0,transport,other
+1666,3903,57,Treatment,1,0.0,kirana store,food/agr
+1667,3903,57,Treatment,2,,STD,other
+1668,3904,57,Treatment,1,0.0,Tiffin center,other
+1669,3905,57,Treatment,1,0.0,transport,other
+1670,3906,57,Treatment,1,0.0,protection services,other
+1671,3907,57,Treatment,1,1.0,kirana store,food/agr
+1672,3907,57,Treatment,2,1.0,coin box,other
+1673,3908,57,Treatment,1,0.0,bicycle,other
+1674,3908,57,Treatment,2,1.0,coin box,other
+1675,3908,57,Treatment,3,,,
+1676,3909,57,Treatment,1,0.0,hardware,other
+1677,3910,57,Treatment,1,0.0,transport,other
+1678,3911,57,Treatment,1,0.0,rickshaw,rickshaw/driving
+1679,3912,57,Treatment,1,0.0,tailoring,clothing
+1680,3912,57,Treatment,2,1.0,finance,other
+1681,3912,57,Treatment,3,0.0,engineer,other
+1682,3913,57,Treatment,1,0.0,clothes seller,clothing
+1683,3913,57,Treatment,2,0.0,kirana store,food/agr
+1684,3913,57,Treatment,3,0.0,transport,other
+1685,3914,57,Treatment,1,0.0,milk,other
+1686,3915,57,Treatment,1,0.0,"tea, coffee",food/agr
+1687,3919,57,Treatment,1,0.0,rubber stamps,other
+1688,3920,57,Treatment,1,0.0,milk,other
+1689,3948,59,Control,1,0.0,kirana store,food/agr
+1690,3949,59,Control,1,0.0,communication,other
+1691,3949,59,Control,2,0.0,communication,other
+1692,3952,59,Control,1,0.0,,
+1693,3953,59,Control,1,0.0,food vender,food/agr
+1694,3954,59,Control,1,0.0,,
+1695,3955,59,Control,1,0.0,food vender,food/agr
+1696,3956,59,Control,1,0.0,kirana store,food/agr
+1697,3957,59,Control,1,0.0,kirana store,food/agr
+1698,3957,59,Control,2,0.0,food vender,food/agr
+1699,3957,59,Control,3,0.0,communication,other
+1700,3958,59,Control,1,0.0,communication,other
+1701,3959,59,Control,1,0.0,product vendor,crafts/vendor
+1702,3960,59,Control,1,0.0,mechanics,repair/construction
+1703,4006,58,Control,1,0.0,kirana store,food/agr
+1704,4007,58,Control,1,1.0,vegetables,other
+1705,4009,58,Control,1,0.0,embroidering,other
+1706,4010,58,Control,1,0.0,milk,other
+1707,4011,58,Control,1,0.0,bicycle,other
+1708,4012,58,Control,1,0.0,vegetables,other
+1709,4013,58,Control,1,0.0,tailoring,clothing
+1710,4016,58,Control,1,0.0,rubber stamps,other
+1711,4017,58,Control,1,0.0,palming,repair/construction
+1712,4019,58,Control,1,0.0,kirana store,food/agr
+1713,4019,58,Control,2,,,
+1714,4020,58,Control,1,0.0,kirana store,food/agr
+1715,4020,58,Control,2,0.0,sound systems,other
+1716,4020,58,Control,3,0.0,kirana store,food/agr
+1717,4022,58,Control,1,0.0,tailoring,clothing
+1718,4023,2,Control,1,0.0,rickshaw,rickshaw/driving
+1719,4024,58,Control,1,1.0,vegetables,other
+1720,4025,58,Control,1,0.0,vegetables,other
+1721,4026,58,Control,1,0.0,Electrician,other
+1722,4027,58,Control,1,0.0,cement shop,other
+1723,4027,58,Control,2,0.0,vegetables,other
+1724,4028,58,Control,1,0.0,food vender,food/agr
+1725,4028,58,Control,2,0.0,food vender,food/agr
+1726,4029,58,Control,1,0.0,vegetables,other
+1727,4030,58,Control,1,0.0,tailoring,clothing
+1728,4031,58,Control,1,0.0,tailoring,clothing
+1729,4032,58,Control,1,0.0,centering,other
+1730,4033,58,Control,1,0.0,mechanics,repair/construction
+1731,4035,58,Control,1,1.0,vegetables,other
+1732,4036,58,Control,1,0.0,contractor,other
+1733,4038,58,Control,1,0.0,kirana store,food/agr
+1734,4039,58,Control,1,0.0,Electrician,other
+1735,4040,58,Control,1,0.0,tailoring,clothing
+1736,4040,58,Control,2,0.0,embroidering,other
+1737,4041,58,Control,1,0.0,hair cutting Sloane,other
+1738,4042,58,Control,1,0.0,hotel,other
+1739,4043,58,Control,1,0.0,kirana store,food/agr
+1740,4043,58,Control,2,0.0,coin box,other
+1741,4043,58,Control,3,0.0,vegetables,other
+1742,4111,58,Control,1,0.0,ironing,clothing
+1743,4111,58,Control,2,,,
+1744,4114,60,Treatment,1,0.0,hair cutting Sloane,other
+1745,4115,60,Treatment,1,0.0,clothes seller,clothing
+1746,4121,60,Treatment,1,1.0,tailoring,clothing
+1747,4122,60,Treatment,1,0.0,kirana store,food/agr
+1748,4122,60,Treatment,2,0.0,communication,other
+1749,4123,60,Treatment,1,0.0,kirana store,food/agr
+1750,4123,60,Treatment,2,1.0,food vender,food/agr
+1751,4123,60,Treatment,3,,communication,other
+1752,4124,60,Treatment,1,0.0,communication,other
+1753,4131,60,Treatment,1,1.0,kirana store,food/agr
+1754,4131,60,Treatment,2,1.0,food vender,food/agr
+1755,4132,60,Treatment,1,0.0,tailoring,clothing
+1756,4132,60,Treatment,2,0.0,communication,other
+1757,4135,60,Treatment,1,0.0,tailoring,clothing
+1758,4136,60,Treatment,1,0.0,hair cutting Sloane,other
+1759,4137,60,Treatment,1,0.0,tailoring,clothing
+1760,4144,60,Treatment,1,1.0,mechanics,repair/construction
+1761,4144,60,Treatment,2,0.0,tailoring,clothing
+1762,4145,60,Treatment,1,0.0,kirana store,food/agr
+1763,4145,60,Treatment,2,0.0,communication,other
+1764,4145,60,Treatment,3,0.0,food vender,food/agr
+1765,4145,60,Treatment,4,0.0,food vender,food/agr
+1766,4145,60,Treatment,5,1.0,food vender,food/agr
+1767,4146,60,Treatment,1,1.0,tailoring,clothing
+1768,4146,60,Treatment,2,0.0,waste paper business,other
+1769,4147,60,Treatment,1,0.0,kirana store,food/agr
+1770,4148,60,Treatment,1,0.0,agriculture,food/agr
+1771,4149,60,Treatment,1,0.0,food vender,food/agr
+1772,4183,63,Treatment,1,0.0,electricals and electronics,other
+1773,4184,63,Treatment,1,1.0,product vendor,crafts/vendor
+1774,4185,63,Treatment,1,0.0,food vender,food/agr
+1775,4186,63,Treatment,1,1.0,communication,other
+1776,4187,63,Treatment,1,0.0,electricals and electronics,other
+1777,4188,63,Treatment,1,0.0,food vender,food/agr
+1778,4189,63,Treatment,1,0.0,food vender,food/agr
+1779,4190,63,Treatment,1,0.0,tailoring,clothing
+1780,4190,63,Treatment,2,,food vender,food/agr
+1781,4192,63,Treatment,1,0.0,food vender,food/agr
+1782,4192,63,Treatment,2,,,
+1783,4193,63,Treatment,1,0.0,electricals and electronics,other
+1784,4193,63,Treatment,2,0.0,food vender,food/agr
+1785,4221,63,Treatment,1,0.0,kirana store,food/agr
+1786,4222,63,Treatment,1,0.0,kirana store,food/agr
+1787,4222,63,Treatment,2,0.0,food vender,food/agr
+1788,4222,63,Treatment,3,,,
+1789,4222,63,Treatment,4,,,
+1790,4222,63,Treatment,5,,,
+1791,4222,63,Treatment,6,,,
+1792,4222,63,Treatment,7,,,
+1793,4222,63,Treatment,8,,,
+1794,4249,64,Control,1,0.0,all fruits selling,other
+1795,4249,64,Control,2,,photographer,other
+1796,4250,64,Control,1,0.0,tailoring,clothing
+1797,4250,64,Control,2,,tailoring,clothing
+1798,4252,64,Control,1,0.0,glass fitting,other
+1799,4254,64,Control,1,0.0,electronic,other
+1800,4254,64,Control,2,,grooming,other
+1801,4255,64,Control,1,0.0,flower seller,other
+1802,4256,64,Control,1,0.0,vegetables,other
+1803,4257,64,Control,1,0.0,milk,other
+1804,4258,64,Control,1,0.0,food vender,food/agr
+1805,4259,64,Control,1,1.0,kirana store,food/agr
+1806,4260,64,Control,1,0.0,kirana store,food/agr
+1807,4260,64,Control,2,,,
+1808,4261,64,Control,1,,flower seller,other
+1809,4262,64,Control,1,0.0,leaf vender,other
+1810,4264,64,Control,1,0.0,kirana store,food/agr
+1811,4264,64,Control,2,,,
+1812,4264,64,Control,3,,,
+1813,4265,64,Control,1,0.0,food vender,food/agr
+1814,4266,65,Treatment,1,0.0,tailoring,clothing
+1815,4269,65,Treatment,1,0.0,tailoring,clothing
+1816,4269,65,Treatment,2,0.0,clothes seller,clothing
+1817,4272,65,Treatment,1,1.0,kirana store,food/agr
+1818,4272,65,Treatment,2,1.0,coin box,other
+1819,4272,65,Treatment,3,1.0,vegetables,other
+1820,4275,65,Treatment,1,0.0,kirana store,food/agr
+1821,4275,65,Treatment,2,0.0,tailoring,clothing
+1822,4275,65,Treatment,3,,coin box,other
+1823,4276,65,Treatment,1,0.0,tailoring,clothing
+1824,4276,65,Treatment,2,0.0,clothes seller,clothing
+1825,4277,65,Treatment,1,0.0,"tea, coffee",food/agr
+1826,4278,65,Treatment,1,0.0,flower seller,other
+1827,4281,63,Treatment,1,1.0,tailoring,clothing
+1828,4281,63,Treatment,2,1.0,kirana store,food/agr
+1829,4281,63,Treatment,3,0.0,clothes seller,clothing
+1830,4282,65,Treatment,1,0.0,tailoring,clothing
+1831,4282,65,Treatment,2,0.0,kirana store,food/agr
+1832,4282,65,Treatment,3,0.0,coin box,other
+1833,4282,65,Treatment,4,0.0,vegetables,other
+1834,4283,65,Treatment,1,0.0,other driving business,rickshaw/driving
+1835,4283,65,Treatment,2,0.0,vegetables,other
+1836,4283,65,Treatment,3,1.0,coin box,other
+1837,4283,65,Treatment,4,0.0,wood sale,other
+1838,4284,65,Treatment,1,0.0,Electrician,other
+1839,4285,65,Treatment,1,0.0,waste paper business,other
+1840,4285,65,Treatment,2,0.0,tailoring,clothing
+1841,4286,65,Treatment,1,0.0,tailoring,clothing
+1842,4286,65,Treatment,2,0.0,all fruits selling,other
+1843,4287,65,Treatment,1,0.0,flower seller,other
+1844,4288,65,Treatment,1,0.0,transport,other
+1845,4289,65,Treatment,1,0.0,transport,other
+1846,4289,65,Treatment,2,0.0,ironing,clothing
+1847,4290,65,Treatment,1,0.0,mechanics,repair/construction
+1848,4292,65,Treatment,1,0.0,tailoring,clothing
+1849,4292,65,Treatment,2,0.0,waste paper business,other
+1850,4293,65,Treatment,1,0.0,painting,other
+1851,4293,65,Treatment,2,,,
+1852,4293,65,Treatment,3,0.0,tailoring,clothing
+1853,4294,65,Treatment,1,0.0,flower seller,other
+1854,4295,65,Treatment,1,0.0,other driving business,rickshaw/driving
+1855,4306,65,Treatment,1,,,
+1856,4308,65,Treatment,1,0.0,vegetables,other
+1857,4309,65,Treatment,1,0.0,tailoring,clothing
+1858,4310,65,Treatment,1,0.0,kirana store,food/agr
+1859,4311,65,Treatment,1,0.0,coconut business,other
+1860,4312,65,Treatment,1,0.0,product vendor,crafts/vendor
+1861,4312,65,Treatment,2,0.0,vegetables,other
+1862,4314,35,Treatment,1,0.0,other driving business,rickshaw/driving
+1863,4315,65,Treatment,1,0.0,"tea, coffee",food/agr
+1864,4317,65,Treatment,1,0.0,other driving business,rickshaw/driving
+1865,4318,65,Treatment,1,0.0,hair cutting Sloane,other
+1866,4355,65,Treatment,1,0.0,fish business,other
+1867,4355,65,Treatment,2,0.0,tailoring,clothing
+1868,4356,65,Treatment,1,0.0,transport,other
+1869,4357,65,Treatment,1,0.0,transport,other
+1870,4358,65,Treatment,1,0.0,centering,other
+1871,4360,65,Treatment,1,0.0,tailoring,clothing
+1872,4364,65,Treatment,1,0.0,carpenter,repair/construction
+1873,4367,65,Treatment,1,0.0,vegetables,other
+1874,4372,66,Treatment,1,,coin box,other
+1875,4375,66,Treatment,1,0.0,sweet shop,other
+1876,4377,66,Treatment,1,1.0,kirana store,food/agr
+1877,4378,66,Treatment,1,0.0,hotel,other
+1878,4379,66,Treatment,1,0.0,other driving business,rickshaw/driving
+1879,4381,66,Treatment,1,1.0,painting,other
+1880,4382,66,Treatment,1,0.0,hotel,other
+1881,4384,66,Treatment,1,0.0,kirana store,food/agr
+1882,4386,66,Treatment,1,0.0,mechanics,repair/construction
+1883,4387,66,Treatment,1,0.0,kirana store,food/agr
+1884,4388,66,Treatment,1,0.0,clothes seller,clothing
+1885,4389,66,Treatment,1,0.0,carpenter,repair/construction
+1886,4390,66,Treatment,1,0.0,transport,other
+1887,4391,66,Treatment,1,0.0,milk,other
+1888,4392,66,Treatment,1,0.0,ironing,clothing
+1889,4393,66,Treatment,1,0.0,clothes seller,clothing
+1890,4394,66,Treatment,1,0.0,"tea, coffee",food/agr
+1891,4395,66,Treatment,1,0.0,agriculture,food/agr
+1892,4396,66,Treatment,1,0.0,art/crafters,crafts/vendor
+1893,4397,66,Treatment,1,0.0,kirana store,food/agr
+1894,4398,66,Treatment,1,1.0,kirana store,food/agr
+1895,4401,66,Treatment,1,0.0,transport,other
+1896,4401,66,Treatment,2,0.0,vegetables,other
+1897,4402,66,Treatment,1,0.0,carpenter,repair/construction
+1898,4402,66,Treatment,2,0.0,coin box,other
+1899,4402,66,Treatment,3,1.0,food vender,food/agr
+1900,4403,66,Treatment,1,1.0,kirana store,food/agr
+1901,4404,66,Treatment,1,0.0,other driving business,rickshaw/driving
+1902,4447,66,Treatment,1,1.0,clothes seller,clothing
+1903,4499,67,Treatment,1,0.0,kirana store,food/agr
+1904,4500,67,Treatment,1,0.0,painting,other
+1905,4501,67,Treatment,1,0.0,vegetables,other
+1906,4501,67,Treatment,2,0.0,coin box,other
+1907,4501,67,Treatment,3,0.0,Tiffin center,other
+1908,4503,67,Treatment,1,1.0,real estate,other
+1909,4504,67,Treatment,1,0.0,tailoring,clothing
+1910,4505,67,Treatment,1,0.0,tailoring,clothing
+1911,4506,67,Treatment,1,0.0,vegetables,other
+1912,4508,67,Treatment,1,1.0,hotel,other
+1913,4509,67,Treatment,1,0.0,tailoring,clothing
+1914,4515,67,Treatment,1,0.0,rickshaw,rickshaw/driving
+1915,4515,67,Treatment,2,0.0,tailoring,clothing
+1916,4516,67,Treatment,1,0.0,Molding,other
+1917,4517,67,Treatment,1,,bangles,other
+1918,4518,67,Treatment,1,0.0,tailoring,clothing
+1919,4519,67,Treatment,1,0.0,bicycle,other
+1920,4520,67,Treatment,1,0.0,carpenter,repair/construction
+1921,4520,67,Treatment,2,0.0,tailoring,clothing
+1922,4521,67,Treatment,1,1.0,gutka shop,other
+1923,4522,67,Treatment,1,0.0,kirana store,food/agr
+1924,4522,67,Treatment,2,1.0,coin box,other
+1925,4523,67,Treatment,1,0.0,other driving business,rickshaw/driving
+1926,4524,74,Control,1,0.0,electronic,other
+1927,4525,67,Treatment,1,0.0,tailoring,clothing
+1928,4526,67,Treatment,1,0.0,kirana store,food/agr
+1929,4526,67,Treatment,2,,coin box,other
+1930,4526,67,Treatment,3,1.0,coin box,other
+1931,4527,67,Treatment,1,0.0,kirana store,food/agr
+1932,4527,67,Treatment,2,0.0,clothes seller,clothing
+1933,4528,67,Treatment,1,0.0,kirana store,food/agr
+1934,4528,67,Treatment,2,,STD,other
+1935,4528,67,Treatment,3,0.0,coin box,other
+1936,4529,67,Treatment,1,0.0,agriculture,food/agr
+1937,4530,67,Treatment,1,0.0,tailoring,clothing
+1938,4531,67,Treatment,1,0.0,kirana store,food/agr
+1939,4531,67,Treatment,2,0.0,coin box,other
+1940,4532,67,Treatment,1,0.0,Electrician,other
+1941,4533,67,Treatment,1,0.0,embroidering,other
+1942,4558,67,Treatment,1,0.0,palming,repair/construction
+1943,4559,67,Treatment,1,1.0,kirana store,food/agr
+1944,4563,67,Treatment,1,0.0,tailoring,clothing
+1945,4564,67,Treatment,1,0.0,cool drink,other
+1946,4568,67,Treatment,1,1.0,embroidering,other
+1947,4569,67,Treatment,1,0.0,kirana store,food/agr
+1948,4569,67,Treatment,2,0.0,coin box,other
+1949,4569,67,Treatment,3,0.0,vegetables,other
+1950,4571,67,Treatment,1,0.0,pickles business,other
+1951,4580,67,Treatment,1,0.0,gutka shop,other
+1952,4580,67,Treatment,2,1.0,coin box,other
+1953,4580,67,Treatment,3,0.0,tailoring,clothing
+1954,4582,67,Treatment,1,0.0,tailoring,clothing
+1955,4582,67,Treatment,2,1.0,bicycle,other
+1956,4582,67,Treatment,3,0.0,clothes seller,clothing
+1957,4583,36,Control,1,0.0,kirana store,food/agr
+1958,4583,36,Control,2,0.0,vegetables,other
+1959,4586,50,Treatment,1,0.0,palming,repair/construction
+1960,4586,50,Treatment,2,0.0,sound systems,other
+1961,4596,41,Treatment,1,0.0,goat business,other
+1962,4597,41,Treatment,1,0.0,agriculture,food/agr
+1963,4597,41,Treatment,2,0.0,milk,other
+1964,4598,41,Treatment,1,0.0,kirana store,food/agr
+1965,4598,41,Treatment,2,0.0,chemicals,other
+1966,4599,41,Treatment,1,0.0,agriculture,food/agr
+1967,4599,41,Treatment,2,0.0,milk,other
+1968,4600,41,Treatment,1,0.0,toddy business,other
+1969,4601,41,Treatment,1,0.0,Buffalos business,other
+1970,4601,41,Treatment,2,0.0,toddy business,other
+1971,4602,47,Treatment,1,0.0,baskets,other
+1972,4603,47,Treatment,1,0.0,finance,other
+1973,4604,47,Treatment,1,0.0,baskets,other
+1974,4605,47,Treatment,1,0.0,tailoring,clothing
+1975,4605,47,Treatment,2,0.0,tailoring,clothing
+1976,4607,62,Control,1,0.0,tailoring,clothing
+1977,4608,62,Control,1,0.0,carpenter,repair/construction
+1978,4610,67,Treatment,1,0.0,ironing,clothing
+1979,4611,67,Treatment,1,0.0,kirana store,food/agr
+1980,4620,68,Treatment,1,1.0,kirana store,food/agr
+1981,4620,68,Treatment,2,1.0,food vender,food/agr
+1982,4620,68,Treatment,3,1.0,food vender,food/agr
+1983,4635,68,Treatment,1,0.0,tailoring,clothing
+1984,4636,68,Treatment,1,0.0,tailoring,clothing
+1985,4637,68,Treatment,1,0.0,kirana store,food/agr
+1986,4638,68,Treatment,1,0.0,other driving business,rickshaw/driving
+1987,4639,68,Treatment,1,0.0,tailoring,clothing
+1988,4640,68,Treatment,1,0.0,food vender,food/agr
+1989,4641,68,Treatment,1,0.0,communication,other
+1990,4641,68,Treatment,2,0.0,food vender,food/agr
+1991,4641,68,Treatment,3,0.0,kirana store,food/agr
+1992,4641,68,Treatment,4,0.0,food vender,food/agr
+1993,4642,68,Treatment,1,0.0,kirana store,food/agr
+1994,4642,68,Treatment,2,0.0,communication,other
+1995,4643,68,Treatment,1,0.0,other driving business,rickshaw/driving
+1996,4644,68,Treatment,1,0.0,other driving business,rickshaw/driving
+1997,4645,68,Treatment,1,0.0,food vender,food/agr
+1998,4646,68,Treatment,1,0.0,kirana store,food/agr
+1999,4646,68,Treatment,2,0.0,food vender,food/agr
+2000,4646,68,Treatment,3,0.0,communication,other
+2001,4647,68,Treatment,1,1.0,kirana store,food/agr
+2002,4647,68,Treatment,2,1.0,food vender,food/agr
+2003,4647,68,Treatment,3,1.0,communication,other
+2004,4649,68,Treatment,1,0.0,food vender,food/agr
+2005,4650,68,Treatment,1,0.0,tailoring,clothing
+2006,4653,68,Treatment,1,0.0,grooming,other
+2007,4653,68,Treatment,2,1.0,food vender,food/agr
+2008,4653,68,Treatment,3,,,
+2009,4656,68,Treatment,1,0.0,tailoring,clothing
+2010,4656,68,Treatment,2,1.0,communication,other
+2011,4656,68,Treatment,3,0.0,technology,other
+2012,4656,68,Treatment,4,0.0,other driving business,rickshaw/driving
+2013,4657,68,Treatment,1,0.0,construction,repair/construction
+2014,4658,68,Treatment,1,0.0,other driving business,rickshaw/driving
+2015,4658,68,Treatment,2,0.0,construction,repair/construction
+2016,4658,68,Treatment,3,0.0,tailoring,clothing
+2017,4659,68,Treatment,1,0.0,construction,repair/construction
+2018,4664,68,Treatment,1,0.0,priest,other
+2019,4666,68,Treatment,1,1.0,food vender,food/agr
+2020,4667,68,Treatment,1,0.0,food vender,food/agr
+2021,4668,68,Treatment,1,0.0,product vendor,crafts/vendor
+2022,4670,68,Treatment,1,1.0,other driving business,rickshaw/driving
+2023,4671,68,Treatment,1,0.0,priest,other
+2024,4673,69,Treatment,1,0.0,clothes seller,clothing
+2025,4673,69,Treatment,2,0.0,clothes seller,clothing
+2026,4674,69,Treatment,1,0.0,mechanics,repair/construction
+2027,4675,69,Treatment,1,0.0,food vender,food/agr
+2028,4676,69,Treatment,1,1.0,beautician,other
+2029,4677,69,Treatment,1,0.0,water supplier,other
+2030,4677,69,Treatment,2,0.0,other driving business,rickshaw/driving
+2031,4678,69,Treatment,1,0.0,other driving business,rickshaw/driving
+2032,4679,69,Treatment,1,,,
+2033,4679,69,Treatment,2,0.0,kirana store,food/agr
+2034,4680,69,Treatment,1,0.0,tailoring,clothing
+2035,4680,69,Treatment,2,1.0,technology,other
+2036,4680,69,Treatment,3,0.0,gutka shop,other
+2037,4682,69,Treatment,1,0.0,communication,other
+2038,4683,69,Treatment,1,1.0,tailoring,clothing
+2039,4683,69,Treatment,2,1.0,communication,other
+2040,4684,69,Treatment,1,0.0,health care,other
+2041,4686,69,Treatment,1,0.0,other driving business,rickshaw/driving
+2042,4687,69,Treatment,1,1.0,tailoring,clothing
+2043,4688,69,Treatment,1,1.0,kirana store,food/agr
+2044,4688,69,Treatment,2,1.0,tailoring,clothing
+2045,4688,69,Treatment,3,0.0,communication,other
+2046,4689,69,Treatment,1,0.0,clothes seller,clothing
+2047,4691,69,Treatment,1,0.0,tailoring,clothing
+2048,4691,69,Treatment,2,0.0,other driving business,rickshaw/driving
+2049,4692,69,Treatment,1,0.0,mechanics,repair/construction
+2050,4692,69,Treatment,2,,,
+2051,4692,69,Treatment,3,0.0,transport,other
+2052,4692,69,Treatment,4,0.0,kirana store,food/agr
+2053,4693,69,Treatment,1,0.0,kirana store,food/agr
+2054,4693,69,Treatment,2,,,
+2055,4693,69,Treatment,3,0.0,tailoring,clothing
+2056,4693,69,Treatment,4,0.0,transport,other
+2057,4693,69,Treatment,5,0.0,clothes seller,clothing
+2058,4693,69,Treatment,6,0.0,tailoring,clothing
+2059,4694,69,Treatment,1,1.0,kirana store,food/agr
+2060,4694,69,Treatment,2,,,
+2061,4694,69,Treatment,3,0.0,communication,other
+2062,4694,69,Treatment,4,0.0,vegetables,other
+2063,4694,69,Treatment,5,0.0,ironing,clothing
+2064,4694,69,Treatment,6,0.0,coin box,other
+2065,4719,69,Treatment,1,0.0,mechanics,repair/construction
+2066,4721,69,Treatment,1,0.0,pan shop,other
+2067,4723,69,Treatment,1,0.0,tailoring,clothing
+2068,4724,69,Treatment,1,0.0,clothes seller,clothing
+2069,4725,69,Treatment,1,0.0,other driving business,rickshaw/driving
+2070,4726,69,Treatment,1,1.0,tailoring,clothing
+2071,4727,69,Treatment,1,0.0,other driving business,rickshaw/driving
+2072,4728,69,Treatment,1,0.0,food vender,food/agr
+2073,4729,69,Treatment,1,0.0,kirana store,food/agr
+2074,4729,69,Treatment,2,0.0,communication,other
+2075,4771,69,Treatment,1,1.0,hair cutting Sloane,other
+2076,4771,69,Treatment,2,1.0,kirana store,food/agr
+2077,4771,69,Treatment,3,1.0,communication,other
+2078,4773,48,Control,1,0.0,livestock,other
+2079,4775,48,Control,1,0.0,tailoring,clothing
+2080,4775,48,Control,2,,communication,other
+2081,4786,48,Control,1,0.0,waste paper business,other
+2082,4786,48,Control,2,0.0,pan shop,other
+2083,4787,48,Control,1,0.0,tailoring,clothing
+2084,4787,48,Control,2,0.0,tailoring,clothing
+2085,4788,48,Control,1,1.0,tailoring,clothing
+2086,4788,48,Control,2,0.0,other driving business,rickshaw/driving
+2087,4788,48,Control,3,,,
+2088,4788,48,Control,4,,,
+2089,4788,48,Control,5,0.0,kirana store,food/agr
+2090,4788,48,Control,6,0.0,vegetables,other
+2091,4788,48,Control,7,0.0,STD,other
+2092,4790,48,Control,1,0.0,product vendor,crafts/vendor
+2093,4791,48,Control,1,0.0,other driving business,rickshaw/driving
+2094,4794,48,Control,1,0.0,kirana store,food/agr
+2095,4794,48,Control,2,,,
+2096,4796,48,Control,1,,,
+2097,4796,48,Control,2,0.0,other driving business,rickshaw/driving
+2098,4803,48,Control,1,0.0,rickshaw,rickshaw/driving
+2099,4804,48,Control,1,0.0,other driving business,rickshaw/driving
+2100,4804,48,Control,2,0.0,ration shop,other
+2101,4805,48,Control,1,0.0,florist,crafts/vendor
+2102,4807,48,Control,1,0.0,tailoring,clothing
+2103,4809,48,Control,1,0.0,kirana store,food/agr
+2104,4809,48,Control,2,0.0,food vender,food/agr
+2105,4815,48,Control,1,0.0,tailoring,clothing
+2106,4820,42,Treatment,1,0.0,tailoring,clothing
+2107,4820,42,Treatment,2,0.0,food vender,food/agr
+2108,4831,48,Control,1,,,
+2109,4831,48,Control,2,0.0,rickshaw,rickshaw/driving
+2110,4834,48,Control,1,0.0,steel items selling,other
+2111,4836,48,Control,1,0.0,tailoring,clothing
+2112,4837,48,Control,1,0.0,water supplier,other
+2113,4839,48,Control,1,0.0,florist,crafts/vendor
+2114,4840,48,Control,1,0.0,other driving business,rickshaw/driving
+2115,4842,48,Control,1,0.0,tailoring,clothing
+2116,4848,48,Control,1,0.0,tailoring,clothing
+2117,4849,48,Control,1,0.0,tailoring,clothing
+2118,4852,48,Control,1,0.0,tailoring,clothing
+2119,4856,48,Control,1,1.0,food vender,food/agr
+2120,4858,48,Control,1,1.0,other driving business,rickshaw/driving
+2121,4860,48,Control,1,0.0,"tea, coffee",food/agr
+2122,4860,48,Control,2,0.0,communication,other
+2123,4862,48,Control,1,0.0,tailoring,clothing
+2124,4863,48,Control,1,0.0,other driving business,rickshaw/driving
+2125,4866,41,Treatment,1,0.0,food vender,food/agr
+2126,4867,41,Treatment,1,,,
+2127,4867,41,Treatment,2,0.0,clothes seller,clothing
+2128,4879,70,Treatment,1,0.0,product vendor,crafts/vendor
+2129,4881,70,Treatment,1,0.0,kirana store,food/agr
+2130,4882,70,Treatment,1,0.0,technology,other
+2131,4883,70,Treatment,1,0.0,communication,other
+2132,4884,70,Treatment,1,0.0,food vender,food/agr
+2133,4885,70,Treatment,1,0.0,tailoring,clothing
+2134,4886,70,Treatment,1,0.0,other driving business,rickshaw/driving
+2135,4887,70,Treatment,1,0.0,kirana store,food/agr
+2136,4888,70,Treatment,1,0.0,kirana store,food/agr
+2137,4889,70,Treatment,1,0.0,food vender,food/agr
+2138,4890,70,Treatment,1,0.0,ironing,clothing
+2139,4891,70,Treatment,1,,,
+2140,4891,70,Treatment,2,0.0,ironing,clothing
+2141,4892,70,Treatment,1,0.0,mechanics,repair/construction
+2142,4893,70,Treatment,1,0.0,ironing,clothing
+2143,4893,70,Treatment,2,1.0,communication,other
+2144,4894,70,Treatment,1,0.0,other driving business,rickshaw/driving
+2145,4894,70,Treatment,2,0.0,communication,other
+2146,4894,70,Treatment,3,,,
+2147,4894,70,Treatment,4,0.0,kirana store,food/agr
+2148,4894,70,Treatment,5,0.0,vegetables,other
+2149,4894,70,Treatment,6,0.0,coin box,other
+2150,4895,70,Treatment,1,0.0,food vender,food/agr
+2151,4896,70,Treatment,1,,,
+2152,4896,70,Treatment,2,0.0,food vender,food/agr
+2153,4897,70,Treatment,1,0.0,product vendor,crafts/vendor
+2154,4898,70,Treatment,1,0.0,tailoring,clothing
+2155,4899,70,Treatment,1,0.0,tailoring,clothing
+2156,4899,70,Treatment,2,,,
+2157,4900,70,Treatment,1,0.0,"tea, coffee",food/agr
+2158,4901,70,Treatment,1,,,
+2159,4901,70,Treatment,2,0.0,kirana store,food/agr
+2160,4902,70,Treatment,1,0.0,food vender,food/agr
+2161,4902,70,Treatment,2,0.0,kirana store,food/agr
+2162,4902,70,Treatment,3,0.0,"tea, coffee",food/agr
+2163,4902,70,Treatment,4,0.0,tailoring,clothing
+2164,4903,70,Treatment,1,0.0,communication,other
+2165,4903,70,Treatment,2,0.0,grooming,other
+2166,4903,70,Treatment,3,,,
+2167,4903,70,Treatment,4,0.0,kirana store,food/agr
+2168,4903,70,Treatment,5,0.0,other driving business,rickshaw/driving
+2169,4903,70,Treatment,6,0.0,finance,other
+2170,4904,68,Treatment,1,0.0,other driving business,rickshaw/driving
+2171,4904,68,Treatment,2,1.0,food vender,food/agr
+2172,4904,68,Treatment,3,0.0,communication,other
+2173,4904,68,Treatment,4,1.0,art/crafters,crafts/vendor
+2174,4904,68,Treatment,5,0.0,kirana store,food/agr
+2175,4905,70,Treatment,1,0.0,food vender,food/agr
+2176,4905,70,Treatment,2,1.0,pan shop,other
+2177,4905,70,Treatment,3,,,
+2178,4905,70,Treatment,4,,,
+2179,4906,70,Treatment,1,0.0,grooming,other
+2180,4906,70,Treatment,2,,,
+2181,4906,70,Treatment,3,0.0,communication,other
+2182,4907,70,Treatment,1,0.0,other driving business,rickshaw/driving
+2183,4907,70,Treatment,2,,,
+2184,4908,70,Treatment,1,,,
+2185,4908,70,Treatment,2,0.0,food vender,food/agr
+2186,4909,70,Treatment,1,1.0,rickshaw,rickshaw/driving
+2187,4910,70,Treatment,1,0.0,other driving business,rickshaw/driving
+2188,4911,70,Treatment,1,,,
+2189,4911,70,Treatment,2,0.0,other driving business,rickshaw/driving
+2190,4912,70,Treatment,1,0.0,other driving business,rickshaw/driving
+2191,4912,70,Treatment,2,,,
+2192,4913,70,Treatment,1,0.0,priest,other
+2193,4913,70,Treatment,2,,,
+2194,4914,70,Treatment,1,0.0,ironing,clothing
+2195,4914,70,Treatment,2,0.0,ironing,clothing
+2196,4914,70,Treatment,3,,,
+2197,4914,70,Treatment,4,,,
+2198,4949,70,Treatment,1,0.0,other driving business,rickshaw/driving
+2199,4949,70,Treatment,2,,,
+2200,4962,1,Treatment,1,0.0,other driving business,rickshaw/driving
+2201,4972,9,Control,1,0.0,waste paper business,other
+2202,4979,9,Control,1,0.0,tailoring,clothing
+2203,4981,11,Treatment,1,0.0,water supplier,other
+2204,4994,11,Treatment,1,0.0,other driving business,rickshaw/driving
+2205,4997,18,Treatment,1,1.0,ironing,clothing
+2206,4997,18,Treatment,2,,,
+2207,5000,18,Treatment,1,0.0,material supplier,other
+2208,5005,18,Treatment,1,0.0,livestock,other
+2209,5007,19,Control,1,,,
+2210,5007,19,Control,2,0.0,food vender,food/agr
+2211,5012,20,Treatment,1,0.0,communication,other
+2212,5013,20,Treatment,1,0.0,other driving business,rickshaw/driving
+2213,5015,20,Treatment,1,0.0,food vender,food/agr
+2214,5021,23,Treatment,1,0.0,mechanics,repair/construction
+2215,5022,23,Treatment,1,0.0,entertainment,other
+2216,5030,28,Treatment,1,0.0,kirana store,food/agr
+2217,5030,28,Treatment,2,,coin box,other
+2218,5032,28,Treatment,1,0.0,tailoring,clothing
+2219,5033,36,Control,1,0.0,health care,other
+2220,5034,36,Control,1,1.0,ironing,clothing
+2221,5035,36,Control,1,0.0,milk,other
+2222,5036,31,Treatment,1,0.0,product vendor,crafts/vendor
+2223,5051,46,Treatment,1,0.0,food vender,food/agr
+2224,5054,96,Treatment,1,0.0,rickshaw,rickshaw/driving
+2225,5054,96,Treatment,2,0.0,food vender,food/agr
+2226,5059,47,Treatment,1,0.0,tailoring,clothing
+2227,5060,47,Treatment,1,0.0,carpenter,repair/construction
+2228,5062,48,Control,1,0.0,product vendor,crafts/vendor
+2229,5062,48,Control,2,,,
+2230,5063,48,Control,1,0.0,tailoring,clothing
+2231,5069,43,Control,1,1.0,clothes seller,clothing
+2232,5071,43,Control,1,0.0,other driving business,rickshaw/driving
+2233,5074,51,Control,1,0.0,ironing,clothing
+2234,5079,53,Control,1,0.0,food vender,food/agr
+2235,5083,54,Treatment,1,,,
+2236,5083,54,Treatment,2,0.0,tailoring,clothing
+2237,5085,54,Treatment,1,0.0,other driving business,rickshaw/driving
+2238,5088,54,Treatment,1,0.0,art/crafters,crafts/vendor
+2239,5090,55,Control,1,0.0,carpenter,repair/construction
+2240,5090,55,Control,2,,other driving business,rickshaw/driving
+2241,5091,55,Control,1,0.0,rickshaw,rickshaw/driving
+2242,5095,55,Control,1,0.0,other driving business,rickshaw/driving
+2243,5099,57,Treatment,1,0.0,waste paper business,other
+2244,5102,57,Treatment,1,0.0,agriculture,food/agr
+2245,5102,57,Treatment,2,0.0,tailoring,clothing
+2246,5104,57,Treatment,1,0.0,tailoring,clothing
+2247,5106,57,Treatment,1,0.0,product vendor,crafts/vendor
+2248,5107,57,Treatment,1,0.0,other driving business,rickshaw/driving
+2249,5114,62,Control,1,0.0,livestock,other
+2250,5114,62,Control,2,0.0,ration shop,other
+2251,5116,63,Treatment,1,0.0,food vender,food/agr
+2252,5116,63,Treatment,2,0.0,food vender,food/agr
+2253,5117,63,Treatment,1,0.0,communication,other
+2254,5117,63,Treatment,2,,,
+2255,5125,67,Treatment,1,0.0,kirana store,food/agr
+2256,5127,67,Treatment,1,0.0,kirana store,food/agr
+2257,5154,71,Control,1,0.0,food vender,food/agr
+2258,5154,71,Control,2,0.0,food vender,food/agr
+2259,5155,71,Control,1,0.0,food vender,food/agr
+2260,5156,71,Control,1,0.0,other driving business,rickshaw/driving
+2261,5157,71,Control,1,0.0,other driving business,rickshaw/driving
+2262,5158,71,Control,1,0.0,food vender,food/agr
+2263,5158,71,Control,2,0.0,food vender,food/agr
+2264,5159,71,Control,1,0.0,florist,crafts/vendor
+2265,5160,71,Control,1,0.0,other driving business,rickshaw/driving
+2266,5161,71,Control,1,0.0,ironing,clothing
+2267,5162,71,Control,1,0.0,food vender,food/agr
+2268,5162,71,Control,2,0.0,food vender,food/agr
+2269,5163,75,Control,1,0.0,other driving business,rickshaw/driving
+2270,5164,71,Control,1,0.0,pan shop,other
+2271,5164,71,Control,2,0.0,communication,other
+2272,5165,71,Control,1,1.0,money transfer/photographer,other
+2273,5166,71,Control,1,0.0,food vender,food/agr
+2274,5167,71,Control,1,0.0,food vender,food/agr
+2275,5167,71,Control,2,0.0,food vender,food/agr
+2276,5167,71,Control,3,0.0,food vender,food/agr
+2277,5167,71,Control,4,0.0,food vender,food/agr
+2278,5167,71,Control,5,0.0,food vender,food/agr
+2279,5167,71,Control,6,0.0,food vender,food/agr
+2280,5167,71,Control,7,0.0,food vender,food/agr
+2281,5167,71,Control,8,0.0,food vender,food/agr
+2282,5168,71,Control,1,0.0,,
+2283,5168,71,Control,2,0.0,carpenter,repair/construction
+2284,5169,71,Control,1,0.0,florist,crafts/vendor
+2285,5169,71,Control,2,0.0,food vender,food/agr
+2286,5170,71,Control,1,0.0,food vender,food/agr
+2287,5170,71,Control,2,0.0,food vender,food/agr
+2288,5170,71,Control,3,0.0,florist,crafts/vendor
+2289,5171,71,Control,1,0.0,other driving business,rickshaw/driving
+2290,5171,71,Control,2,1.0,food vender,food/agr
+2291,5171,71,Control,3,0.0,food vender,food/agr
+2292,5172,71,Control,1,0.0,mixi and grinding,other
+2293,5172,71,Control,2,0.0,kirana store,food/agr
+2294,5172,71,Control,3,1.0,communication,other
+2295,5198,72,Control,1,0.0,kirana store,food/agr
+2296,5201,72,Control,1,0.0,hair cutting Sloane,other
+2297,5201,72,Control,2,0.0,communication,other
+2298,5201,72,Control,3,0.0,tailoring,clothing
+2299,5203,72,Control,1,0.0,tailoring,clothing
+2300,5206,72,Control,1,0.0,kirana store,food/agr
+2301,5206,72,Control,2,0.0,food vender,food/agr
+2302,5206,72,Control,3,0.0,kirana store,food/agr
+2303,5206,72,Control,4,0.0,ration shop,other
+2304,5206,72,Control,5,1.0,communication,other
+2305,5213,72,Control,1,0.0,technology,other
+2306,5219,72,Control,1,0.0,tailoring,clothing
+2307,5220,72,Control,1,0.0,house keeping,other
+2308,5220,72,Control,2,0.0,house keeping,other
+2309,5220,72,Control,3,0.0,house keeping,other
+2310,5223,72,Control,1,0.0,mechanics,repair/construction
+2311,5228,72,Control,1,0.0,ironing,clothing
+2312,5229,72,Control,1,0.0,ironing,clothing
+2313,5231,72,Control,1,0.0,tailoring,clothing
+2314,5232,72,Control,1,0.0,tailoring,clothing
+2315,5233,72,Control,1,0.0,ironing,clothing
+2316,5234,72,Control,1,1.0,other driving business,rickshaw/driving
+2317,5235,72,Control,1,0.0,,
+2318,5236,72,Control,1,0.0,art/crafters,crafts/vendor
+2319,5238,72,Control,1,0.0,construction,repair/construction
+2320,5239,72,Control,1,0.0,health care,other
+2321,5241,73,Control,1,0.0,tailoring,clothing
+2322,5242,73,Control,1,0.0,other driving business,rickshaw/driving
+2323,5243,73,Control,1,0.0,electricals and electronics,other
+2324,5244,73,Control,1,1.0,clothes seller,clothing
+2325,5245,73,Control,1,0.0,other driving business,rickshaw/driving
+2326,5246,73,Control,1,0.0,livestock,other
+2327,5247,73,Control,1,0.0,tailoring,clothing
+2328,5248,73,Control,1,0.0,mechanics,repair/construction
+2329,5248,73,Control,2,1.0,communication,other
+2330,5250,73,Control,1,0.0,food vender,food/agr
+2331,5251,73,Control,1,0.0,technology,other
+2332,5280,73,Control,1,0.0,other driving business,rickshaw/driving
+2333,5281,73,Control,1,0.0,tailoring,clothing
+2334,5281,73,Control,2,0.0,food vender,food/agr
+2335,5281,73,Control,3,0.0,kirana store,food/agr
+2336,5282,73,Control,1,1.0,clothes seller,clothing
+2337,5282,73,Control,2,,,
+2338,5283,73,Control,1,0.0,tailoring,clothing
+2339,5287,73,Control,1,0.0,waste paper business,other
+2340,5288,73,Control,1,0.0,other driving business,rickshaw/driving
+2341,5288,73,Control,2,0.0,communication,other
+2342,5288,73,Control,3,0.0,food vender,food/agr
+2343,5289,73,Control,1,0.0,mechanics,repair/construction
+2344,5293,73,Control,1,0.0,ration shop,other
+2345,5313,74,Control,1,0.0,hair cutting Sloane,other
+2346,5315,74,Control,1,0.0,clothes seller,clothing
+2347,5315,74,Control,2,,,
+2348,5316,74,Control,1,,,
+2349,5316,74,Control,2,0.0,product vendor,crafts/vendor
+2350,5317,74,Control,1,0.0,tent house,other
+2351,5321,74,Control,1,0.0,tailoring,clothing
+2352,5323,74,Control,1,,,
+2353,5323,74,Control,2,0.0,kirana store,food/agr
+2354,5328,74,Control,1,,,
+2355,5328,74,Control,2,0.0,food vender,food/agr
+2356,5331,74,Control,1,0.0,mechanics,repair/construction
+2357,5341,74,Control,1,0.0,construction,repair/construction
+2358,5342,74,Control,1,,,
+2359,5342,74,Control,2,0.0,product vendor,crafts/vendor
+2360,5345,74,Control,1,1.0,communication,other
+2361,5345,74,Control,2,,,
+2362,5346,74,Control,1,,,
+2363,5346,74,Control,2,0.0,food vender,food/agr
+2364,5359,75,Control,1,0.0,communication,other
+2365,5359,75,Control,2,,,
+2366,5359,75,Control,3,1.0,clothes seller,clothing
+2367,5360,75,Control,1,0.0,art/crafters,crafts/vendor
+2368,5361,75,Control,1,0.0,other driving business,rickshaw/driving
+2369,5361,75,Control,2,,,
+2370,5362,75,Control,1,0.0,food vender,food/agr
+2371,5363,75,Control,1,0.0,food vender,food/agr
+2372,5364,75,Control,1,1.0,kirana store,food/agr
+2373,5365,75,Control,1,0.0,kirana store,food/agr
+2374,5366,75,Control,1,0.0,marriage bureau,other
+2375,5366,75,Control,2,0.0,food vender,food/agr
+2376,5366,75,Control,3,0.0,product vendor,crafts/vendor
+2377,5367,75,Control,1,0.0,food vender,food/agr
+2378,5367,75,Control,2,0.0,communication,other
+2379,5368,75,Control,1,0.0,finance,other
+2380,5369,75,Control,1,0.0,kirana store,food/agr
+2381,5369,75,Control,2,0.0,tailoring,clothing
+2382,5370,75,Control,1,0.0,tailoring,clothing
+2383,5371,75,Control,1,0.0,food vender,food/agr
+2384,5371,75,Control,2,0.0,other driving business,rickshaw/driving
+2385,5372,75,Control,1,0.0,other driving business,rickshaw/driving
+2386,5373,75,Control,1,0.0,tailoring,clothing
+2387,5374,75,Control,1,0.0,florist,crafts/vendor
+2388,5374,75,Control,2,,,
+2389,5375,75,Control,1,0.0,steel items selling,other
+2390,5376,75,Control,1,0.0,kirana store,food/agr
+2391,5377,75,Control,1,0.0,other driving business,rickshaw/driving
+2392,5377,75,Control,2,,,
+2393,5378,75,Control,1,0.0,tailoring,clothing
+2394,5379,75,Control,1,1.0,tailoring,clothing
+2395,5379,75,Control,2,,,
+2396,5379,75,Control,3,1.0,kirana store,food/agr
+2397,5380,75,Control,1,0.0,food vender,food/agr
+2398,5380,75,Control,2,,,
+2399,5381,75,Control,1,,,
+2400,5381,75,Control,2,1.0,communication,other
+2401,5382,75,Control,1,,,
+2402,5382,75,Control,2,0.0,communication,other
+2403,5418,76,Treatment,1,0.0,florist,crafts/vendor
+2404,5419,76,Treatment,1,1.0,other driving business,rickshaw/driving
+2405,5420,76,Treatment,1,,,
+2406,5420,76,Treatment,2,0.0,food vender,food/agr
+2407,5421,76,Treatment,1,0.0,food vender,food/agr
+2408,5422,76,Treatment,1,0.0,tailoring,clothing
+2409,5423,76,Treatment,1,0.0,tailoring,clothing
+2410,5424,76,Treatment,1,0.0,tailoring,clothing
+2411,5425,76,Treatment,1,,,
+2412,5425,76,Treatment,2,0.0,rickshaw,rickshaw/driving
+2413,5426,76,Treatment,1,1.0,other driving business,rickshaw/driving
+2414,5428,76,Treatment,1,0.0,kirana store,food/agr
+2415,5429,76,Treatment,1,0.0,other driving business,rickshaw/driving
+2416,5429,76,Treatment,2,0.0,tailoring,clothing
+2417,5430,76,Treatment,1,0.0,other driving business,rickshaw/driving
+2418,5431,76,Treatment,1,0.0,"tea, coffee",food/agr
+2419,5431,76,Treatment,2,,,
+2420,5431,76,Treatment,3,,,
+2421,5432,76,Treatment,1,0.0,kirana store,food/agr
+2422,5432,76,Treatment,2,1.0,communication,other
+2423,5432,76,Treatment,3,0.0,other driving business,rickshaw/driving
+2424,5433,76,Treatment,1,,,
+2425,5433,76,Treatment,2,0.0,food vender,food/agr
+2426,5434,76,Treatment,1,0.0,other driving business,rickshaw/driving
+2427,5434,76,Treatment,2,,,
+2428,5434,76,Treatment,3,0.0,health care,other
+2429,5435,76,Treatment,1,0.0,communication,other
+2430,5435,76,Treatment,2,,,
+2431,5436,76,Treatment,1,0.0,food vender,food/agr
+2432,5436,76,Treatment,2,,,
+2433,5436,76,Treatment,3,0.0,communication,other
+2434,5437,76,Treatment,1,0.0,other driving business,rickshaw/driving
+2435,5438,76,Treatment,1,0.0,rickshaw,rickshaw/driving
+2436,5454,76,Treatment,1,0.0,rickshaw,rickshaw/driving
+2437,5455,76,Treatment,1,0.0,product vendor,crafts/vendor
+2438,5456,76,Treatment,1,0.0,tailoring,clothing
+2439,5458,77,Treatment,1,0.0,food vender,food/agr
+2440,5459,77,Treatment,1,0.0,tailoring,clothing
+2441,5460,77,Treatment,1,0.0,tailoring,clothing
+2442,5461,77,Treatment,1,0.0,food vender,food/agr
+2443,5461,77,Treatment,2,0.0,other driving business,rickshaw/driving
+2444,5463,77,Treatment,1,0.0,food vender,food/agr
+2445,5463,77,Treatment,2,0.0,food vender,food/agr
+2446,5484,77,Treatment,1,0.0,ironing,clothing
+2447,5489,77,Treatment,1,0.0,kirana store,food/agr
+2448,5489,77,Treatment,2,,,
+2449,5490,77,Treatment,1,1.0,rickshaw,rickshaw/driving
+2450,5490,77,Treatment,2,,,
+2451,5491,77,Treatment,1,,,
+2452,5491,77,Treatment,2,0.0,product vendor,crafts/vendor
+2453,5492,77,Treatment,1,0.0,kirana store,food/agr
+2454,5493,77,Treatment,1,0.0,communication,other
+2455,5493,77,Treatment,2,0.0,tailoring,clothing
+2456,5494,77,Treatment,1,0.0,rickshaw,rickshaw/driving
+2457,5494,77,Treatment,2,0.0,waste paper business,other
+2458,5494,77,Treatment,3,,,
+2459,5495,77,Treatment,1,0.0,tailoring,clothing
+2460,5496,77,Treatment,1,0.0,clothes seller,clothing
+2461,5497,77,Treatment,1,0.0,waste paper business,other
+2462,5498,77,Treatment,1,0.0,food vender,food/agr
+2463,5498,77,Treatment,2,0.0,kirana store,food/agr
+2464,5498,77,Treatment,3,0.0,other driving business,rickshaw/driving
+2465,5499,77,Treatment,1,0.0,art/crafters,crafts/vendor
+2466,5500,77,Treatment,1,0.0,food vender,food/agr
+2467,5501,77,Treatment,1,1.0,kirana store,food/agr
+2468,5501,77,Treatment,2,0.0,food vender,food/agr
+2469,5502,77,Treatment,1,1.0,communication,other
+2470,5502,77,Treatment,2,,,
+2471,5503,77,Treatment,1,0.0,steel items selling,other
+2472,5503,77,Treatment,2,,,
+2473,5505,78,Control,1,1.0,communication,other
+2474,5505,78,Control,2,0.0,tailoring,clothing
+2475,5506,78,Control,1,0.0,kirana store,food/agr
+2476,5507,78,Control,1,0.0,other driving business,rickshaw/driving
+2477,5508,78,Control,1,0.0,clothes seller,clothing
+2478,5509,78,Control,1,0.0,mechanics,repair/construction
+2479,5509,78,Control,2,0.0,kirana store,food/agr
+2480,5510,78,Control,1,0.0,mixi and grinding,other
+2481,5522,78,Control,1,,,
+2482,5522,78,Control,2,0.0,communication,other
+2483,5533,79,Control,1,0.0,technology,other
+2484,5534,79,Control,1,0.0,hair cutting Sloane,other
+2485,5534,79,Control,2,,,
+2486,5534,79,Control,3,0.0,technology,other
+2487,5534,79,Control,4,0.0,food vender,food/agr
+2488,5534,79,Control,5,0.0,finance,other
+2489,5534,79,Control,6,0.0,,
+2490,5535,79,Control,1,0.0,tailoring,clothing
+2491,5536,79,Control,1,0.0,other driving business,rickshaw/driving
+2492,5536,79,Control,2,0.0,tailoring,clothing
+2493,5536,79,Control,3,0.0,tailoring,clothing
+2494,5537,79,Control,1,0.0,tailoring,clothing
+2495,5538,79,Control,1,0.0,other driving business,rickshaw/driving
+2496,5539,79,Control,1,0.0,tailoring,clothing
+2497,5540,79,Control,1,,,
+2498,5540,79,Control,2,0.0,product vendor,crafts/vendor
+2499,5541,79,Control,1,0.0,hair cutting Sloane,other
+2500,5542,79,Control,1,0.0,communication,other
+2501,5542,79,Control,2,0.0,food vender,food/agr
+2502,5543,79,Control,1,0.0,food vender,food/agr
+2503,5544,79,Control,1,0.0,tailoring,clothing
+2504,5545,79,Control,1,0.0,mechanics,repair/construction
+2505,5546,79,Control,1,0.0,product vendor,crafts/vendor
+2506,5547,79,Control,1,,,
+2507,5547,79,Control,2,0.0,carpenter,repair/construction
+2508,5547,79,Control,3,0.0,product vendor,crafts/vendor
+2509,5570,79,Control,1,,,
+2510,5587,81,Control,1,0.0,other driving business,rickshaw/driving
+2511,5588,81,Control,1,0.0,mechanics,repair/construction
+2512,5589,81,Control,1,0.0,rickshaw,rickshaw/driving
+2513,5590,81,Control,1,0.0,other driving business,rickshaw/driving
+2514,5591,81,Control,1,0.0,other driving business,rickshaw/driving
+2515,5592,81,Control,1,0.0,product vendor,crafts/vendor
+2516,5593,81,Control,1,0.0,construction,repair/construction
+2517,5594,81,Control,1,0.0,food vender,food/agr
+2518,5595,81,Control,1,0.0,product vendor,crafts/vendor
+2519,5596,81,Control,1,0.0,other driving business,rickshaw/driving
+2520,5597,81,Control,1,0.0,product vendor,crafts/vendor
+2521,5598,81,Control,1,0.0,clothes seller,clothing
+2522,5599,81,Control,1,1.0,tailoring,clothing
+2523,5600,81,Control,1,0.0,carpenter,repair/construction
+2524,5601,81,Control,1,0.0,tailoring,clothing
+2525,5602,81,Control,1,1.0,product vendor,crafts/vendor
+2526,5603,81,Control,1,0.0,food vender,food/agr
+2527,5604,81,Control,1,0.0,product vendor,crafts/vendor
+2528,5605,81,Control,1,0.0,tailoring,clothing
+2529,5605,81,Control,2,0.0,communication,other
+2530,5605,81,Control,3,0.0,art/crafters,crafts/vendor
+2531,5611,81,Control,1,1.0,kirana store,food/agr
+2532,5612,81,Control,1,0.0,other driving business,rickshaw/driving
+2533,5613,81,Control,1,0.0,tailoring,clothing
+2534,5614,81,Control,1,0.0,money transfer/photographer,other
+2535,5614,81,Control,2,0.0,carpenter,repair/construction
+2536,5614,81,Control,3,,,
+2537,5615,81,Control,1,0.0,other driving business,rickshaw/driving
+2538,5643,2,Control,1,0.0,other driving business,rickshaw/driving
+2539,5643,2,Control,2,0.0,mechanics,repair/construction
+2540,5643,2,Control,3,,,
+2541,5643,2,Control,4,,,
+2542,5705,80,Control,1,1.0,product vendor,crafts/vendor
+2543,5706,80,Control,1,0.0,mechanics,repair/construction
+2544,5706,80,Control,2,0.0,communication,other
+2545,5707,80,Control,1,0.0,communication,other
+2546,5722,80,Control,1,0.0,tailoring,clothing
+2547,5724,80,Control,1,0.0,food vender,food/agr
+2548,5725,80,Control,1,0.0,kirana store,food/agr
+2549,5725,80,Control,2,0.0,communication,other
+2550,5726,80,Control,1,0.0,florist,crafts/vendor
+2551,5727,80,Control,1,0.0,food vender,food/agr
+2552,5729,80,Control,1,0.0,tailoring,clothing
+2553,5735,80,Control,1,0.0,food vender,food/agr
+2554,5735,80,Control,2,0.0,communication,other
+2555,5737,80,Control,1,,,
+2556,5737,80,Control,2,0.0,ironing,clothing
+2557,5738,80,Control,1,0.0,ironing,clothing
+2558,5752,36,Control,1,0.0,other driving business,rickshaw/driving
+2559,5753,82,Control,1,0.0,hair cutting Sloane,other
+2560,5753,82,Control,2,0.0,hair cutting Sloane,other
+2561,5753,82,Control,3,0.0,hair cutting Sloane,other
+2562,5754,82,Control,1,0.0,food vender,food/agr
+2563,5754,82,Control,2,0.0,mechanics,repair/construction
+2564,5755,82,Control,1,0.0,rickshaw,rickshaw/driving
+2565,5755,82,Control,2,1.0,rickshaw,rickshaw/driving
+2566,5755,82,Control,3,1.0,kirana store,food/agr
+2567,5755,82,Control,4,1.0,communication,other
+2568,5756,82,Control,1,0.0,kirana store,food/agr
+2569,5756,82,Control,2,0.0,other driving business,rickshaw/driving
+2570,5756,82,Control,3,1.0,communication,other
+2571,5756,82,Control,4,0.0,food vender,food/agr
+2572,5757,82,Control,1,0.0,food vender,food/agr
+2573,5757,82,Control,2,0.0,communication,other
+2574,5757,82,Control,3,0.0,other driving business,rickshaw/driving
+2575,5758,82,Control,1,0.0,clothes seller,clothing
+2576,5758,82,Control,2,0.0,food vender,food/agr
+2577,5759,82,Control,1,0.0,mechanics,repair/construction
+2578,5759,82,Control,2,0.0,clothes seller,clothing
+2579,5760,82,Control,1,1.0,"tea, coffee",food/agr
+2580,5761,82,Control,1,0.0,other driving business,rickshaw/driving
+2581,5761,82,Control,2,0.0,other driving business,rickshaw/driving
+2582,5761,82,Control,3,0.0,clothes seller,clothing
+2583,5762,82,Control,1,1.0,tailoring,clothing
+2584,5763,82,Control,1,0.0,other driving business,rickshaw/driving
+2585,5764,82,Control,1,0.0,clothes seller,clothing
+2586,5765,82,Control,1,0.0,kirana store,food/agr
+2587,5765,82,Control,2,0.0,communication,other
+2588,5766,82,Control,1,0.0,food vender,food/agr
+2589,5767,82,Control,1,,pan shop,other
+2590,5768,82,Control,1,0.0,agriculture,food/agr
+2591,5769,82,Control,1,0.0,rickshaw,rickshaw/driving
+2592,5770,82,Control,1,0.0,food vender,food/agr
+2593,5771,82,Control,1,0.0,agriculture,food/agr
+2594,5772,82,Control,1,0.0,food vender,food/agr
+2595,5773,82,Control,1,0.0,agriculture,food/agr
+2596,5774,82,Control,1,0.0,tailoring,clothing
+2597,5775,82,Control,1,0.0,other driving business,rickshaw/driving
+2598,5777,82,Control,1,0.0,other driving business,rickshaw/driving
+2599,5777,82,Control,2,,,
+2600,5778,82,Control,1,0.0,other driving business,rickshaw/driving
+2601,5779,82,Control,1,0.0,food vender,food/agr
+2602,5780,82,Control,1,0.0,food vender,food/agr
+2603,5780,82,Control,2,0.0,clothes seller,clothing
+2604,5781,82,Control,1,0.0,kirana store,food/agr
+2605,5781,82,Control,2,,food vender,food/agr
+2606,5781,82,Control,3,0.0,communication,other
+2607,5782,82,Control,1,0.0,food vender,food/agr
+2608,5783,82,Control,1,0.0,food vender,food/agr
+2609,5784,82,Control,1,0.0,kirana store,food/agr
+2610,5784,82,Control,2,0.0,communication,other
+2611,5785,82,Control,1,0.0,other driving business,rickshaw/driving
+2612,5786,82,Control,1,0.0,food vender,food/agr
+2613,5787,82,Control,1,0.0,food vender,food/agr
+2614,5788,82,Control,1,0.0,tailoring,clothing
+2615,5789,82,Control,1,0.0,food vender,food/agr
+2616,5790,82,Control,1,0.0,tailoring,clothing
+2617,5791,82,Control,1,0.0,mechanics,repair/construction
+2618,5792,82,Control,1,0.0,mechanics,repair/construction
+2619,5793,82,Control,1,0.0,"tea, coffee",food/agr
+2620,5794,82,Control,1,1.0,product vendor,crafts/vendor
+2621,5795,82,Control,1,1.0,food vender,food/agr
+2622,5796,82,Control,1,0.0,food vender,food/agr
+2623,5797,82,Control,1,0.0,mechanics,repair/construction
+2624,5798,82,Control,1,0.0,food vender,food/agr
+2625,5799,82,Control,1,0.0,tailoring,clothing
+2626,5863,86,Control,1,0.0,waste paper business,other
+2627,5864,86,Control,1,0.0,other driving business,rickshaw/driving
+2628,5865,86,Control,1,1.0,all fruits selling,other
+2629,5866,86,Control,1,0.0,other driving business,rickshaw/driving
+2630,5868,86,Control,1,0.0,all fruits selling,other
+2631,5869,86,Control,1,0.0,all fruits selling,other
+2632,5869,86,Control,2,0.0,all fruits selling,other
+2633,5870,86,Control,1,0.0,all fruits selling,other
+2634,5870,86,Control,2,0.0,all fruits selling,other
+2635,5871,86,Control,1,1.0,other driving business,rickshaw/driving
+2636,5871,86,Control,2,1.0,other driving business,rickshaw/driving
+2637,5873,86,Control,1,0.0,other driving business,rickshaw/driving
+2638,5874,86,Control,1,1.0,bangles,other
+2639,5877,86,Control,1,0.0,tailoring,clothing
+2640,5877,86,Control,2,0.0,ironing,clothing
+2641,5879,86,Control,1,0.0,milk,other
+2642,5880,86,Control,1,0.0,milk,other
+2643,5881,86,Control,1,1.0,waste paper business,other
+2644,5881,86,Control,2,0.0,all fruits selling,other
+2645,5882,86,Control,1,0.0,steel items selling,other
+2646,5884,86,Control,1,0.0,waste paper business,other
+2647,5885,86,Control,1,0.0,,
+2648,5886,86,Control,1,0.0,all fruits selling,other
+2649,5888,86,Control,1,0.0,milk,other
+2650,5889,86,Control,1,0.0,waste paper business,other
+2651,5889,86,Control,2,0.0,tailoring,clothing
+2652,5892,86,Control,1,0.0,Tiffin center,other
+2653,5893,86,Control,1,0.0,transport,other
+2654,5895,86,Control,1,0.0,all fruits selling,other
+2655,5898,86,Control,1,0.0,waste paper business,other
+2656,5900,86,Control,1,0.0,tailoring,clothing
+2657,5900,86,Control,2,0.0,transport,other
+2658,5900,86,Control,3,0.0,transport,other
+2659,5909,86,Control,1,0.0,all fruits selling,other
+2660,5909,86,Control,2,,steel items selling,other
+2661,5910,83,Control,1,0.0,construction,repair/construction
+2662,5912,83,Control,1,0.0,"tea, coffee",food/agr
+2663,5913,83,Control,1,0.0,food vender,food/agr
+2664,5914,83,Control,1,0.0,food vender,food/agr
+2665,5915,83,Control,1,0.0,other driving business,rickshaw/driving
+2666,5915,83,Control,2,0.0,food vender,food/agr
+2667,5916,83,Control,1,0.0,food vender,food/agr
+2668,5916,83,Control,2,0.0,other driving business,rickshaw/driving
+2669,5916,83,Control,3,0.0,other driving business,rickshaw/driving
+2670,5917,83,Control,1,0.0,kirana store,food/agr
+2671,5917,83,Control,2,0.0,communication,other
+2672,5917,83,Control,3,0.0,waste paper business,other
+2673,5917,83,Control,4,0.0,food vender,food/agr
+2674,5917,83,Control,5,0.0,waste paper business,other
+2675,5918,83,Control,1,0.0,kirana store,food/agr
+2676,5918,83,Control,2,0.0,communication,other
+2677,5919,83,Control,1,0.0,food vender,food/agr
+2678,5919,83,Control,2,0.0,other driving business,rickshaw/driving
+2679,5920,83,Control,1,0.0,food vender,food/agr
+2680,5920,83,Control,2,0.0,kirana store,food/agr
+2681,5920,83,Control,3,0.0,waste paper business,other
+2682,5921,83,Control,1,1.0,ration shop,other
+2683,5921,83,Control,2,0.0,kirana store,food/agr
+2684,5922,83,Control,1,1.0,art/crafters,crafts/vendor
+2685,5922,83,Control,2,0.0,clothes seller,clothing
+2686,5923,83,Control,1,0.0,other driving business,rickshaw/driving
+2687,5924,83,Control,1,1.0,other driving business,rickshaw/driving
+2688,5925,83,Control,1,0.0,pan shop,other
+2689,5926,83,Control,1,0.0,other driving business,rickshaw/driving
+2690,5927,83,Control,1,0.0,metals/jewelry,other
+2691,5927,83,Control,2,0.0,,
+2692,5927,83,Control,3,0.0,real estate,other
+2693,5928,83,Control,1,0.0,kirana store,food/agr
+2694,5928,83,Control,2,0.0,communication,other
+2695,5928,83,Control,3,,,
+2696,5929,83,Control,1,0.0,kirana store,food/agr
+2697,5929,83,Control,2,0.0,communication,other
+2698,5930,83,Control,1,1.0,food vender,food/agr
+2699,5931,83,Control,1,0.0,food vender,food/agr
+2700,5932,83,Control,1,0.0,kirana store,food/agr
+2701,5932,83,Control,2,0.0,communication,other
+2702,5934,83,Control,1,0.0,other driving business,rickshaw/driving
+2703,5935,83,Control,1,0.0,tailoring,clothing
+2704,5935,83,Control,2,,food vender,food/agr
+2705,5936,83,Control,1,0.0,other driving business,rickshaw/driving
+2706,5937,83,Control,1,0.0,clothes seller,clothing
+2707,5938,83,Control,1,0.0,kirana store,food/agr
+2708,5938,83,Control,2,,communication,other
+2709,5938,83,Control,3,0.0,communication,other
+2710,5939,83,Control,1,0.0,food vender,food/agr
+2711,5975,83,Control,1,1.0,beautician,other
+2712,6008,85,Control,1,0.0,food vender,food/agr
+2713,6009,85,Control,1,0.0,kirana store,food/agr
+2714,6009,85,Control,2,0.0,food vender,food/agr
+2715,6009,85,Control,3,1.0,communication,other
+2716,6010,85,Control,1,0.0,food vender,food/agr
+2717,6011,85,Control,1,0.0,ironing,clothing
+2718,6012,85,Control,1,0.0,printing/publishing,other
+2719,6013,85,Control,1,0.0,florist,crafts/vendor
+2720,6015,85,Control,1,0.0,mechanics,repair/construction
+2721,6024,85,Control,1,0.0,other driving business,rickshaw/driving
+2722,6039,35,Treatment,1,0.0,tent house,other
+2723,6041,84,Treatment,1,0.0,photographer,other
+2724,6043,84,Treatment,1,0.0,Tiffin center,other
+2725,6044,84,Treatment,1,0.0,rickshaw,rickshaw/driving
+2726,6046,92,Treatment,1,0.0,vegetables,other
+2727,6047,84,Treatment,1,0.0,tailoring,clothing
+2728,6049,84,Treatment,1,0.0,pots business,other
+2729,6050,84,Treatment,1,0.0,kirana store,food/agr
+2730,6050,84,Treatment,2,0.0,milk,other
+2731,6052,84,Treatment,1,0.0,kirana store,food/agr
+2732,6052,84,Treatment,2,0.0,wet grinder business,other
+2733,6052,84,Treatment,3,0.0,"tea, coffee",food/agr
+2734,6053,84,Treatment,1,0.0,other driving business,rickshaw/driving
+2735,6054,84,Treatment,1,0.0,goat business,other
+2736,6055,84,Treatment,1,0.0,kirana store,food/agr
+2737,6055,84,Treatment,2,,coin box,other
+2738,6055,84,Treatment,3,0.0,clothes seller,clothing
+2739,6056,84,Treatment,1,0.0,kirana store,food/agr
+2740,6057,84,Treatment,1,0.0,finance,other
+2741,6058,84,Treatment,1,0.0,ironing,clothing
+2742,6058,84,Treatment,2,0.0,ironing,clothing
+2743,6059,84,Treatment,1,0.0,sound systems,other
+2744,6060,84,Treatment,1,0.0,"tea, coffee",food/agr
+2745,6061,84,Treatment,1,0.0,other driving business,rickshaw/driving
+2746,6062,84,Treatment,1,0.0,real estate,other
+2747,6063,84,Treatment,1,0.0,tailoring,clothing
+2748,6064,84,Treatment,1,0.0,kirana store,food/agr
+2749,6065,84,Treatment,1,0.0,kirana store,food/agr
+2750,6066,84,Treatment,1,0.0,tailoring,clothing
+2751,6067,84,Treatment,1,,other driving business,rickshaw/driving
+2752,6068,84,Treatment,1,1.0,carpenter,repair/construction
+2753,6119,84,Treatment,1,0.0,"tea, coffee",food/agr
+2754,6120,84,Treatment,1,1.0,art/crafters,crafts/vendor
+2755,6121,84,Treatment,1,1.0,clothes seller,clothing
+2756,6122,84,Treatment,1,1.0,clothes seller,clothing
+2757,6122,84,Treatment,2,0.0,other driving business,rickshaw/driving
+2758,6123,84,Treatment,1,0.0,vegetables,other
+2759,6123,84,Treatment,2,0.0,clothes seller,clothing
+2760,6124,84,Treatment,1,,"tea, coffee",food/agr
+2761,6161,87,Control,1,0.0,tailoring,clothing
+2762,6167,87,Control,1,0.0,ironing,clothing
+2763,6167,87,Control,2,0.0,kirana store,food/agr
+2764,6167,87,Control,3,0.0,communication,other
+2765,6217,87,Control,1,0.0,"tea, coffee",food/agr
+2766,6219,87,Control,1,0.0,tailoring,clothing
+2767,6220,87,Control,1,0.0,rickshaw,rickshaw/driving
+2768,6223,87,Control,1,0.0,food vender,food/agr
+2769,6225,87,Control,1,0.0,tailoring,clothing
+2770,6226,87,Control,1,0.0,other driving business,rickshaw/driving
+2771,6227,87,Control,1,0.0,communication,other
+2772,6228,85,Control,1,0.0,tailoring,clothing
+2773,6229,87,Control,1,0.0,mechanics,repair/construction
+2774,6230,87,Control,1,0.0,rickshaw,rickshaw/driving
+2775,6231,87,Control,1,0.0,other driving business,rickshaw/driving
+2776,6231,87,Control,2,0.0,food vender,food/agr
+2777,6232,87,Control,1,0.0,mechanics,repair/construction
+2778,6233,87,Control,1,0.0,communication,other
+2779,6234,87,Control,1,1.0,construction,repair/construction
+2780,6235,87,Control,1,0.0,tailoring,clothing
+2781,6236,87,Control,1,0.0,food vender,food/agr
+2782,6236,87,Control,2,0.0,food vender,food/agr
+2783,6237,87,Control,1,0.0,food vender,food/agr
+2784,6238,87,Control,1,0.0,product vendor,crafts/vendor
+2785,6240,87,Control,1,0.0,kirana store,food/agr
+2786,6240,87,Control,2,0.0,food vender,food/agr
+2787,6240,87,Control,3,0.0,food vender,food/agr
+2788,6241,87,Control,1,0.0,clothes seller,clothing
+2789,6242,87,Control,1,0.0,kirana store,food/agr
+2790,6242,87,Control,2,0.0,tailoring,clothing
+2791,6243,87,Control,1,1.0,kirana store,food/agr
+2792,6243,87,Control,2,1.0,rickshaw,rickshaw/driving
+2793,6245,88,Treatment,1,0.0,kirana store,food/agr
+2794,6246,88,Treatment,1,0.0,tailoring,clothing
+2795,6246,88,Treatment,2,,food vender,food/agr
+2796,6247,88,Treatment,1,0.0,rickshaw,rickshaw/driving
+2797,6247,88,Treatment,2,0.0,rickshaw,rickshaw/driving
+2798,6248,88,Treatment,1,,toddy business,other
+2799,6248,88,Treatment,2,0.0,tailoring,clothing
+2800,6249,88,Treatment,1,0.0,mechanics,repair/construction
+2801,6249,88,Treatment,2,1.0,communication,other
+2802,6250,88,Treatment,1,0.0,tailoring,clothing
+2803,6250,88,Treatment,2,0.0,tailoring,clothing
+2804,6250,88,Treatment,3,,other driving business,rickshaw/driving
+2805,6251,88,Treatment,1,0.0,rickshaw,rickshaw/driving
+2806,6252,88,Treatment,1,0.0,kirana store,food/agr
+2807,6252,88,Treatment,2,0.0,communication,other
+2808,6253,88,Treatment,1,0.0,food vender,food/agr
+2809,6254,88,Treatment,1,0.0,communication,other
+2810,6255,88,Treatment,1,0.0,mechanics,repair/construction
+2811,6256,88,Treatment,1,0.0,tailoring,clothing
+2812,6257,88,Treatment,1,0.0,tailoring,clothing
+2813,6257,88,Treatment,2,0.0,communication,other
+2814,6258,88,Treatment,1,0.0,kirana store,food/agr
+2815,6258,88,Treatment,2,0.0,communication,other
+2816,6262,88,Treatment,1,0.0,construction,repair/construction
+2817,6263,88,Treatment,1,1.0,clothes seller,clothing
+2818,6264,88,Treatment,1,0.0,communication,other
+2819,6264,88,Treatment,2,0.0,waste paper business,other
+2820,6265,88,Treatment,1,1.0,communication,other
+2821,6265,88,Treatment,2,1.0,kirana store,food/agr
+2822,6266,88,Treatment,1,0.0,kirana store,food/agr
+2823,6266,88,Treatment,2,0.0,tour guide,repair/construction
+2824,6267,88,Treatment,1,1.0,food vender,food/agr
+2825,6268,88,Treatment,1,0.0,pan shop,other
+2826,6269,88,Treatment,1,0.0,tailoring,clothing
+2827,6269,88,Treatment,2,0.0,communication,other
+2828,6269,88,Treatment,3,0.0,priest,other
+2829,6271,88,Treatment,1,1.0,mechanics,repair/construction
+2830,6272,88,Treatment,1,0.0,kirana store,food/agr
+2831,6272,88,Treatment,2,0.0,communication,other
+2832,6272,88,Treatment,3,,waste paper business,other
+2833,6272,88,Treatment,4,,other driving business,rickshaw/driving
+2834,6273,88,Treatment,1,0.0,food vender,food/agr
+2835,6275,88,Treatment,1,1.0,other driving business,rickshaw/driving
+2836,6276,88,Treatment,1,0.0,kirana store,food/agr
+2837,6298,88,Treatment,1,1.0,kirana store,food/agr
+2838,6298,88,Treatment,2,1.0,communication,other
+2839,6299,88,Treatment,1,,other driving business,rickshaw/driving
+2840,6310,89,Treatment,1,0.0,rickshaw,rickshaw/driving
+2841,6311,89,Treatment,1,0.0,kirana store,food/agr
+2842,6311,89,Treatment,2,,communication,other
+2843,6312,89,Treatment,1,0.0,food vender,food/agr
+2844,6312,89,Treatment,2,0.0,kirana store,food/agr
+2845,6312,89,Treatment,3,0.0,communication,other
+2846,6313,89,Treatment,1,0.0,kirana store,food/agr
+2847,6313,89,Treatment,2,1.0,communication,other
+2848,6314,89,Treatment,1,0.0,other driving business,rickshaw/driving
+2849,6315,89,Treatment,1,0.0,kirana store,food/agr
+2850,6316,89,Treatment,1,0.0,tailoring,clothing
+2851,6317,89,Treatment,1,0.0,kirana store,food/agr
+2852,6318,89,Treatment,1,0.0,rickshaw,rickshaw/driving
+2853,6319,2,Control,1,0.0,kirana store,food/agr
+2854,6319,2,Control,2,0.0,food vender,food/agr
+2855,6320,89,Treatment,1,0.0,kirana store,food/agr
+2856,6320,89,Treatment,2,0.0,food vender,food/agr
+2857,6320,89,Treatment,3,0.0,communication,other
+2858,6321,89,Treatment,1,0.0,tailoring,clothing
+2859,6322,89,Treatment,1,1.0,kirana store,food/agr
+2860,6322,89,Treatment,2,1.0,communication,other
+2861,6323,89,Treatment,1,0.0,rickshaw,rickshaw/driving
+2862,6324,89,Treatment,1,0.0,rickshaw,rickshaw/driving
+2863,6346,90,Treatment,1,1.0,water supplier,other
+2864,6346,90,Treatment,2,0.0,tailoring,clothing
+2865,6348,90,Treatment,1,0.0,Tiffin center,other
+2866,6349,90,Treatment,1,0.0,ironing,clothing
+2867,6350,90,Treatment,1,1.0,clothes seller,clothing
+2868,6351,90,Treatment,1,0.0,rickshaw,rickshaw/driving
+2869,6352,90,Treatment,1,0.0,vegetables,other
+2870,6353,90,Treatment,1,1.0,Electrician,other
+2871,6355,90,Treatment,1,0.0,tailoring,clothing
+2872,6356,90,Treatment,1,0.0,ironing,clothing
+2873,6357,90,Treatment,1,1.0,tailoring,clothing
+2874,6358,90,Treatment,1,0.0,tailoring,clothing
+2875,6359,90,Treatment,1,0.0,zinger business,other
+2876,6362,90,Treatment,1,1.0,other driving business,rickshaw/driving
+2877,6362,90,Treatment,2,0.0,other driving business,rickshaw/driving
+2878,6362,90,Treatment,3,0.0,real estate,other
+2879,6383,90,Treatment,1,0.0,clothes seller,clothing
+2880,6395,90,Treatment,1,0.0,rickshaw,rickshaw/driving
+2881,6428,90,Treatment,1,0.0,tailoring,clothing
+2882,6428,90,Treatment,2,0.0,mechanics,repair/construction
+2883,6429,90,Treatment,1,1.0,coin box,other
+2884,6429,90,Treatment,2,1.0,kirana store,food/agr
+2885,6430,90,Treatment,1,0.0,all fruits selling,other
+2886,6430,90,Treatment,2,0.0,vegetables,other
+2887,6434,90,Treatment,1,1.0,product vendor,crafts/vendor
+2888,6435,90,Treatment,1,1.0,kirana store,food/agr
+2889,6435,90,Treatment,2,1.0,coin box,other
+2890,6436,90,Treatment,1,0.0,other driving business,rickshaw/driving
+2891,6437,90,Treatment,1,0.0,entertainment,other
+2892,6438,90,Treatment,1,0.0,tailoring,clothing
+2893,6438,90,Treatment,2,0.0,clothes seller,clothing
+2894,6438,90,Treatment,3,1.0,kirana store,food/agr
+2895,6438,90,Treatment,4,1.0,coin box,other
+2896,6439,90,Treatment,1,0.0,tailoring,clothing
+2897,6441,90,Treatment,1,1.0,food vender,food/agr
+2898,6441,90,Treatment,2,1.0,communication,other
+2899,6441,90,Treatment,3,0.0,clothes seller,clothing
+2900,6441,90,Treatment,4,1.0,food vender,food/agr
+2901,6441,90,Treatment,5,1.0,kirana store,food/agr
+2902,6442,90,Treatment,1,0.0,bangles,other
+2903,6442,90,Treatment,2,0.0,Electrician,other
+2904,6442,90,Treatment,3,0.0,coin box,other
+2905,6442,90,Treatment,4,,,
+2906,6443,90,Treatment,1,0.0,food vender,food/agr
+2907,6443,90,Treatment,2,,,
+2908,6443,90,Treatment,3,0.0,coin box,other
+2909,6443,90,Treatment,4,0.0,vegetables,other
+2910,6443,90,Treatment,5,0.0,kirana store,food/agr
+2911,6444,90,Treatment,1,0.0,tailoring,clothing
+2912,6444,90,Treatment,2,0.0,rickshaw,rickshaw/driving
+2913,6445,90,Treatment,1,0.0,kirana store,food/agr
+2914,6445,90,Treatment,2,0.0,coin box,other
+2915,6445,90,Treatment,3,0.0,vegetables,other
+2916,6445,90,Treatment,4,1.0,food vender,food/agr
+2917,6446,90,Treatment,1,0.0,other driving business,rickshaw/driving
+2918,6446,90,Treatment,2,0.0,tailoring,clothing
+2919,6447,90,Treatment,1,0.0,other driving business,rickshaw/driving
+2920,6448,90,Treatment,1,1.0,coin box,other
+2921,6449,90,Treatment,1,0.0,tailoring,clothing
+2922,6451,90,Treatment,1,0.0,other driving business,rickshaw/driving
+2923,6452,90,Treatment,1,0.0,mechanics,repair/construction
+2924,6453,90,Treatment,1,0.0,other driving business,rickshaw/driving
+2925,6454,90,Treatment,1,0.0,clothes seller,clothing
+2926,6455,90,Treatment,1,0.0,other driving business,rickshaw/driving
+2927,6455,90,Treatment,2,0.0,coin box,other
+2928,6458,91,Control,1,0.0,construction,repair/construction
+2929,6458,91,Control,2,0.0,electricals and electronics,other
+2930,6458,91,Control,3,,,
+2931,6458,91,Control,4,0.0,tailoring,clothing
+2932,6458,91,Control,5,0.0,coin box,other
+2933,6459,91,Control,1,,,
+2934,6459,91,Control,2,0.0,food vender,food/agr
+2935,6460,91,Control,1,,,
+2936,6460,91,Control,2,,,
+2937,6460,91,Control,3,,,
+2938,6461,91,Control,1,0.0,palming,repair/construction
+2939,6461,91,Control,2,0.0,kirana store,food/agr
+2940,6462,91,Control,1,0.0,tailoring,clothing
+2941,6462,91,Control,2,,,
+2942,6463,91,Control,1,1.0,communication,other
+2943,6463,91,Control,2,,,
+2944,6463,91,Control,3,1.0,other driving business,rickshaw/driving
+2945,6464,91,Control,1,0.0,other driving business,rickshaw/driving
+2946,6464,91,Control,2,,,
+2947,6464,91,Control,3,0.0,other driving business,rickshaw/driving
+2948,6465,91,Control,1,0.0,tailoring,clothing
+2949,6465,91,Control,2,1.0,product vendor,crafts/vendor
+2950,6466,91,Control,1,0.0,food vender,food/agr
+2951,6466,91,Control,2,,,
+2952,6467,91,Control,1,0.0,food vender,food/agr
+2953,6468,91,Control,1,1.0,other driving business,rickshaw/driving
+2954,6468,91,Control,2,,,
+2955,6469,91,Control,1,0.0,kirana store,food/agr
+2956,6470,91,Control,1,0.0,clothes seller,clothing
+2957,6471,91,Control,1,0.0,other driving business,rickshaw/driving
+2958,6472,91,Control,1,,,
+2959,6473,91,Control,1,1.0,clothes seller,clothing
+2960,6474,91,Control,1,1.0,tailoring,clothing
+2961,6475,91,Control,1,0.0,rickshaw,rickshaw/driving
+2962,6476,91,Control,1,0.0,other driving business,rickshaw/driving
+2963,6477,91,Control,1,0.0,mechanics,repair/construction
+2964,6478,91,Control,1,,,
+2965,6478,91,Control,2,1.0,mixi and grinding,other
+2966,6479,91,Control,1,1.0,communication,other
+2967,6480,91,Control,1,0.0,clothes seller,clothing
+2968,6480,91,Control,2,0.0,construction,repair/construction
+2969,6480,91,Control,3,0.0,product vendor,crafts/vendor
+2970,6529,91,Control,1,1.0,rickshaw,rickshaw/driving
+2971,6530,91,Control,1,0.0,other driving business,rickshaw/driving
+2972,6531,91,Control,1,0.0,other driving business,rickshaw/driving
+2973,6533,91,Control,1,0.0,food vender,food/agr
+2974,6534,91,Control,1,0.0,tailoring,clothing
+2975,6535,91,Control,1,0.0,product vendor,crafts/vendor
+2976,6536,91,Control,1,0.0,food vender,food/agr
+2977,6536,91,Control,2,,,
+2978,6536,91,Control,3,0.0,tailoring,clothing
+2979,6537,91,Control,1,0.0,other driving business,rickshaw/driving
+2980,6538,91,Control,1,0.0,construction,repair/construction
+2981,6539,91,Control,1,1.0,ironing,clothing
+2982,6579,92,Treatment,1,0.0,pigs,other
+2983,6580,92,Treatment,1,0.0,ironing,clothing
+2984,6581,92,Treatment,1,0.0,other driving business,rickshaw/driving
+2985,6582,92,Treatment,1,0.0,tailoring,clothing
+2986,6583,92,Treatment,1,0.0,vegetables,other
+2987,6583,92,Treatment,2,0.0,coin box,other
+2988,6584,92,Treatment,1,0.0,gas cutting,other
+2989,6585,92,Treatment,1,0.0,milk,other
+2990,6586,92,Treatment,1,0.0,milk,other
+2991,6586,92,Treatment,2,0.0,CD shop,other
+2992,6586,92,Treatment,3,,finance,other
+2993,6587,92,Treatment,1,0.0,kirana store,food/agr
+2994,6587,92,Treatment,2,0.0,coin box,other
+2995,6589,92,Treatment,1,0.0,kirana store,food/agr
+2996,6589,92,Treatment,2,0.0,coin box,other
+2997,6590,92,Treatment,1,0.0,other driving business,rickshaw/driving
+2998,6591,92,Treatment,1,0.0,fish business,other
+2999,6592,92,Treatment,1,0.0,wood polish,other
+3000,6593,92,Treatment,1,0.0,all fruits selling,other
+3001,6594,92,Treatment,1,0.0,kirana store,food/agr
+3002,6594,92,Treatment,2,0.0,coin box,other
+3003,6595,92,Treatment,1,0.0,vegetables,other
+3004,6596,92,Treatment,1,0.0,agriculture,food/agr
+3005,6597,92,Treatment,1,0.0,health care,other
+3006,6597,92,Treatment,2,0.0,coin box,other
+3007,6597,92,Treatment,3,0.0,construction,repair/construction
+3008,6598,92,Treatment,1,0.0,kirana store,food/agr
+3009,6598,92,Treatment,2,0.0,coin box,other
+3010,6598,92,Treatment,3,0.0,tailoring,clothing
+3011,6599,92,Treatment,1,0.0,hair cutting Sloane,other
+3012,6600,92,Treatment,1,0.0,milk,other
+3013,6601,92,Treatment,1,0.0,kirana store,food/agr
+3014,6601,92,Treatment,2,0.0,coin box,other
+3015,6601,92,Treatment,3,0.0,kirana store,food/agr
+3016,6602,92,Treatment,1,0.0,tailoring,clothing
+3017,6602,92,Treatment,2,0.0,kirana store,food/agr
+3018,6602,92,Treatment,3,0.0,communication,other
+3019,6603,92,Treatment,1,0.0,pots business,other
+3020,6603,92,Treatment,2,,other driving business,rickshaw/driving
+3021,6604,92,Treatment,1,0.0,kirana store,food/agr
+3022,6604,92,Treatment,2,0.0,tailoring,clothing
+3023,6605,92,Treatment,1,0.0,all fruits selling,other
+3024,6605,92,Treatment,2,1.0,tailoring,clothing
+3025,6606,92,Treatment,1,1.0,kirana store,food/agr
+3026,6606,92,Treatment,2,1.0,coin box,other
+3027,6606,92,Treatment,3,1.0,rickshaw,rickshaw/driving
+3028,6612,93,Control,1,0.0,tailoring,clothing
+3029,6612,93,Control,2,1.0,clothes seller,clothing
+3030,6632,93,Control,1,0.0,other driving business,rickshaw/driving
+3031,6632,93,Control,2,0.0,other driving business,rickshaw/driving
+3032,6632,93,Control,3,0.0,other driving business,rickshaw/driving
+3033,6634,93,Control,1,0.0,real estate,other
+3034,6635,93,Control,1,0.0,kirana store,food/agr
+3035,6635,93,Control,2,0.0,coin box,other
+3036,6636,93,Control,1,0.0,tailoring,clothing
+3037,6637,93,Control,1,0.0,Electrician,other
+3038,6638,93,Control,1,0.0,tailoring,clothing
+3039,6639,93,Control,1,0.0,construction,repair/construction
+3040,6640,93,Control,1,0.0,clothes seller,clothing
+3041,6641,93,Control,1,0.0,tailoring,clothing
+3042,6641,93,Control,2,0.0,other driving business,rickshaw/driving
+3043,6642,93,Control,1,1.0,finance,other
+3044,6642,93,Control,2,0.0,embroidering,other
+3045,6643,93,Control,1,1.0,kirana store,food/agr
+3046,6643,93,Control,2,1.0,coin box,other
+3047,6643,93,Control,3,0.0,kirana store,food/agr
+3048,6643,93,Control,4,0.0,coin box,other
+3049,6644,93,Control,1,0.0,waste paper business,other
+3050,6645,93,Control,1,1.0,real estate,other
+3051,6646,93,Control,1,0.0,chemicals,other
+3052,6647,93,Control,1,0.0,other driving business,rickshaw/driving
+3053,6648,93,Control,1,0.0,waste paper business,other
+3054,6649,93,Control,1,0.0,sound systems,other
+3055,6650,93,Control,1,0.0,clothes seller,clothing
+3056,6658,94,Treatment,1,0.0,rickshaw,rickshaw/driving
+3057,6691,94,Treatment,1,0.0,rickshaw,rickshaw/driving
+3058,6691,94,Treatment,2,,,
+3059,6691,94,Treatment,3,1.0,food vender,food/agr
+3060,6692,94,Treatment,1,0.0,electricals and electronics,other
+3061,6692,94,Treatment,2,,,
+3062,6692,94,Treatment,3,,,
+3063,6692,94,Treatment,4,1.0,other driving business,rickshaw/driving
+3064,6692,94,Treatment,5,,,
+3065,6692,94,Treatment,6,0.0,tailoring,clothing
+3066,6693,94,Treatment,1,,,
+3067,6693,94,Treatment,2,,,
+3068,6693,94,Treatment,3,0.0,kirana store,food/agr
+3069,6693,94,Treatment,4,0.0,food vender,food/agr
+3070,6693,94,Treatment,5,0.0,waste paper business,other
+3071,6694,94,Treatment,1,0.0,tailoring,clothing
+3072,6694,94,Treatment,2,0.0,food vender,food/agr
+3073,6694,94,Treatment,3,0.0,communication,other
+3074,6694,94,Treatment,4,,,
+3075,6695,94,Treatment,1,0.0,clothes seller,clothing
+3076,6695,94,Treatment,2,,,
+3077,6695,94,Treatment,3,1.0,food vender,food/agr
+3078,6695,94,Treatment,4,0.0,tailoring,clothing
+3079,6695,94,Treatment,5,0.0,real estate,other
+3080,6696,94,Treatment,1,0.0,tailoring,clothing
+3081,6696,94,Treatment,2,,,
+3082,6697,94,Treatment,1,0.0,tailoring,clothing
+3083,6697,94,Treatment,2,0.0,tailoring,clothing
+3084,6698,94,Treatment,1,0.0,kirana store,food/agr
+3085,6698,94,Treatment,2,,,
+3086,6698,94,Treatment,3,0.0,tailoring,clothing
+3087,6699,94,Treatment,1,,,
+3088,6699,94,Treatment,2,0.0,other driving business,rickshaw/driving
+3089,6699,94,Treatment,3,0.0,other driving business,rickshaw/driving
+3090,6700,94,Treatment,1,0.0,rickshaw,rickshaw/driving
+3091,6700,94,Treatment,2,0.0,communication,other
+3092,6700,94,Treatment,3,0.0,priest,other
+3093,6700,94,Treatment,4,,,
+3094,6701,94,Treatment,1,,,
+3095,6701,94,Treatment,2,0.0,other driving business,rickshaw/driving
+3096,6702,94,Treatment,1,0.0,other driving business,rickshaw/driving
+3097,6704,94,Treatment,1,,,
+3098,6704,94,Treatment,2,1.0,food vender,food/agr
+3099,6705,94,Treatment,1,,,
+3100,6705,94,Treatment,2,1.0,kirana store,food/agr
+3101,6706,94,Treatment,1,,,
+3102,6706,94,Treatment,2,0.0,food vender,food/agr
+3103,6707,94,Treatment,1,,,
+3104,6707,94,Treatment,2,0.0,food vender,food/agr
+3105,6708,94,Treatment,1,0.0,rickshaw,rickshaw/driving
+3106,6708,94,Treatment,2,,,
+3107,6709,94,Treatment,1,0.0,mechanics,repair/construction
+3108,6710,94,Treatment,1,0.0,kirana store,food/agr
+3109,6711,94,Treatment,1,0.0,other driving business,rickshaw/driving
+3110,6712,94,Treatment,1,0.0,product vendor,crafts/vendor
+3111,6713,94,Treatment,1,0.0,food vender,food/agr
+3112,6713,94,Treatment,2,0.0,food vender,food/agr
+3113,6714,94,Treatment,1,0.0,ironing,clothing
+3114,6715,94,Treatment,1,0.0,construction,repair/construction
+3115,6715,94,Treatment,2,,,
+3116,6716,94,Treatment,1,,,
+3117,6716,94,Treatment,2,0.0,rickshaw,rickshaw/driving
+3118,6717,94,Treatment,1,0.0,kirana store,food/agr
+3119,6718,94,Treatment,1,0.0,other driving business,rickshaw/driving
+3120,6719,94,Treatment,1,0.0,food vender,food/agr
+3121,6722,94,Treatment,1,0.0,art/crafters,crafts/vendor
+3122,6723,94,Treatment,1,,,
+3123,6723,94,Treatment,2,1.0,communication,other
+3124,6724,94,Treatment,1,,,
+3125,6724,94,Treatment,2,1.0,communication,other
+3126,6725,94,Treatment,1,0.0,food vender,food/agr
+3127,6725,94,Treatment,2,,,
+3128,6727,94,Treatment,1,,,
+3129,6727,94,Treatment,2,0.0,ironing,clothing
+3130,6728,94,Treatment,1,0.0,food vender,food/agr
+3131,6731,94,Treatment,1,0.0,food vender,food/agr
+3132,6733,94,Treatment,1,1.0,food vender,food/agr
+3133,6733,94,Treatment,2,0.0,kirana store,food/agr
+3134,6733,94,Treatment,3,,,
+3135,6737,95,Treatment,1,0.0,tailoring,clothing
+3136,6740,95,Treatment,1,0.0,"tea, coffee",food/agr
+3137,6740,95,Treatment,2,0.0,communication,other
+3138,6741,95,Treatment,1,1.0,communication,other
+3139,6765,95,Treatment,1,0.0,tailoring,clothing
+3140,6766,95,Treatment,1,0.0,tailoring,clothing
+3141,6767,95,Treatment,1,0.0,carpenter,repair/construction
+3142,6767,95,Treatment,2,0.0,mechanics,repair/construction
+3143,6770,96,Treatment,1,0.0,livestock,other
+3144,6770,96,Treatment,2,,food vender,food/agr
+3145,6771,96,Treatment,1,1.0,art/crafters,crafts/vendor
+3146,6772,96,Treatment,1,0.0,food vender,food/agr
+3147,6773,96,Treatment,1,0.0,other driving business,rickshaw/driving
+3148,6774,96,Treatment,1,0.0,kirana store,food/agr
+3149,6775,96,Treatment,1,1.0,communication,other
+3150,6775,96,Treatment,2,1.0,other driving business,rickshaw/driving
+3151,6776,96,Treatment,1,0.0,other driving business,rickshaw/driving
+3152,6776,96,Treatment,2,0.0,other driving business,rickshaw/driving
+3153,6777,96,Treatment,1,0.0,kirana store,food/agr
+3154,6778,96,Treatment,1,0.0,rickshaw,rickshaw/driving
+3155,6779,96,Treatment,1,0.0,tailoring,clothing
+3156,6779,96,Treatment,2,0.0,food vender,food/agr
+3157,6780,96,Treatment,1,0.0,waste paper business,other
+3158,6781,96,Treatment,1,0.0,rickshaw,rickshaw/driving
+3159,6782,96,Treatment,1,0.0,food vender,food/agr
+3160,6782,96,Treatment,2,0.0,food vender,food/agr
+3161,6783,96,Treatment,1,0.0,rickshaw,rickshaw/driving
+3162,6783,96,Treatment,2,0.0,rickshaw,rickshaw/driving
+3163,6784,96,Treatment,1,0.0,food vender,food/agr
+3164,6785,96,Treatment,1,0.0,other driving business,rickshaw/driving
+3165,6786,96,Treatment,1,0.0,food vender,food/agr
+3166,6787,96,Treatment,1,0.0,food vender,food/agr
+3167,6788,96,Treatment,1,1.0,other driving business,rickshaw/driving
+3168,6789,96,Treatment,1,0.0,kirana store,food/agr
+3169,6789,96,Treatment,2,0.0,rickshaw,rickshaw/driving
+3170,6790,96,Treatment,1,0.0,other driving business,rickshaw/driving
+3171,6791,96,Treatment,1,1.0,kirana store,food/agr
+3172,6816,97,Control,1,0.0,other driving business,rickshaw/driving
+3173,6816,97,Control,2,0.0,livestock,other
+3174,6823,97,Control,1,0.0,rickshaw,rickshaw/driving
+3175,6824,97,Control,1,0.0,plastics business,other
+3176,6825,97,Control,1,0.0,art/crafters,crafts/vendor
+3177,6826,97,Control,1,0.0,kirana store,food/agr
+3178,6827,97,Control,1,0.0,art/crafters,crafts/vendor
+3179,6828,97,Control,1,0.0,electricals and electronics,other
+3180,6829,97,Control,1,0.0,tailoring,clothing
+3181,6829,97,Control,2,0.0,kirana store,food/agr
+3182,6830,97,Control,1,0.0,rickshaw,rickshaw/driving
+3183,6832,97,Control,1,0.0,other driving business,rickshaw/driving
+3184,6833,97,Control,1,0.0,livestock,other
+3185,6838,97,Control,1,0.0,rickshaw,rickshaw/driving
+3186,6844,97,Control,1,0.0,other driving business,rickshaw/driving
+3187,6846,97,Control,1,0.0,kirana store,food/agr
+3188,6863,98,Treatment,1,0.0,tailoring,clothing
+3189,6864,98,Treatment,1,0.0,plastic glasses business,other
+3190,6865,98,Treatment,1,0.0,flower seller,other
+3191,6865,98,Treatment,2,0.0,flower seller,other
+3192,6865,98,Treatment,3,0.0,flower seller,other
+3193,6866,98,Treatment,1,0.0,clothes seller,clothing
+3194,6866,98,Treatment,2,,coin box,other
+3195,6867,98,Treatment,1,0.0,tailoring,clothing
+3196,6867,98,Treatment,2,0.0,coin box,other
+3197,6868,98,Treatment,1,0.0,construction,repair/construction
+3198,6868,98,Treatment,2,0.0,flower seller,other
+3199,6869,98,Treatment,1,0.0,other driving business,rickshaw/driving
+3200,6869,98,Treatment,2,0.0,other driving business,rickshaw/driving
+3201,6869,98,Treatment,3,0.0,baskets,other
+3202,6870,98,Treatment,1,0.0,clothes seller,clothing
+3203,6871,98,Treatment,1,0.0,tailoring,clothing
+3204,6872,98,Treatment,1,0.0,carpenter,repair/construction
+3205,6873,98,Treatment,1,0.0,rickshaw,rickshaw/driving
+3206,6874,98,Treatment,1,0.0,school,other
+3207,6874,98,Treatment,2,0.0,wet grinder business,other
+3208,6875,98,Treatment,1,0.0,construction,repair/construction
+3209,6876,98,Treatment,1,0.0,ration shop,other
+3210,6876,98,Treatment,2,0.0,tailoring,clothing
+3211,6877,98,Treatment,1,0.0,all fruits selling,other
+3212,6878,98,Treatment,1,0.0,tailoring,clothing
+3213,6879,98,Treatment,1,0.0,rickshaw,rickshaw/driving
+3214,6896,98,Treatment,1,0.0,contractor,other
+3215,6897,98,Treatment,1,0.0,kirana store,food/agr
+3216,6897,98,Treatment,2,0.0,coin box,other
+3217,6898,98,Treatment,1,0.0,carpenter,repair/construction
+3218,6899,98,Treatment,1,0.0,carpenter,repair/construction
+3219,6900,98,Treatment,1,0.0,transport,other
+3220,6901,98,Treatment,1,0.0,tailoring,clothing
+3221,6901,98,Treatment,2,0.0,coin box,other
+3222,6901,98,Treatment,3,0.0,kirana store,food/agr
+3223,6902,98,Treatment,1,0.0,ironing,clothing
+3224,6902,98,Treatment,2,1.0,coin box,other
+3225,6902,98,Treatment,3,0.0,ironing,clothing
+3226,6903,98,Treatment,1,0.0,tailoring,clothing
+3227,6904,98,Treatment,1,0.0,clothes seller,clothing
+3228,6906,98,Treatment,1,0.0,other driving business,rickshaw/driving
+3229,6906,98,Treatment,2,0.0,"tea, coffee",food/agr
+3230,6944,99,Control,1,0.0,mixi and grinding,other
+3231,6944,99,Control,2,0.0,clothes seller,clothing
+3232,6944,99,Control,3,0.0,waste paper business,other
+3233,6944,99,Control,4,0.0,kirana store,food/agr
+3234,6944,99,Control,5,0.0,carpenter,repair/construction
+3235,6944,99,Control,6,0.0,communication,other
+3236,6945,99,Control,1,0.0,other driving business,rickshaw/driving
+3237,6946,99,Control,1,0.0,communication,other
+3238,6947,99,Control,1,0.0,other driving business,rickshaw/driving
+3239,6948,99,Control,1,0.0,electricals and electronics,other
+3240,6966,99,Control,1,0.0,mechanics,repair/construction
+3241,6967,99,Control,1,0.0,art/crafters,crafts/vendor
+3242,6968,99,Control,1,0.0,clothes seller,clothing
+3243,6992,100,Treatment,1,0.0,tailoring,clothing
+3244,6993,100,Treatment,1,0.0,"tea, coffee",food/agr
+3245,6993,100,Treatment,2,0.0,food vender,food/agr
+3246,6993,100,Treatment,3,0.0,communication,other
+3247,6994,100,Treatment,1,1.0,tailoring,clothing
+3248,6994,100,Treatment,2,0.0,hair cutting Sloane,other
+3249,6995,100,Treatment,1,0.0,food vender,food/agr
+3250,6996,100,Treatment,1,0.0,tailoring,clothing
+3251,6996,100,Treatment,2,0.0,other driving business,rickshaw/driving
+3252,6997,100,Treatment,1,0.0,tailoring,clothing
+3253,6998,100,Treatment,1,0.0,ironing,clothing
+3254,6999,100,Treatment,1,0.0,clothes seller,clothing
+3255,6999,100,Treatment,2,0.0,clothes seller,clothing
+3256,7000,100,Treatment,1,0.0,other driving business,rickshaw/driving
+3257,7000,100,Treatment,2,,tailoring,clothing
+3258,7004,100,Treatment,1,0.0,tailoring,clothing
+3259,7005,100,Treatment,1,1.0,agriculture,food/agr
+3260,7006,100,Treatment,1,0.0,food vender,food/agr
+3261,7007,100,Treatment,1,0.0,rickshaw,rickshaw/driving
+3262,7008,100,Treatment,1,0.0,rickshaw,rickshaw/driving
+3263,7009,100,Treatment,1,0.0,kirana store,food/agr
+3264,7009,100,Treatment,2,0.0,kirana store,food/agr
+3265,7009,100,Treatment,3,1.0,health care,other
+3266,7010,100,Treatment,1,0.0,art/crafters,crafts/vendor
+3267,7011,100,Treatment,1,0.0,other driving business,rickshaw/driving
+3268,7012,100,Treatment,1,1.0,communication,other
+3269,7012,100,Treatment,2,0.0,mixi and grinding,other
+3270,7013,100,Treatment,1,0.0,ironing,clothing
+3271,7013,100,Treatment,2,0.0,ironing,clothing
+3272,7023,44,Treatment,1,0.0,tailoring,clothing
+3273,7027,72,Control,1,0.0,rickshaw,rickshaw/driving
+3274,7028,18,Treatment,1,0.0,livestock,other
+3275,7033,101,Control,1,0.0,food vender,food/agr
+3276,7034,101,Control,1,0.0,kirana store,food/agr
+3277,7034,101,Control,2,0.0,communication,other
+3278,7034,101,Control,3,,,
+3279,7035,101,Control,1,0.0,rickshaw,rickshaw/driving
+3280,7035,101,Control,2,,,
+3281,7036,101,Control,1,,,
+3282,7036,101,Control,2,0.0,communication,other
+3283,7037,101,Control,1,0.0,other driving business,rickshaw/driving
+3284,7038,101,Control,1,,,
+3285,7038,101,Control,2,0.0,carpenter,repair/construction
+3286,7038,101,Control,3,0.0,other driving business,rickshaw/driving
+3287,7039,101,Control,1,0.0,kirana store,food/agr
+3288,7039,101,Control,2,0.0,communication,other
+3289,7040,101,Control,1,0.0,food vender,food/agr
+3290,7040,101,Control,2,0.0,rickshaw,rickshaw/driving
+3291,7040,101,Control,3,,,
+3292,7040,101,Control,4,0.0,kirana store,food/agr
+3293,7040,101,Control,5,1.0,clothes seller,clothing
+3294,7041,101,Control,1,,,
+3295,7041,101,Control,2,0.0,communication,other
+3296,7044,101,Control,1,0.0,waste paper business,other
+3297,7044,101,Control,2,0.0,communication,other
+3298,7045,101,Control,1,0.0,electricals and electronics,other
+3299,7045,101,Control,2,,,
+3300,7046,101,Control,1,0.0,agriculture,food/agr
+3301,7046,101,Control,2,0.0,communication,other
+3302,7047,101,Control,1,0.0,kirana store,food/agr
+3303,7048,101,Control,1,0.0,other driving business,rickshaw/driving
+3304,7049,101,Control,1,0.0,food vender,food/agr
+3305,7050,101,Control,1,1.0,rickshaw,rickshaw/driving
+3306,7051,101,Control,1,,,
+3307,7051,101,Control,2,0.0,priest,other
+3308,7052,101,Control,1,1.0,food vender,food/agr
+3309,7052,101,Control,2,,,
+3310,7053,101,Control,1,,,
+3311,7053,101,Control,2,0.0,communication,other
+3312,7053,101,Control,3,0.0,tailoring,clothing
+3313,7054,101,Control,1,,,
+3314,7054,101,Control,2,0.0,waste paper business,other
+3315,7054,101,Control,3,0.0,waste paper business,other
+3316,7055,101,Control,1,0.0,tailoring,clothing
+3317,7055,101,Control,2,,,
+3318,7055,101,Control,3,,,
+3319,7056,101,Control,1,,,
+3320,7056,101,Control,2,0.0,food vender,food/agr
+3321,7057,101,Control,1,0.0,tailoring,clothing
+3322,7058,101,Control,1,0.0,food vender,food/agr
+3323,7058,101,Control,2,,,
+3324,7059,101,Control,1,,,
+3325,7059,101,Control,2,0.0,tailoring,clothing
+3326,7060,101,Control,1,1.0,kirana store,food/agr
+3327,7061,101,Control,1,0.0,waste paper business,other
+3328,7062,101,Control,1,,,
+3329,7062,101,Control,2,0.0,food vender,food/agr
+3330,7121,101,Control,1,,,
+3331,7121,101,Control,2,0.0,tailoring,clothing
+3332,7123,101,Control,1,0.0,tailoring,clothing
+3333,7124,101,Control,1,,,
+3334,7124,101,Control,2,0.0,waste paper business,other
+3335,7125,101,Control,1,,,
+3336,7125,101,Control,2,0.0,kirana store,food/agr
+3337,7126,101,Control,1,,,
+3338,7126,101,Control,2,0.0,other driving business,rickshaw/driving
+3339,7127,101,Control,1,0.0,agriculture,food/agr
+3340,7128,101,Control,1,,,
+3341,7128,101,Control,2,1.0,food vender,food/agr
+3342,7130,101,Control,1,0.0,rickshaw,rickshaw/driving
+3343,7131,101,Control,1,0.0,tailoring,clothing
+3344,7132,101,Control,1,0.0,other driving business,rickshaw/driving
+3345,7133,101,Control,1,,,
+3346,7133,101,Control,2,0.0,kirana store,food/agr
+3347,7134,102,Control,1,0.0,rickshaw,rickshaw/driving
+3348,7134,102,Control,2,0.0,tailoring,clothing
+3349,7135,102,Control,1,0.0,clothes seller,clothing
+3350,7135,102,Control,2,0.0,tailoring,clothing
+3351,7136,102,Control,1,0.0,tailoring,clothing
+3352,7137,102,Control,1,0.0,tailoring,clothing
+3353,7138,102,Control,1,0.0,other driving business,rickshaw/driving
+3354,7139,102,Control,1,0.0,other driving business,rickshaw/driving
+3355,7140,102,Control,1,0.0,food vender,food/agr
+3356,7140,102,Control,2,0.0,waste paper business,other
+3357,7142,102,Control,1,0.0,tailoring,clothing
+3358,7142,102,Control,2,0.0,palming,repair/construction
+3359,7143,102,Control,1,0.0,food vender,food/agr
+3360,7157,102,Control,1,0.0,tent house,other
+3361,7158,102,Control,1,0.0,palming,repair/construction
+3362,7159,102,Control,1,0.0,mechanics,repair/construction
+3363,7160,102,Control,1,0.0,tailoring,clothing
+3364,7161,102,Control,1,0.0,kirana store,food/agr
+3365,7161,102,Control,2,0.0,communication,other
+3366,7161,102,Control,3,,,
+3367,7162,102,Control,1,0.0,ironing,clothing
+3368,7163,102,Control,1,1.0,communication,other
+3369,7164,102,Control,1,0.0,mechanics,repair/construction
+3370,7165,102,Control,1,0.0,art/crafters,crafts/vendor
+3371,7166,102,Control,1,0.0,plastics business,other
+3372,7171,102,Control,1,0.0,tailoring,clothing
+3373,7172,102,Control,1,0.0,food vender,food/agr
+3374,7172,102,Control,2,0.0,florist,crafts/vendor
+3375,7173,102,Control,1,0.0,toddy business,other
+3376,7174,102,Control,1,0.0,"tea, coffee",food/agr
+3377,7175,104,Control,1,0.0,ironing,clothing
+3378,7183,104,Control,1,0.0,real estate,other
+3379,7184,104,Control,1,0.0,ironing,clothing
+3380,7214,104,Control,1,0.0,ironing,clothing
+3381,7215,104,Control,1,0.0,ironing,clothing
+3382,7216,104,Control,1,0.0,food vender,food/agr
+3383,7218,104,Control,1,0.0,ration shop,other
+3384,7218,104,Control,2,0.0,other driving business,rickshaw/driving
+3385,7219,104,Control,1,0.0,rickshaw,rickshaw/driving
+3386,7223,104,Control,1,0.0,real estate,other
+3387,7224,104,Control,1,0.0,communication,other
+3388,7225,104,Control,1,0.0,kirana store,food/agr
+3389,7225,104,Control,2,0.0,food vender,food/agr
+3390,7226,104,Control,1,0.0,"tea, coffee",food/agr
+3391,7227,104,Control,1,0.0,kirana store,food/agr
+3392,7228,104,Control,1,0.0,kirana store,food/agr
+3393,7229,104,Control,1,0.0,kirana store,food/agr
+3394,7229,104,Control,2,0.0,communication,other
+3395,7230,104,Control,1,0.0,other driving business,rickshaw/driving
+3396,7230,104,Control,2,0.0,other driving business,rickshaw/driving
+3397,7231,104,Control,1,0.0,real estate,other
+3398,7232,104,Control,1,0.0,ironing,clothing
+3399,7233,104,Control,1,0.0,tailoring,clothing
+3400,7234,104,Control,1,0.0,ironing,clothing
+3401,7235,104,Control,1,0.0,pan shop,other
+3402,7236,104,Control,1,0.0,real estate,other
+3403,7237,104,Control,1,0.0,food vender,food/agr
+3404,7237,104,Control,2,,,
+3405,7238,104,Control,1,0.0,ironing,clothing
+3406,7271,103,Control,1,0.0,kirana store,food/agr
+3407,7273,103,Control,1,0.0,toddy business,other
+3408,7274,103,Control,1,0.0,food vender,food/agr
+3409,7274,103,Control,2,0.0,clothes seller,clothing
+3410,7274,103,Control,3,,,
+3411,7274,103,Control,4,,,
+3412,7277,103,Control,1,,,
+3413,7277,103,Control,2,0.0,mixi and grinding,other
+3414,7278,103,Control,1,0.0,clothes seller,clothing
+3415,7279,103,Control,1,,,
+3416,7279,103,Control,2,,construction,repair/construction
+3417,7280,103,Control,1,,,
+3418,7280,103,Control,2,1.0,communication,other
+3419,7281,103,Control,1,0.0,ironing,clothing
+3420,7281,103,Control,2,,,
+3421,7281,103,Control,3,,,
+3422,7283,103,Control,1,0.0,rickshaw,rickshaw/driving
+3423,7285,103,Control,1,0.0,other driving business,rickshaw/driving
+3424,7286,103,Control,1,0.0,food vender,food/agr
+3425,7287,103,Control,1,0.0,toddy business,other
+3426,7289,103,Control,1,,,
+3427,7289,103,Control,2,0.0,clothes seller,clothing
+3428,7289,103,Control,3,0.0,tailoring,clothing
+3429,7291,103,Control,1,,,
+3430,7291,103,Control,2,0.0,food vender,food/agr
+3431,7293,103,Control,1,0.0,tour guide,repair/construction
+3432,7296,103,Control,1,0.0,construction,repair/construction
+3433,7296,103,Control,2,,,
+3434,7296,103,Control,3,,,
+3435,7296,103,Control,4,,,
+3436,7299,103,Control,1,0.0,food vender,food/agr
+3437,7299,103,Control,2,,,
+3438,7299,103,Control,3,,communication,other
+3439,7299,103,Control,4,,,
+3440,7299,103,Control,5,,,
+3441,7300,103,Control,1,0.0,food vender,food/agr
+3442,7301,103,Control,1,0.0,ironing,clothing
+3443,7302,103,Control,1,1.0,communication,other
